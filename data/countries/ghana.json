@@ -1,6 +1,6 @@
 {
   "name": "Ghana",
-  "currency": "CEDDIS",
+  "currency": "CEDIS",
   "state": [
     {
       "name": "Ahafo",
@@ -143,6 +143,76 @@
         "Wiamoase",
         "Yawkasakrom"
       ]
+    },
+    {
+      "name": "Bono East",
+      "capital": "Techiman",
+      "cities": ["Techiman", "Kintampo", "Atebubu", "Nkoranza", "Yeji"]
+    },
+    {
+      "name": "Brong Ahafo",
+      "capital": "Sunyani",
+      "cities": []
+    },
+    {
+      "name": "Central",
+      "capital": "Cape Coast",
+      "cities": []
+    },
+    {
+      "name": "Eastern",
+      "capital": "Koforidua",
+      "cities": []
+    },
+    {
+      "name": "Greater Accra",
+      "capital": "Accra",
+      "cities": []
+    },
+    {
+      "name": "Northern East",
+      "capital": "Nalerigu",
+      "cities": []
+    },
+    {
+      "name": "Northern",
+      "capital": "Tamale",
+      "cities": []
+    },
+    {
+      "name": "Oti",
+      "capital": "Dambai",
+      "cities": []
+    },
+    {
+      "name": "Savannah",
+      "capital": "Damongo",
+      "cities": []
+    },
+    {
+      "name": "Upper East",
+      "capital": "Bolgatanga",
+      "cities": []
+    },
+    {
+      "name": "Upper West",
+      "capital": "WA",
+      "cities": []
+    },
+    {
+      "name": "Western",
+      "capital": "Sekondi-Takoradi",
+      "cities": []
+    },
+    {
+      "name": "Western North",
+      "capital": "Sefwi Wiaso",
+      "cities": []
+    },
+    {
+      "name": "Volta",
+      "capital": "Ho",
+      "cities": []
     }
   ]
 }
