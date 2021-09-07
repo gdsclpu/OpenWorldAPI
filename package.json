@@ -4,17 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "helmet": "^4.6.0",
     "hpp": "^0.2.3",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2"
   }
 }
