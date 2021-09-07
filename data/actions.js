@@ -1,3 +1,3 @@
 const GHANA = "GHANA";
 
-export { GHANA };
+module.exports = { GHANA };
