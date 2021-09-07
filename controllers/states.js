@@ -1,12 +1,18 @@
-const { GHANA } = require("../data/actions");
+let { GHANA } = require("../data/actions");
 const GhanaData = require("../data/countries/ghana.json");
 
 const getAllStates = async (req, res, next) => {
-  const { country } = req.params.country;
-  switch (country) {
+  let { country } = req.params;
+
+  switch (country.toUpperCase()) {
     case GHANA:
-      let states = GhanaData.state.map((data, index) => data.name);
-      res.send({ states });
+      console.log(country);
+      let states = GhanaData.state.map((data, index) => data.name).sort();
+      res.status(200).send({ states });
+      return;
+
+    default:
+      res.send("Nothingness");
   }
 };
 
