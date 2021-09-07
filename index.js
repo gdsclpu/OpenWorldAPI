@@ -5,7 +5,9 @@ const dotenv = require("dotenv");
 const hpp = require("hpp");
 const path = require("path");
 const helmet = require("helmet");
-// Database importation
+
+// Routes
+const CountriesRoutes = require("./routes/countries");
 
 // Subscribing to unhandledRejections
 process.on("unhandledRejection", (err) => {
@@ -34,6 +36,7 @@ app.use(express.static(path.join(__dirname, "public")));
 const port = process.env.PORT || 3000;
 
 // Routes
+app.use("/countries", CountriesRoutes);
 
 app.listen(port, () => {
   console.log(`Listening on Port ${port}`);
