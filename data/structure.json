@@ -1,0 +1,50 @@
+{
+  "country": "Ghana",
+  "capital": "Accra",
+  "currency": "CEDIS(GHS)",
+  "state": [
+    {
+      "name": "Greater Accra",
+      "capital": "Accra",
+      "district": [
+        {
+          "name": "Ablekuma Central",
+          "city": []
+        },
+        {
+          "name": "Ablekuma North",
+          "city": []
+        },
+        {
+          "name": "Ablekuma West",
+          "city": []
+        },
+        {
+          "name": "Accra",
+          "city": []
+        },
+        {
+          "name": "Ada East"
+        },
+        {
+          "name": "Ada West"
+        },
+        {
+          "name": "Adenta"
+        },
+        {
+          "name": "Ashiaman"
+        },
+        {
+          "name": "Ayawaso Central"
+        },
+        {
+          "name": "Ayawaso East"
+        },
+        {
+          "name": "Ayawaso West"
+        }
+      ]
+    }
+  ]
+}
