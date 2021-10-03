@@ -1,3 +1,4 @@
 const GHANA = "GHANA";
+const INDIA = "INDIA";
 
-module.exports = { GHANA };
+module.exports = { GHANA, INDIA };
