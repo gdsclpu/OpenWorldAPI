@@ -4,8 +4,91 @@
   "currency": "CEDIS(GHS)",
   "states": [
     {
+      "name": "Ahafo Region",
+      "capital": "Goaso",
+      "districts": [
+        {
+          "name": "Asunafo North",
+          "cities": [
+            "Mim",
+            "Goaso",
+            "Akrodie",
+            "Fawohoyeden",
+            "Kasapin",
+            "Ayomso",
+            "Dominase",
+            "Asumura",
+            "Pomaakrom",
+            "Bitre Ahenkro",
+            "Nyamekyebbekyere",
+            "Ampenkro",
+            "Abebresekrom",
+            "Gyabresekrom",
+            "Kwaopotey",
+            "Nyakomqgokrom",
+            "Kofi Mmerekrom",
+            "Daseana",
+            "Gyasikrom"
+          ]
+        },
+        {
+          "name": "Asunafo South",
+          "cities": [
+            "Abuom",
+            "Anwiam",
+            "Camp No.",
+            "Dantano",
+            "Kukuom",
+            "Kwapong",
+            "Noberkaw",
+            "Sankore",
+            "Asarekrom",
+            "Nakete",
+            "Kokooso"
+          ]
+        },
+        {
+          "name": "Asutifi North",
+          "cities": []
+        },
+        {
+          "name": "Asutifi South",
+          "cities": []
+        },
+        {
+          "name": "Tano North",
+          "cities": [
+            "Adrobaa",
+            "Bomaa",
+            "Duayaw Nkwanta",
+            "Subompang",
+            "Susuanso",
+            "Terchire",
+            "Yamfro"
+          ]
+        },
+        {
+          "name": "Tano South",
+          "cities": [
+            "Abease",
+            "Akokoa",
+            "Bakamba",
+            "Bechem",
+            "Cherembo",
+            "Dama-Nkwanta",
+            "Kamampa",
+            "Komfourkrom",
+            "Nyomoase",
+            "Parembo-Sawaba",
+            "Prang",
+            "Zabrama"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Ashanti Region",
-      "capital": "Kumasis",
+      "capital": "Kumasi",
       "districts": [
         {
           "name": "",
