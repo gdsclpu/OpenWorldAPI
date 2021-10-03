@@ -10,6 +10,7 @@ const allStates = (countryData, order = true) => {
         .filter((data) => data !== "");
 };
 
+// -----------DISTRICTS--------------------------------------
 const allDistrictInCountry = (countryData, order) => {
   return order
     ? []
@@ -41,5 +42,9 @@ const allDistrictOfState = (countryData, index, order) => {
         .reverse()
         .filter((data) => data !== "");
 };
+// --------------------------------------------------------------------
+
+// -------------------CITIES-------------------------------------------
+// --------------------------------------------------------------------
 
 module.exports = { allStates, allDistrictInCountry, allDistrictOfState };
