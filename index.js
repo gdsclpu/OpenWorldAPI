@@ -9,6 +9,7 @@ const helmet = require("helmet");
 // Routes
 const CountriesRoutes = require("./routes/countries");
 const StatesRoutes = require("./routes/states");
+const DistrictRoutes = require("./routes/districts");
 
 // Subscribing to unhandledRejections
 process.on("unhandledRejection", (err) => {
@@ -39,6 +40,7 @@ const port = process.env.PORT || 3000;
 // Routes
 app.use("/countries", CountriesRoutes);
 app.use("/states", StatesRoutes);
+app.use("/district", DistrictRoutes);
 
 app.listen(port, () => {
   console.log(`Listening on Port ${port}`);

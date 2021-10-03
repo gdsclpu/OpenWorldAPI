@@ -1,4 +1,4 @@
-const { allStates } = require("../custom/allState");
+const { allStates } = require("../custom/custom");
 let { GHANA, INDIA } = require("../data/actions");
 const GhanaData = require("../data/countries/ghana.json");
 const IndiaData = require("../data/countries/india.json");
