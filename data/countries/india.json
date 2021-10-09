@@ -1,16 +1,14 @@
 {
         "country":"India",
-        "capital":"",
-        "currency":"",
+        "capital":"New Delhi",
+        "currency":"RUPEE(INR)",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"Andaman and Nicobar Islands",
+                "capital":"Port Blair",
                 "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
+                   
+
                 ]
             }
         ]
