@@ -34,8 +34,22 @@
                             "Stewart Island",
                             "Strait Island"    
                         ]
+                    },
+                    {
+                        "name":"South Andaman",
+                        "cities":[
+                            "Bombooflat",
+                            "Garacharma",
+                            "Hutbay",
+                            "Little Andaman",
+                            "North Cinque Island",
+                            "Port Blair",
+                            "Port Cornwallis",
+                            "Swaraj Island",
+                            "Tushnabad",
+                            "Viper Island"    
+                        ]
                     }
-
                 ]
             }
         ]
