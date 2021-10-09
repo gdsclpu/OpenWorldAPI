@@ -7,7 +7,16 @@
                 "name":"Andaman and Nicobar Islands",
                 "capital":"Port Blair",
                 "districts":[
-                   
+                    {
+                        "name":"Nicobar",
+                        "cities":[
+                            "Chowra Island",
+                            "Kondul Island",
+                            "Pulomilo",
+                            "Tillangchong",
+                            "Trinket Island"    
+                        ]
+                    }
 
                 ]
             }
