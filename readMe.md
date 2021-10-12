@@ -26,7 +26,7 @@ Find the way to get informations about countries such as countries, cities, stat
   - state = **Name of state in a country** -> ***REQUIRED***
   - reverse = **Sorting output** -> ***OPTIONAL***
   
-# *Cities*
+<!-- # *Cities*
 - GET -> <**url**>/cities/get/all/cities/country/:country?reverse=false
   - Description: For getting all cities in a country
   - :country = **name of country** -> ***REQUIRED***
@@ -35,4 +35,4 @@ Find the way to get informations about countries such as countries, cities, stat
   - Description: For getting all cities in a particular state of a country
   - :country = **name of country** -> ***REQUIRED***
   - state = **Name of state in a country** -> ***REQUIRED***
-  - reverse = **Sorting output** -> ***OPTIONAL***
+  - reverse = **Sorting output** -> ***OPTIONAL*** -->
