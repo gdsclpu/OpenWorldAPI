@@ -50,16 +50,73 @@ const getAllCitiesOfState = async (req, res, next) => {
       return;
 
     case INDIA:
+      let index = IndiaData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+
+      if (index === -1) {
+        res.status(400).send({ message: "State not found" });
+      }
+      res
+        .status(200)
+        .send({ cities: allCitiesOfState(IndiaData, index, reverse) });
+      return;
+
+    default:
+      res.send("Nothingness");
+  }
+};
+
+const getAllCitiesOfDistrict = async (req, res, next) => {
+  let { country } = req.params;
+  let { reverse, district } = req.query;
+
+  if (!country || !district) {
+    res
+      .status(400)
+      .send({ message: "Please provide both country and district" });
+  }
+
+  reverse = reverse ? (reverse === "false" ? false : true) : true;
+  //   let index;
+  //   for (let i = 0; i < GhanaData.states.length; i++) {
+  //     for (let j = 0; j < GhanaData.states[i].length; j++) {
+  //       for (let k = 0; k < GhanaData.states[i][j].length; k++) {
+  //         if (GhanaData.states[i] === district) {
+  //           console.log(GhanaData.states[i][j]);
+  //         }
+  //       }
+  //     }
+  //   }
+  //   console.log(
+  //     GhanaData.states.map((states) =>
+  //       states.districts.filter(
+  //         (districts) => districts.name.toLowerCase() == district.toLowerCase()
+  //       )
+  //     )
+  //   );
+  switch (country.toUpperCase()) {
+    case GHANA:
+      //   let index = GhanaData.states.findIndex(
+      //     (data) => data.name.toLowerCase() === state.toLowerCase()
+      //   );
+
+      //   if (index === -1) {
+      //     res.status(400).send({ message: "State not found" });
+      //   }
+      //   res
+      //     .status(200)
+      //     .send({ cities: allCitiesOfState(GhanaData, index, reverse) });
+      return;
+
+    case INDIA:
       res.status(200).send({ districts: cities });
       return;
 
     default:
       res.send("Nothingness");
   }
-  //   res.send(cities);
 };
-
-const getAllCitiesOfDistrict = async (req, res, next) => {};
 
 module.exports = {
   getAllCitiesOfDistrict,
