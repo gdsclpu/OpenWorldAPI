@@ -6,11 +6,11 @@ Find the way to get informations about countries such as countries, cities, stat
 - **url** = https://openworldapi.tech/ -> Is the url used when in production
   
 
-## *Countries*
+# *Countries*
 - GET -> <**url**>/countries/get/all
 - GET -> <**url**>/countries/get/all/and/code
 
-## *States*
+# *States*
 - GET -> <**url**>/states/all/country/:country?reverse=false
   - :country = **name of country** -> ***REQUIRED***
   - reverse = **Sorting output** -> ***OPTIONAL***
@@ -22,6 +22,17 @@ Find the way to get informations about countries such as countries, cities, stat
   - For getting all the various districts in a country
 - GET -> <**url**>/districts/get/all/districts/:country?reverse=false&state=Himachal
   - Description: For getting all districts in a state of a particular country
+  - :country = **name of country** -> ***REQUIRED***
+  - state = **Name of state in a country** -> ***REQUIRED***
+  - reverse = **Sorting output** -> ***OPTIONAL***
+  
+# *Cities*
+- GET -> <**url**>/cities/get/all/cities/country/:country?reverse=false
+  - Description: For getting all cities in a country
+  - :country = **name of country** -> ***REQUIRED***
+  - reverse = **Sorting output** -> ***OPTIONAL***
+- GET -> <**url**>/cities/get/all/cities/state/:country?reverse=false&state
+  - Description: For getting all cities in a particular state of a country
   - :country = **name of country** -> ***REQUIRED***
   - state = **Name of state in a country** -> ***REQUIRED***
   - reverse = **Sorting output** -> ***OPTIONAL***
