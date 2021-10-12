@@ -23,9 +23,7 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
       return;
 
     case INDIA:
-      res
-        .status(200)
-        .send({ districts: allDistrictInCountry(IndiaData, reverse) });
+      res.status(200).send({ districts: allStates(IndiaData, reverse) });
       return;
 
     default:
@@ -43,9 +41,10 @@ const getAllDistrictOfState = async (req, res, next) => {
 
   reverse = reverse ? (reverse === "false" ? false : true) : true;
 
+  let index;
   switch (country.toUpperCase()) {
     case GHANA:
-      let index = GhanaData.states.findIndex(
+      index = GhanaData.states.findIndex(
         (data) => data.name.toLowerCase() === state.toLowerCase()
       );
       if (index === -1) {
@@ -59,7 +58,7 @@ const getAllDistrictOfState = async (req, res, next) => {
       return;
 
     case INDIA:
-      let index = IndiaData.states.findIndex(
+      index = IndiaData.states.findIndex(
         (data) => data.name.toLowerCase() === state.toLowerCase()
       );
       if (index === -1) {

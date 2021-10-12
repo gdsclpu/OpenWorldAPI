@@ -35,9 +35,11 @@ const getAllCitiesOfState = async (req, res, next) => {
   }
 
   reverse = reverse ? (reverse === "false" ? false : true) : true;
+
+  let index;
   switch (country.toUpperCase()) {
     case GHANA:
-      let index = GhanaData.states.findIndex(
+      index = GhanaData.states.findIndex(
         (data) => data.name.toLowerCase() === state.toLowerCase()
       );
 
@@ -50,7 +52,7 @@ const getAllCitiesOfState = async (req, res, next) => {
       return;
 
     case INDIA:
-      let index = IndiaData.states.findIndex(
+      index = IndiaData.states.findIndex(
         (data) => data.name.toLowerCase() === state.toLowerCase()
       );
 
