@@ -378,7 +378,91 @@
       "capital": "Cape Coast",
       "districts": [
         {
-          "name": "",
+          "name": "Abura/Asebu/Kwamankese",
+          "cities": []
+        },
+        {
+          "name": "Agona East",
+          "cities": []
+        },
+        {
+          "name": "Agona West Municipal",
+          "cities": []
+        },
+        {
+          "name": "Ajumako/Enyan/Essiam",
+          "cities": []
+        },
+        {
+          "name": "Asikuma Odoben Brakwa",
+          "cities": []
+        },
+        {
+          "name": "Assin Central",
+          "cities": []
+        },
+        {
+          "name": "Assin North",
+          "cities": []
+        },
+        {
+          "name": "Assin South",
+          "cities": []
+        },
+        {
+          "name": "Awutu Senya East",
+          "cities": []
+        },
+        {
+          "name": "Awutu Senya West",
+          "cities": []
+        },
+        {
+          "name": "Cape Coast",
+          "cities": []
+        },
+        {
+          "name": "Effutu",
+          "cities": []
+        },
+        {
+          "name": "Ekumfi",
+          "cities": []
+        },
+        {
+          "name": "Gomoa East",
+          "cities": []
+        },
+        {
+          "name": "Gomoa Central",
+          "cities": []
+        },
+        {
+          "name": "Gomoa West",
+          "cities": []
+        },
+        {
+          "name": "Komenda/Edina/Eguafo/Abirem",
+          "cities": []
+        },
+        {
+          "name": "Mfantsiman",
+          "cities": []
+        },
+        {
+          "name": "Twifo Atti Morkwa",
+          "cities": []
+        },
+        {
+          "name": "Twifo/Hemang/Lower Denkyira",
+          "cities": []
+        },
+        {
+          "name": "Upper Denkyira East",
+          "cities": []
+        },
+        {
+          "name": "Upper Denkyira West",
           "cities": []
         }
       ]
