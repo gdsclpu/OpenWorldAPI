@@ -274,7 +274,51 @@
       "capital": "Sunyani",
       "districts": [
         {
-          "name": "",
+          "name": "Banda",
+          "cities": []
+        },
+        {
+          "name": "Berekum East",
+          "cities": []
+        },
+        {
+          "name": "Berekum West",
+          "cities": []
+        },
+        {
+          "name": "Dormaa Central",
+          "cities": []
+        },
+        {
+          "name": "Dormaa East",
+          "cities": []
+        },
+        {
+          "name": "Dormaa West",
+          "cities": []
+        },
+        {
+          "name": "Jaman North",
+          "cities": []
+        },
+        {
+          "name": "Jaman South",
+          "cities": []
+        },
+        {
+          "name": "Sunyani",
+          "cities": []
+        },
+        {
+          "name": "Sunyani West",
+          "cities": []
+        },
+        {
+          "name": "Tain",
+          "cities": []
+        },
+        {
+          "name": "Wenchi",
           "cities": []
         }
       ]
@@ -284,7 +328,47 @@
       "capital": "Techiman",
       "districts": [
         {
-          "name": "",
+          "name": "Atebubu-Amantin",
+          "cities": []
+        },
+        {
+          "name": "Kintampo North",
+          "cities": []
+        },
+        {
+          "name": "Kintampo South",
+          "cities": []
+        },
+        {
+          "name": "Nkoranza North",
+          "cities": []
+        },
+        {
+          "name": "Nkoranza South",
+          "cities": []
+        },
+        {
+          "name": "Pru East",
+          "cities": []
+        },
+        {
+          "name": "Pru West",
+          "cities": []
+        },
+        {
+          "name": "Sene East",
+          "cities": []
+        },
+        {
+          "name": "Sene West",
+          "cities": []
+        },
+        {
+          "name": "Techiman",
+          "cities": []
+        },
+        {
+          "name": "Techiman North",
           "cities": []
         }
       ]
