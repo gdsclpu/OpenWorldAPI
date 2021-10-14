@@ -831,7 +831,36 @@
       "capital": "Dambai",
       "districts": [
         {
-          "name": "",
+          "name": "Biakoye",
+          "cities": []
+        },
+        {
+          "name": "Jasikan",
+          "cities": []
+        },
+        {
+          "name": "Kadjebi",
+          "cities": []
+        },
+        {
+          "name": "Krachi East",
+          "cities": []
+        },
+
+        {
+          "name": "Krachi Nchumuru",
+          "cities": []
+        },
+        {
+          "name": "Krachi West",
+          "cities": []
+        },
+        {
+          "name": "Nkwanta North",
+          "cities": []
+        },
+        {
+          "name": "Nkwanta South",
           "cities": []
         }
       ]
