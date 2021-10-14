@@ -971,7 +971,49 @@
       "capital": "Wa",
       "districts": [
         {
-          "name": "",
+          "name": "Daffiama Bussie Issa",
+          "cities": []
+        },
+        {
+          "name": "Jirapa Municipal",
+          "cities": []
+        },
+        {
+          "name": "Lambussie Karni",
+          "cities": []
+        },
+        {
+          "name": "Lawra Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Nadowli-Kaleo",
+          "cities": []
+        },
+        {
+          "name": "Nandom Municipal",
+          "cities": []
+        },
+        {
+          "name": "Sissala East Municipal",
+          "cities": []
+        },
+        {
+          "name": "Sissala West",
+          "cities": []
+        },
+
+        {
+          "name": "Wa East",
+          "cities": []
+        },
+        {
+          "name": "Wa Municipal",
+          "cities": []
+        },
+        {
+          "name": "Wa West",
           "cities": []
         }
       ]
@@ -981,7 +1023,80 @@
       "capital": "Ho",
       "districts": [
         {
-          "name": "",
+          "name": "Adaklu District",
+          "cities": []
+        },
+        {
+          "name": "Afadzato South",
+          "cities": []
+        },
+        {
+          "name": "Agotime Ziope",
+          "cities": []
+        },
+        {
+          "name": "Akatsi North",
+          "cities": []
+        },
+
+        {
+          "name": "Akatsi South",
+          "cities": []
+        },
+        {
+          "name": "Anloga",
+          "cities": []
+        },
+        {
+          "name": "Central Tongu",
+          "cities": []
+        },
+        {
+          "name": "Ho Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Ho West",
+          "cities": []
+        },
+        {
+          "name": "Hohoe Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Keta Municipal",
+          "cities": []
+        },
+        {
+          "name": "Ketu North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Ketu South Municipal",
+          "cities": []
+        },
+        {
+          "name": "Kpando Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "North Dayi",
+          "cities": []
+        },
+
+        {
+          "name": "North Tongu",
+          "cities": []
+        },
+        {
+          "name": "South Dayi",
+          "cities": []
+        },
+        {
+          "name": "KSouth Tongu",
           "cities": []
         }
       ]
@@ -991,7 +1106,62 @@
       "capital": "Sekondi-Takoradi",
       "districts": [
         {
-          "name": "",
+          "name": "Ahanta West",
+          "cities": []
+        },
+        {
+          "name": "Amenfi Central",
+          "cities": []
+        },
+        {
+          "name": "Amenfi West",
+          "cities": []
+        },
+        {
+          "name": "Effia Kwesimintsim Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Ellembelle",
+          "cities": []
+        },
+        {
+          "name": "Jomoro",
+          "cities": []
+        },
+        {
+          "name": "Mpohor",
+          "cities": []
+        },
+        {
+          "name": "Nzema East Municipal",
+          "cities": []
+        },
+        {
+          "name": "Prestea-Huni Valley Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Sekondi Takoradi Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Shama",
+          "cities": []
+        },
+        {
+          "name": "Tarkwa-Nsuaem Municipal",
+          "cities": []
+        },
+        {
+          "name": "Wassa Amenfi East",
+          "cities": []
+        },
+
+        {
+          "name": "Wassa East",
           "cities": []
         }
       ]
@@ -1001,7 +1171,40 @@
       "capital": "Sefwi Wiawso",
       "districts": [
         {
-          "name": "",
+          "name": "Aowin",
+          "cities": []
+        },
+        {
+          "name": "Bia East",
+          "cities": []
+        },
+        {
+          "name": "Bia West",
+          "cities": []
+        },
+        {
+          "name": "Bibiani Anhwiaso Bekwai",
+          "cities": []
+        },
+
+        {
+          "name": "Bodi",
+          "cities": []
+        },
+        {
+          "name": "Juaboso",
+          "cities": []
+        },
+        {
+          "name": "Sefwi Akontombra",
+          "cities": []
+        },
+        {
+          "name": "Sefwi-Wiawso",
+          "cities": []
+        },
+        {
+          "name": "Suaman",
           "cities": []
         }
       ]
