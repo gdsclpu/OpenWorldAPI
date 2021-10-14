@@ -971,7 +971,49 @@
       "capital": "Wa",
       "districts": [
         {
-          "name": "",
+          "name": "Daffiama Bussie Issa",
+          "cities": []
+        },
+        {
+          "name": "Jirapa Municipal",
+          "cities": []
+        },
+        {
+          "name": "Lambussie Karni",
+          "cities": []
+        },
+        {
+          "name": "Lawra Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Nadowli-Kaleo",
+          "cities": []
+        },
+        {
+          "name": "Nandom Municipal",
+          "cities": []
+        },
+        {
+          "name": "Sissala East Municipal",
+          "cities": []
+        },
+        {
+          "name": "Sissala West",
+          "cities": []
+        },
+
+        {
+          "name": "Wa East",
+          "cities": []
+        },
+        {
+          "name": "Wa Municipal",
+          "cities": []
+        },
+        {
+          "name": "Wa West",
           "cities": []
         }
       ]
