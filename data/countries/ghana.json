@@ -472,7 +472,137 @@
       "capital": "Koforidua",
       "districts": [
         {
-          "name": "",
+          "name": "Abuakwa North",
+          "cities": []
+        },
+        {
+          "name": "Abuakwa South",
+          "cities": []
+        },
+        {
+          "name": "Achiase",
+          "cities": []
+        },
+        {
+          "name": "Akuapim North",
+          "cities": []
+        },
+        {
+          "name": "Akuapim South",
+          "cities": []
+        },
+        {
+          "name": "Akyemansa",
+          "cities": []
+        },
+        {
+          "name": "Asene Manso Akroso",
+          "cities": []
+        },
+        {
+          "name": "Asuogyaman",
+          "cities": []
+        },
+        {
+          "name": "Atiwa East",
+          "cities": []
+        },
+        {
+          "name": "Atiwa West",
+          "cities": []
+        },
+        {
+          "name": "Ayensuano",
+          "cities": []
+        },
+        {
+          "name": "Birim Central",
+          "cities": []
+        },
+        {
+          "name": "Birim North",
+          "cities": []
+        },
+        {
+          "name": "Birim South",
+          "cities": []
+        },
+
+        {
+          "name": "Denkyembour",
+          "cities": []
+        },
+        {
+          "name": "Fanteakwa North",
+          "cities": []
+        },
+        {
+          "name": "Fanteakwa South",
+          "cities": []
+        },
+        {
+          "name": "Kwaebibirem",
+          "cities": []
+        },
+        {
+          "name": "Kwahu Afram Plains North",
+          "cities": []
+        },
+        {
+          "name": "Kwahu Afram Plains South",
+          "cities": []
+        },
+
+        {
+          "name": "Kwahu East",
+          "cities": []
+        },
+        {
+          "name": "Kwahu South",
+          "cities": []
+        },
+        {
+          "name": "Kwahu West",
+          "cities": []
+        },
+        {
+          "name": "Lower Manya Krobo",
+          "cities": []
+        },
+        {
+          "name": "New Juaben North",
+          "cities": []
+        },
+        {
+          "name": "New Juaben South",
+          "cities": []
+        },
+        {
+          "name": "Nsawam Adoagyire",
+          "cities": []
+        },
+        {
+          "name": "Okere",
+          "cities": []
+        },
+        {
+          "name": "Suhum",
+          "cities": []
+        },
+        {
+          "name": "Upper Manya Krobo",
+          "cities": []
+        },
+        {
+          "name": "Upper West Akim",
+          "cities": []
+        },
+        {
+          "name": "West Akim",
+          "cities": []
+        },
+        {
+          "name": "Yilo-Krobo",
           "cities": []
         }
       ]
@@ -482,7 +612,122 @@
       "capital": "Accra",
       "districts": [
         {
-          "name": "",
+          "name": "Ablekuma Central",
+          "cities": []
+        },
+        {
+          "name": "Ablekuma North",
+          "cities": []
+        },
+        {
+          "name": "Ablekuma West",
+          "cities": []
+        },
+        {
+          "name": "Accra",
+          "cities": []
+        },
+        {
+          "name": "Ada East",
+          "cities": []
+        },
+        {
+          "name": "Ada West",
+          "cities": []
+        },
+        {
+          "name": "Adenta",
+          "cities": []
+        },
+        {
+          "name": "Ashaiman",
+          "cities": []
+        },
+
+        {
+          "name": "Ayawaso Central",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso East",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso North",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso West",
+          "cities": []
+        },
+        {
+          "name": "Ga Central",
+          "cities": []
+        },
+        {
+          "name": "Ga East",
+          "cities": []
+        },
+        {
+          "name": "Ga North",
+          "cities": []
+        },
+        {
+          "name": "Ga South",
+          "cities": []
+        },
+
+        {
+          "name": "Ga West",
+          "cities": []
+        },
+        {
+          "name": "Korle-Klottey",
+          "cities": []
+        },
+
+        {
+          "name": "Kpone-Katamanso",
+          "cities": []
+        },
+        {
+          "name": "Krowor",
+          "cities": []
+        },
+        {
+          "name": "La-Dade-Kotopon",
+          "cities": []
+        },
+        {
+          "name": "La-Nkwantanang-Madina",
+          "cities": []
+        },
+        {
+          "name": "Ledzokuku",
+          "cities": []
+        },
+        {
+          "name": "Ningo-Prampram",
+          "cities": []
+        },
+        {
+          "name": "Okaikwei North",
+          "cities": []
+        },
+        {
+          "name": "Shai-Osudoku",
+          "cities": []
+        },
+        {
+          "name": "Tema Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Tema West",
+          "cities": []
+        },
+        {
+          "name": "Weija Gbawe",
           "cities": []
         }
       ]
@@ -492,7 +737,61 @@
       "capital": "Tamale",
       "districts": [
         {
-          "name": "",
+          "name": "Gushegu Municipal",
+          "cities": []
+        },
+        {
+          "name": "Karaga"
+        },
+        {
+          "name": "Kpandai",
+          "cities": []
+        },
+        {
+          "name": "Kumbungu"
+        },
+
+        {
+          "name": "Mion",
+          "cities": []
+        },
+        {
+          "name": "Nanton"
+        },
+        {
+          "name": "Nanumba North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Nanumba South"
+        },
+        {
+          "name": "Saboba"
+        },
+        {
+          "name": "Sagnarigu Municipal",
+          "cities": []
+        },
+        {
+          "name": "Savelugu Municipal"
+        },
+        {
+          "name": "Tamale Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Tatale Sanguli"
+        },
+        {
+          "name": "Tolon",
+          "cities": []
+        },
+
+        {
+          "name": "Yendi Municipal"
+        },
+        {
+          "name": "Zabzugu",
           "cities": []
         }
       ]
@@ -502,7 +801,27 @@
       "capital": "Nalerigu",
       "districts": [
         {
-          "name": "",
+          "name": "Bunkpurugu Nyankpanduri",
+          "cities": []
+        },
+        {
+          "name": "Chereponi",
+          "cities": []
+        },
+        {
+          "name": "East Mamprusi",
+          "cities": []
+        },
+        {
+          "name": "Mamprugu Moagduri",
+          "cities": []
+        },
+        {
+          "name": "West Mamprusi",
+          "cities": []
+        },
+        {
+          "name": "Yunyoo-Nasuan",
           "cities": []
         }
       ]
@@ -512,7 +831,36 @@
       "capital": "Dambai",
       "districts": [
         {
-          "name": "",
+          "name": "Biakoye",
+          "cities": []
+        },
+        {
+          "name": "Jasikan",
+          "cities": []
+        },
+        {
+          "name": "Kadjebi",
+          "cities": []
+        },
+        {
+          "name": "Krachi East",
+          "cities": []
+        },
+
+        {
+          "name": "Krachi Nchumuru",
+          "cities": []
+        },
+        {
+          "name": "Krachi West",
+          "cities": []
+        },
+        {
+          "name": "Nkwanta North",
+          "cities": []
+        },
+        {
+          "name": "Nkwanta South",
           "cities": []
         }
       ]
@@ -522,7 +870,31 @@
       "capital": "Damongo",
       "districts": [
         {
-          "name": "",
+          "name": "Bole",
+          "cities": []
+        },
+        {
+          "name": "Central Gonja",
+          "cities": []
+        },
+        {
+          "name": "East Gonja Municipal",
+          "cities": []
+        },
+        {
+          "name": "North Gonja",
+          "cities": []
+        },
+        {
+          "name": "North East Gonja",
+          "cities": []
+        },
+        {
+          "name": "Sawla-Tuna-Kalba",
+          "cities": []
+        },
+        {
+          "name": "West Gonja",
           "cities": []
         }
       ]
@@ -532,7 +904,64 @@
       "capital": "Bolgatanga",
       "districts": [
         {
-          "name": "",
+          "name": "Bawku Municipal",
+          "cities": []
+        },
+        {
+          "name": "Bawku West",
+          "cities": []
+        },
+        {
+          "name": "Binduri",
+          "cities": []
+        },
+        {
+          "name": "Bolgatanga East",
+          "cities": []
+        },
+        {
+          "name": "Bolgatanga Municipal",
+          "cities": []
+        },
+        {
+          "name": "Bongo",
+          "cities": []
+        },
+        {
+          "name": "Builsa North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Builsa Souths",
+          "cities": []
+        },
+
+        {
+          "name": "Garu",
+          "cities": []
+        },
+        {
+          "name": "Kassena-Nankana Municipal",
+          "cities": []
+        },
+        {
+          "name": "Kassena-Nankana West",
+          "cities": []
+        },
+        {
+          "name": "Nabdam",
+          "cities": []
+        },
+        {
+          "name": "Pusiga",
+          "cities": []
+        },
+        {
+          "name": "Talensi",
+          "cities": []
+        },
+        {
+          "name": "Tempane",
           "cities": []
         }
       ]
@@ -542,7 +971,49 @@
       "capital": "Wa",
       "districts": [
         {
-          "name": "",
+          "name": "Daffiama Bussie Issa",
+          "cities": []
+        },
+        {
+          "name": "Jirapa Municipal",
+          "cities": []
+        },
+        {
+          "name": "Lambussie Karni",
+          "cities": []
+        },
+        {
+          "name": "Lawra Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Nadowli-Kaleo",
+          "cities": []
+        },
+        {
+          "name": "Nandom Municipal",
+          "cities": []
+        },
+        {
+          "name": "Sissala East Municipal",
+          "cities": []
+        },
+        {
+          "name": "Sissala West",
+          "cities": []
+        },
+
+        {
+          "name": "Wa East",
+          "cities": []
+        },
+        {
+          "name": "Wa Municipal",
+          "cities": []
+        },
+        {
+          "name": "Wa West",
           "cities": []
         }
       ]
@@ -552,7 +1023,80 @@
       "capital": "Ho",
       "districts": [
         {
-          "name": "",
+          "name": "Adaklu District",
+          "cities": []
+        },
+        {
+          "name": "Afadzato South",
+          "cities": []
+        },
+        {
+          "name": "Agotime Ziope",
+          "cities": []
+        },
+        {
+          "name": "Akatsi North",
+          "cities": []
+        },
+
+        {
+          "name": "Akatsi South",
+          "cities": []
+        },
+        {
+          "name": "Anloga",
+          "cities": []
+        },
+        {
+          "name": "Central Tongu",
+          "cities": []
+        },
+        {
+          "name": "Ho Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Ho West",
+          "cities": []
+        },
+        {
+          "name": "Hohoe Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Keta Municipal",
+          "cities": []
+        },
+        {
+          "name": "Ketu North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Ketu South Municipal",
+          "cities": []
+        },
+        {
+          "name": "Kpando Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "North Dayi",
+          "cities": []
+        },
+
+        {
+          "name": "North Tongu",
+          "cities": []
+        },
+        {
+          "name": "South Dayi",
+          "cities": []
+        },
+        {
+          "name": "KSouth Tongu",
           "cities": []
         }
       ]
@@ -562,7 +1106,62 @@
       "capital": "Sekondi-Takoradi",
       "districts": [
         {
-          "name": "",
+          "name": "Ahanta West",
+          "cities": []
+        },
+        {
+          "name": "Amenfi Central",
+          "cities": []
+        },
+        {
+          "name": "Amenfi West",
+          "cities": []
+        },
+        {
+          "name": "Effia Kwesimintsim Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Ellembelle",
+          "cities": []
+        },
+        {
+          "name": "Jomoro",
+          "cities": []
+        },
+        {
+          "name": "Mpohor",
+          "cities": []
+        },
+        {
+          "name": "Nzema East Municipal",
+          "cities": []
+        },
+        {
+          "name": "Prestea-Huni Valley Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Sekondi Takoradi Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Shama",
+          "cities": []
+        },
+        {
+          "name": "Tarkwa-Nsuaem Municipal",
+          "cities": []
+        },
+        {
+          "name": "Wassa Amenfi East",
+          "cities": []
+        },
+
+        {
+          "name": "Wassa East",
           "cities": []
         }
       ]
@@ -572,7 +1171,40 @@
       "capital": "Sefwi Wiawso",
       "districts": [
         {
-          "name": "",
+          "name": "Aowin",
+          "cities": []
+        },
+        {
+          "name": "Bia East",
+          "cities": []
+        },
+        {
+          "name": "Bia West",
+          "cities": []
+        },
+        {
+          "name": "Bibiani Anhwiaso Bekwai",
+          "cities": []
+        },
+
+        {
+          "name": "Bodi",
+          "cities": []
+        },
+        {
+          "name": "Juaboso",
+          "cities": []
+        },
+        {
+          "name": "Sefwi Akontombra",
+          "cities": []
+        },
+        {
+          "name": "Sefwi-Wiawso",
+          "cities": []
+        },
+        {
+          "name": "Suaman",
           "cities": []
         }
       ]
