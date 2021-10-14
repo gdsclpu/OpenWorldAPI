@@ -472,7 +472,137 @@
       "capital": "Koforidua",
       "districts": [
         {
-          "name": "",
+          "name": "Abuakwa North",
+          "cities": []
+        },
+        {
+          "name": "Abuakwa South",
+          "cities": []
+        },
+        {
+          "name": "Achiase",
+          "cities": []
+        },
+        {
+          "name": "Akuapim North",
+          "cities": []
+        },
+        {
+          "name": "Akuapim South",
+          "cities": []
+        },
+        {
+          "name": "Akyemansa",
+          "cities": []
+        },
+        {
+          "name": "Asene Manso Akroso",
+          "cities": []
+        },
+        {
+          "name": "Asuogyaman",
+          "cities": []
+        },
+        {
+          "name": "Atiwa East",
+          "cities": []
+        },
+        {
+          "name": "Atiwa West",
+          "cities": []
+        },
+        {
+          "name": "Ayensuano",
+          "cities": []
+        },
+        {
+          "name": "Birim Central",
+          "cities": []
+        },
+        {
+          "name": "Birim North",
+          "cities": []
+        },
+        {
+          "name": "Birim South",
+          "cities": []
+        },
+
+        {
+          "name": "Denkyembour",
+          "cities": []
+        },
+        {
+          "name": "Fanteakwa North",
+          "cities": []
+        },
+        {
+          "name": "Fanteakwa South",
+          "cities": []
+        },
+        {
+          "name": "Kwaebibirem",
+          "cities": []
+        },
+        {
+          "name": "Kwahu Afram Plains North",
+          "cities": []
+        },
+        {
+          "name": "Kwahu Afram Plains South",
+          "cities": []
+        },
+
+        {
+          "name": "Kwahu East",
+          "cities": []
+        },
+        {
+          "name": "Kwahu South",
+          "cities": []
+        },
+        {
+          "name": "Kwahu West",
+          "cities": []
+        },
+        {
+          "name": "Lower Manya Krobo",
+          "cities": []
+        },
+        {
+          "name": "New Juaben North",
+          "cities": []
+        },
+        {
+          "name": "New Juaben South",
+          "cities": []
+        },
+        {
+          "name": "Nsawam Adoagyire",
+          "cities": []
+        },
+        {
+          "name": "Okere",
+          "cities": []
+        },
+        {
+          "name": "Suhum",
+          "cities": []
+        },
+        {
+          "name": "Upper Manya Krobo",
+          "cities": []
+        },
+        {
+          "name": "Upper West Akim",
+          "cities": []
+        },
+        {
+          "name": "West Akim",
+          "cities": []
+        },
+        {
+          "name": "Yilo-Krobo",
           "cities": []
         }
       ]
@@ -482,7 +612,122 @@
       "capital": "Accra",
       "districts": [
         {
-          "name": "",
+          "name": "Ablekuma Central",
+          "cities": []
+        },
+        {
+          "name": "Ablekuma North",
+          "cities": []
+        },
+        {
+          "name": "Ablekuma West",
+          "cities": []
+        },
+        {
+          "name": "Accra",
+          "cities": []
+        },
+        {
+          "name": "Ada East",
+          "cities": []
+        },
+        {
+          "name": "Ada West",
+          "cities": []
+        },
+        {
+          "name": "Adenta",
+          "cities": []
+        },
+        {
+          "name": "Ashaiman",
+          "cities": []
+        },
+
+        {
+          "name": "Ayawaso Central",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso East",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso North",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso West",
+          "cities": []
+        },
+        {
+          "name": "Ga Central",
+          "cities": []
+        },
+        {
+          "name": "Ga East",
+          "cities": []
+        },
+        {
+          "name": "Ga North",
+          "cities": []
+        },
+        {
+          "name": "Ga South",
+          "cities": []
+        },
+
+        {
+          "name": "Ga West",
+          "cities": []
+        },
+        {
+          "name": "Korle-Klottey",
+          "cities": []
+        },
+
+        {
+          "name": "Kpone-Katamanso",
+          "cities": []
+        },
+        {
+          "name": "Krowor",
+          "cities": []
+        },
+        {
+          "name": "La-Dade-Kotopon",
+          "cities": []
+        },
+        {
+          "name": "La-Nkwantanang-Madina",
+          "cities": []
+        },
+        {
+          "name": "Ledzokuku",
+          "cities": []
+        },
+        {
+          "name": "Ningo-Prampram",
+          "cities": []
+        },
+        {
+          "name": "Okaikwei North",
+          "cities": []
+        },
+        {
+          "name": "Shai-Osudoku",
+          "cities": []
+        },
+        {
+          "name": "Tema Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Tema West",
+          "cities": []
+        },
+        {
+          "name": "Weija Gbawe",
           "cities": []
         }
       ]
