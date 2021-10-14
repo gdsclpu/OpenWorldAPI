@@ -737,7 +737,61 @@
       "capital": "Tamale",
       "districts": [
         {
-          "name": "",
+          "name": "Gushegu Municipal",
+          "cities": []
+        },
+        {
+          "name": "Karaga"
+        },
+        {
+          "name": "Kpandai",
+          "cities": []
+        },
+        {
+          "name": "Kumbungu"
+        },
+
+        {
+          "name": "Mion",
+          "cities": []
+        },
+        {
+          "name": "Nanton"
+        },
+        {
+          "name": "Nanumba North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Nanumba South"
+        },
+        {
+          "name": "Saboba"
+        },
+        {
+          "name": "Sagnarigu Municipal",
+          "cities": []
+        },
+        {
+          "name": "Savelugu Municipal"
+        },
+        {
+          "name": "Tamale Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Tatale Sanguli"
+        },
+        {
+          "name": "Tolon",
+          "cities": []
+        },
+
+        {
+          "name": "Yendi Municipal"
+        },
+        {
+          "name": "Zabzugu",
           "cities": []
         }
       ]
@@ -747,7 +801,27 @@
       "capital": "Nalerigu",
       "districts": [
         {
-          "name": "",
+          "name": "Bunkpurugu Nyankpanduri",
+          "cities": []
+        },
+        {
+          "name": "Chereponi",
+          "cities": []
+        },
+        {
+          "name": "East Mamprusi",
+          "cities": []
+        },
+        {
+          "name": "Mamprugu Moagduri",
+          "cities": []
+        },
+        {
+          "name": "West Mamprusi",
+          "cities": []
+        },
+        {
+          "name": "Yunyoo-Nasuan",
           "cities": []
         }
       ]
@@ -757,7 +831,36 @@
       "capital": "Dambai",
       "districts": [
         {
-          "name": "",
+          "name": "Biakoye",
+          "cities": []
+        },
+        {
+          "name": "Jasikan",
+          "cities": []
+        },
+        {
+          "name": "Kadjebi",
+          "cities": []
+        },
+        {
+          "name": "Krachi East",
+          "cities": []
+        },
+
+        {
+          "name": "Krachi Nchumuru",
+          "cities": []
+        },
+        {
+          "name": "Krachi West",
+          "cities": []
+        },
+        {
+          "name": "Nkwanta North",
+          "cities": []
+        },
+        {
+          "name": "Nkwanta South",
           "cities": []
         }
       ]
@@ -767,7 +870,31 @@
       "capital": "Damongo",
       "districts": [
         {
-          "name": "",
+          "name": "Bole",
+          "cities": []
+        },
+        {
+          "name": "Central Gonja",
+          "cities": []
+        },
+        {
+          "name": "East Gonja Municipal",
+          "cities": []
+        },
+        {
+          "name": "North Gonja",
+          "cities": []
+        },
+        {
+          "name": "North East Gonja",
+          "cities": []
+        },
+        {
+          "name": "Sawla-Tuna-Kalba",
+          "cities": []
+        },
+        {
+          "name": "West Gonja",
           "cities": []
         }
       ]
@@ -777,7 +904,64 @@
       "capital": "Bolgatanga",
       "districts": [
         {
-          "name": "",
+          "name": "Bawku Municipal",
+          "cities": []
+        },
+        {
+          "name": "Bawku West",
+          "cities": []
+        },
+        {
+          "name": "Binduri",
+          "cities": []
+        },
+        {
+          "name": "Bolgatanga East",
+          "cities": []
+        },
+        {
+          "name": "Bolgatanga Municipal",
+          "cities": []
+        },
+        {
+          "name": "Bongo",
+          "cities": []
+        },
+        {
+          "name": "Builsa North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Builsa Souths",
+          "cities": []
+        },
+
+        {
+          "name": "Garu",
+          "cities": []
+        },
+        {
+          "name": "Kassena-Nankana Municipal",
+          "cities": []
+        },
+        {
+          "name": "Kassena-Nankana West",
+          "cities": []
+        },
+        {
+          "name": "Nabdam",
+          "cities": []
+        },
+        {
+          "name": "Pusiga",
+          "cities": []
+        },
+        {
+          "name": "Talensi",
+          "cities": []
+        },
+        {
+          "name": "Tempane",
           "cities": []
         }
       ]
