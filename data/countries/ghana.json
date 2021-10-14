@@ -1106,7 +1106,62 @@
       "capital": "Sekondi-Takoradi",
       "districts": [
         {
-          "name": "",
+          "name": "Ahanta West",
+          "cities": []
+        },
+        {
+          "name": "Amenfi Central",
+          "cities": []
+        },
+        {
+          "name": "Amenfi West",
+          "cities": []
+        },
+        {
+          "name": "Effia Kwesimintsim Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Ellembelle",
+          "cities": []
+        },
+        {
+          "name": "Jomoro",
+          "cities": []
+        },
+        {
+          "name": "Mpohor",
+          "cities": []
+        },
+        {
+          "name": "Nzema East Municipal",
+          "cities": []
+        },
+        {
+          "name": "Prestea-Huni Valley Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Sekondi Takoradi Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Shama",
+          "cities": []
+        },
+        {
+          "name": "Tarkwa-Nsuaem Municipal",
+          "cities": []
+        },
+        {
+          "name": "Wassa Amenfi East",
+          "cities": []
+        },
+
+        {
+          "name": "Wassa East",
           "cities": []
         }
       ]
