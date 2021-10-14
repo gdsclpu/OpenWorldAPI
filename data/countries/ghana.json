@@ -1023,7 +1023,80 @@
       "capital": "Ho",
       "districts": [
         {
-          "name": "",
+          "name": "Adaklu District",
+          "cities": []
+        },
+        {
+          "name": "Afadzato South",
+          "cities": []
+        },
+        {
+          "name": "Agotime Ziope",
+          "cities": []
+        },
+        {
+          "name": "Akatsi North",
+          "cities": []
+        },
+
+        {
+          "name": "Akatsi South",
+          "cities": []
+        },
+        {
+          "name": "Anloga",
+          "cities": []
+        },
+        {
+          "name": "Central Tongu",
+          "cities": []
+        },
+        {
+          "name": "Ho Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Ho West",
+          "cities": []
+        },
+        {
+          "name": "Hohoe Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "Keta Municipal",
+          "cities": []
+        },
+        {
+          "name": "Ketu North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Ketu South Municipal",
+          "cities": []
+        },
+        {
+          "name": "Kpando Municipal",
+          "cities": []
+        },
+
+        {
+          "name": "North Dayi",
+          "cities": []
+        },
+
+        {
+          "name": "North Tongu",
+          "cities": []
+        },
+        {
+          "name": "South Dayi",
+          "cities": []
+        },
+        {
+          "name": "KSouth Tongu",
           "cities": []
         }
       ]
