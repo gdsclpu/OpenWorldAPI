@@ -870,7 +870,31 @@
       "capital": "Damongo",
       "districts": [
         {
-          "name": "",
+          "name": "Bole",
+          "cities": []
+        },
+        {
+          "name": "Central Gonja",
+          "cities": []
+        },
+        {
+          "name": "East Gonja Municipal",
+          "cities": []
+        },
+        {
+          "name": "North Gonja",
+          "cities": []
+        },
+        {
+          "name": "North East Gonja",
+          "cities": []
+        },
+        {
+          "name": "Sawla-Tuna-Kalba",
+          "cities": []
+        },
+        {
+          "name": "West Gonja",
           "cities": []
         }
       ]
