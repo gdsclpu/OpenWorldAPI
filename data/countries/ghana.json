@@ -612,7 +612,122 @@
       "capital": "Accra",
       "districts": [
         {
-          "name": "",
+          "name": "Ablekuma Central",
+          "cities": []
+        },
+        {
+          "name": "Ablekuma North",
+          "cities": []
+        },
+        {
+          "name": "Ablekuma West",
+          "cities": []
+        },
+        {
+          "name": "Accra",
+          "cities": []
+        },
+        {
+          "name": "Ada East",
+          "cities": []
+        },
+        {
+          "name": "Ada West",
+          "cities": []
+        },
+        {
+          "name": "Adenta",
+          "cities": []
+        },
+        {
+          "name": "Ashaiman",
+          "cities": []
+        },
+
+        {
+          "name": "Ayawaso Central",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso East",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso North",
+          "cities": []
+        },
+        {
+          "name": "Ayawaso West",
+          "cities": []
+        },
+        {
+          "name": "Ga Central",
+          "cities": []
+        },
+        {
+          "name": "Ga East",
+          "cities": []
+        },
+        {
+          "name": "Ga North",
+          "cities": []
+        },
+        {
+          "name": "Ga South",
+          "cities": []
+        },
+
+        {
+          "name": "Ga West",
+          "cities": []
+        },
+        {
+          "name": "Korle-Klottey",
+          "cities": []
+        },
+
+        {
+          "name": "Kpone-Katamanso",
+          "cities": []
+        },
+        {
+          "name": "Krowor",
+          "cities": []
+        },
+        {
+          "name": "La-Dade-Kotopon",
+          "cities": []
+        },
+        {
+          "name": "La-Nkwantanang-Madina",
+          "cities": []
+        },
+        {
+          "name": "Ledzokuku",
+          "cities": []
+        },
+        {
+          "name": "Ningo-Prampram",
+          "cities": []
+        },
+        {
+          "name": "Okaikwei North",
+          "cities": []
+        },
+        {
+          "name": "Shai-Osudoku",
+          "cities": []
+        },
+        {
+          "name": "Tema Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Tema West",
+          "cities": []
+        },
+        {
+          "name": "Weija Gbawe",
           "cities": []
         }
       ]
