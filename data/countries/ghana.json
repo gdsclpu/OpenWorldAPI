@@ -1171,7 +1171,40 @@
       "capital": "Sefwi Wiawso",
       "districts": [
         {
-          "name": "",
+          "name": "Aowin",
+          "cities": []
+        },
+        {
+          "name": "Bia East",
+          "cities": []
+        },
+        {
+          "name": "Bia West",
+          "cities": []
+        },
+        {
+          "name": "Bibiani Anhwiaso Bekwai",
+          "cities": []
+        },
+
+        {
+          "name": "Bodi",
+          "cities": []
+        },
+        {
+          "name": "Juaboso",
+          "cities": []
+        },
+        {
+          "name": "Sefwi Akontombra",
+          "cities": []
+        },
+        {
+          "name": "Sefwi-Wiawso",
+          "cities": []
+        },
+        {
+          "name": "Suaman",
           "cities": []
         }
       ]
