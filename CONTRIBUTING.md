@@ -18,6 +18,7 @@ email, or any other method with the owners of this repository before making a ch
 6. You basically just make changes in a **JSON** file, make sure to understand what JSON is and how to write JSON.
 7. In your current directory navigate ***data->countries***. Where you will find a list of all the countries available.
 8. Follow the basic JSON format below and you are good to go!!!.
+9. Create a pull request after making changes
 
 
 ### Commit your update
@@ -39,11 +40,11 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 
 ### Your PR is merged!
 
-Congratulations :tada::tada: The GitHub team thanks you :sparkles:. 
+Congratulations :tada::tada: The OpenWorldApi team thanks you :sparkles:. 
 
-Once your PR is merged, your contributions will be publicly visible on the [GitHubs docs](https://docs.github.com/en). 
+Once your PR is merged, your contributions will be publicly visible on the [OpenWorldApi](https://github.com/gdsclpu/OpenWorldAPI). 
 
-Now that you are part of the GitHub docs community, see how else you can [contribute to the docs](/contributing/types-of-contributions.md).
+Now that you are part of the OpenWorldApi community, see how else you can [contribute to the docs](/contributing/types-of-contributions.md).
 
 ## Pull Request Process
 
