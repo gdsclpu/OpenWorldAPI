@@ -801,7 +801,27 @@
       "capital": "Nalerigu",
       "districts": [
         {
-          "name": "",
+          "name": "Bunkpurugu Nyankpanduri",
+          "cities": []
+        },
+        {
+          "name": "Chereponi",
+          "cities": []
+        },
+        {
+          "name": "East Mamprusi",
+          "cities": []
+        },
+        {
+          "name": "Mamprugu Moagduri",
+          "cities": []
+        },
+        {
+          "name": "West Mamprusi",
+          "cities": []
+        },
+        {
+          "name": "Yunyoo-Nasuan",
           "cities": []
         }
       ]
