@@ -737,7 +737,61 @@
       "capital": "Tamale",
       "districts": [
         {
-          "name": "",
+          "name": "Gushegu Municipal",
+          "cities": []
+        },
+        {
+          "name": "Karaga"
+        },
+        {
+          "name": "Kpandai",
+          "cities": []
+        },
+        {
+          "name": "Kumbungu"
+        },
+
+        {
+          "name": "Mion",
+          "cities": []
+        },
+        {
+          "name": "Nanton"
+        },
+        {
+          "name": "Nanumba North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Nanumba South"
+        },
+        {
+          "name": "Saboba"
+        },
+        {
+          "name": "Sagnarigu Municipal",
+          "cities": []
+        },
+        {
+          "name": "Savelugu Municipal"
+        },
+        {
+          "name": "Tamale Metropolitan",
+          "cities": []
+        },
+        {
+          "name": "Tatale Sanguli"
+        },
+        {
+          "name": "Tolon",
+          "cities": []
+        },
+
+        {
+          "name": "Yendi Municipal"
+        },
+        {
+          "name": "Zabzugu",
           "cities": []
         }
       ]
