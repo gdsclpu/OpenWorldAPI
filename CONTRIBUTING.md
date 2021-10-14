@@ -23,9 +23,9 @@ email, or any other method with the owners of this repository before making a ch
 
 ### Commit your update
 
-Commit the changes once you are happy with them. See [Atom's contributing guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages) to know how to use emoji's for commit messages.
+Commit the changes once you are happy with them. See [Atom's contributing guide](https://github.com/gdsclpu/OpenWorldAPI/blob/main/CONTRIBUTING.md) to know how to use emoji's for commit messages.
 
-Once you are ready with your changes, don't forget to [self review](/contributing/self-review.md) to quicken the review process :zap:.
+Once you are ready with your changes, don't forget to [self review](https://github.com/gdsclpu/OpenWorldAPI/blob/main/CONTRIBUTING.md) to quicken the review process :zap:.
 
 ### Pull Request
 
