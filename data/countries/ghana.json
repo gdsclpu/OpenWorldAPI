@@ -904,7 +904,64 @@
       "capital": "Bolgatanga",
       "districts": [
         {
-          "name": "",
+          "name": "Bawku Municipal",
+          "cities": []
+        },
+        {
+          "name": "Bawku West",
+          "cities": []
+        },
+        {
+          "name": "Binduri",
+          "cities": []
+        },
+        {
+          "name": "Bolgatanga East",
+          "cities": []
+        },
+        {
+          "name": "Bolgatanga Municipal",
+          "cities": []
+        },
+        {
+          "name": "Bongo",
+          "cities": []
+        },
+        {
+          "name": "Builsa North Municipal",
+          "cities": []
+        },
+        {
+          "name": "Builsa Souths",
+          "cities": []
+        },
+
+        {
+          "name": "Garu",
+          "cities": []
+        },
+        {
+          "name": "Kassena-Nankana Municipal",
+          "cities": []
+        },
+        {
+          "name": "Kassena-Nankana West",
+          "cities": []
+        },
+        {
+          "name": "Nabdam",
+          "cities": []
+        },
+        {
+          "name": "Pusiga",
+          "cities": []
+        },
+        {
+          "name": "Talensi",
+          "cities": []
+        },
+        {
+          "name": "Tempane",
           "cities": []
         }
       ]
