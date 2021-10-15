@@ -2,9 +2,13 @@ const {
   allDistrictInCountry,
   allDistrictOfState,
 } = require("../custom/custom");
-let { GHANA, INDIA } = require("../data/actions");
+let { GHANA, INDIA, ARMENIA } = require("../data/actions");
+
+// ----------------COUNTRIES JSON DATA-----------------------------
 const GhanaData = require("../data/countries/ghana.json");
 const IndiaData = require("../data/countries/india.json");
+const ArmeniaData = require("../data/countries/armenia.json");
+// ----------------------------------------------------------------
 
 const getAllDistrictsOfCountry = async (req, res, nex) => {
   let { country } = req.params;
@@ -23,9 +27,16 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
       return;
 
     case INDIA:
-      res.status(200).send({ districts: allStates(IndiaData, reverse) });
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(IndiaData, reverse) });
       return;
 
+    case ARMENIA:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(ArmeniaData, reverse) });
+      return;
     default:
       res.send("Nothingness");
   }
@@ -70,6 +81,19 @@ const getAllDistrictOfState = async (req, res, next) => {
         .status(200)
         .send({ districts: allDistrictOfState(IndiaData, index, reverse) });
       return;
+
+    case ARMENIA:
+      index = ArmeniaData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+      if (index === -1) {
+        res.status(400).send({ message: "State no found" });
+        return;
+      }
+
+      res
+        .status(200)
+        .send({ districts: allDistrictOfState(ArmeniaData, index, reverse) });
 
     default:
       res.send("Nothingness");

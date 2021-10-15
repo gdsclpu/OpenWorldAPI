@@ -1,7 +1,11 @@
 const { allStates } = require("../custom/custom");
-let { GHANA, INDIA } = require("../data/actions");
+let { GHANA, INDIA, ARMENIA } = require("../data/actions");
+
+// ------------COUNTRIES JSON DATA-------------------------------
 const GhanaData = require("../data/countries/ghana.json");
 const IndiaData = require("../data/countries/india.json");
+const ArmeniaData = require("../data/countries/armenia.json");
+// ----------------------------------------------------------------
 
 const getAllStates = async (req, res, next) => {
   let { country } = req.params;
@@ -17,6 +21,9 @@ const getAllStates = async (req, res, next) => {
       res.status(200).send({ states: allStates(IndiaData, reverse) });
       return;
 
+    case ARMENIA:
+      res.status(200).send({ states: allStates(ArmeniaData, reverse) });
+      return;
     default:
       res.send("Nothingness");
   }
