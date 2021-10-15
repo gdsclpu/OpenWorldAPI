@@ -4,7 +4,6 @@
     "currency": "Armenian dram",
     "states": [
         {
-            "id": "1",
             "name": "Aragatsotn",
             "capital": "Ashtarak",
             "districts": [
@@ -29,7 +28,6 @@
             ]
         },
         {
-            "id": "2",
             "name": "Ararat",
             "capital": "Artashat",
             "districts": [
@@ -60,7 +58,6 @@
             ]
         },
         {
-            "id": "3",
             "name": "Armavir",
             "capital": "Armavir",
             "districts": [
@@ -85,7 +82,6 @@
             ]
         },
         {
-            "id": "4",
             "name": " Gegharkunik",
             "capital": "Gavar",
             "districts": [
@@ -122,7 +118,6 @@
             ]
         },
         {
-            "id": "5",
             "name": "Kotayk",
             "capital": "Hrazdan",
             "districts": [
@@ -171,7 +166,6 @@
             ]
         },
         {
-            "id": "6",
             "name": "Lori",
             "capital": "Vanadzor",
             "districts": [
@@ -220,7 +214,6 @@
             ]
         },
         {
-            "id": "7",
             "name": "Shirak",
             "capital": "Gyumri",
             "districts": [
@@ -245,7 +238,6 @@
             ]
         },
         {
-            "id": "8",
             "name": "Syunik",
             "capital": " Kapan",
             "districts": [
@@ -282,7 +274,6 @@
             ]
         },
         {
-            "id": "9",
             "name": "Tavush",
             "capital": "Ijevan",
             "districts": [
@@ -319,7 +310,6 @@
             ]
         },
         {
-            "id": "10",
             "name": " Vayots Dzor",
             "capital": "Yeghegnadzor",
             "districts": [
@@ -344,7 +334,6 @@
             ]
         },
         {
-            "id": "11",
             "name": "Yerevan",
             "capital": "n/a",
             "special provinces": "yes",
