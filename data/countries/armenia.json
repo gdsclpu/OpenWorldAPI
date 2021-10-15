@@ -1,17 +1,359 @@
 {
-        "country":"Armenia",
-        "capital":"Yerevan",
-        "currency":"Armenian dram",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
-    }
+    "country": "Armenia",
+    "capital": "Yerevan",
+    "currency": "Armenian dram",
+    "states": [
+        {
+            "id": "1",
+            "name": "Aragatsotn",
+            "capital": "Ashtarak",
+            "districts": [
+                {
+                    "name": "Aparan Municipality",
+                    "cities": [
+                        "Aparan"
+                    ]
+                },
+                {
+                    "name": "Ashtarak Municipality",
+                    "cities": [
+                        "Ashtarak"
+                    ]
+                },
+                {
+                    "name": "Talin Municipality",
+                    "cities": [
+                        "Talin"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Ararat",
+            "capital": "Artashat",
+            "districts": [
+                {
+                    "name": "Ararat Municipality",
+                    "cities": [
+                        "Ararat"
+                    ]
+                },
+                {
+                    "name": "Artashat Municipality",
+                    "cities": [
+                        "Artashat"
+                    ]
+                },
+                {
+                    "name": "Masis Municipality",
+                    "cities": [
+                        "Masis"
+                    ]
+                },
+                {
+                    "name": "Vedi Municipality",
+                    "cities": [
+                        "Vedi"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Armavir",
+            "capital": "Armavir",
+            "districts": [
+                {
+                    "name": "Armavir Municipality",
+                    "cities": [
+                        "Armavir"
+                    ]
+                },
+                {
+                    "name": "Metsamor Municipality",
+                    "cities": [
+                        "Metsamor"
+                    ]
+                },
+                {
+                    "name": "Vagharshapat Municipality",
+                    "cities": [
+                        "Vagharshapat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": " Gegharkunik",
+            "capital": "Gavar",
+            "districts": [
+                {
+                    "name": "Chambarak Municipality",
+                    "cities": [
+                        "Chambarak"
+                    ]
+                },
+                {
+                    "name": "Gavar Municipality",
+                    "cities": [
+                        "Gavar"
+                    ]
+                },
+                {
+                    "name": "Martuni Municipality",
+                    "cities": [
+                        "Martuni"
+                    ]
+                },
+                {
+                    "name": "Sevan Municipality",
+                    "cities": [
+                        "Sevan"
+                    ]
+                },
+                {
+                    "name": "Vardenis Municipality",
+                    "cities": [
+                        "Vardenis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Kotayk",
+            "capital": "Hrazdan",
+            "districts": [
+                {
+                    "name": "Abovyan Municipality",
+                    "cities": [
+                        "Abovyan"
+                    ]
+                },
+                {
+                    "name": "Byureghavan Municipality",
+                    "cities": [
+                        "Byureghavan"
+                    ]
+                },
+                {
+                    "name": "Charentsavan Municipality",
+                    "cities": [
+                        "Charentsavan"
+                    ]
+                },
+                {
+                    "name": "Hrazdan Municiplaity[",
+                    "cities": [
+                        "Hrazdan"
+                    ]
+                },
+                {
+                    "name": "Nor Hachn Municiplaity",
+                    "cities": [
+                        "Nor Hachn"
+                    ]
+                },
+                {
+                    "name": "Tsaghkadzor Municiplaity",
+                    "cities": [
+                        "Tsaghkadzor"
+                    ]
+                },
+                {
+                    "name": "Yeghvard Municiplaity",
+                    "cities": [
+                        "Yeghvard"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Lori",
+            "capital": "Vanadzor",
+            "districts": [
+                {
+                    "name": "Akhtala Municipality",
+                    "cities": [
+                        "Akhtala"
+                    ]
+                },
+                {
+                    "name": "Alaverdi Municipality",
+                    "cities": [
+                        "Alaverdi "
+                    ]
+                },
+                {
+                    "name": "Spitak Municipality",
+                    "cities": [
+                        "Spitak "
+                    ]
+                },
+                {
+                    "name": "Stepanavan Municipality",
+                    "cities": [
+                        "Stepanavan "
+                    ]
+                },
+                {
+                    "name": "Tashir Municipality",
+                    "cities": [
+                        "Tashir "
+                    ]
+                },
+                {
+                    "name": "Tumanyan Municipality",
+                    "cities": [
+                        "Tumanyan "
+                    ]
+                },
+                {
+                    "name": "Vanadzor Municipality",
+                    "cities": [
+                        "Vanadzor "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Shirak",
+            "capital": "Gyumri",
+            "districts": [
+                {
+                    "name": "Artik Municipality",
+                    "cities": [
+                        "Artik "
+                    ]
+                },
+                {
+                    "name": "Gyumri Municipality",
+                    "cities": [
+                        "Gyumri "
+                    ]
+                },
+                {
+                    "name": "Ani Municipality",
+                    "cities": [
+                        "Ani "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Syunik",
+            "capital": " Kapan",
+            "districts": [
+                {
+                    "name": "Goris Municipality",
+                    "cities": [
+                        "Goris "
+                    ]
+                },
+                {
+                    "name": "Kajaran Municipality",
+                    "cities": [
+                        "Kajaran "
+                    ]
+                },
+                {
+                    "name": "Kapan Municipality",
+                    "cities": [
+                        "Kapan "
+                    ]
+                },
+                {
+                    "name": "Meghri Municipality",
+                    "cities": [
+                        "Meghri "
+                    ]
+                },
+                {
+                    "name": "Sisian Municipality",
+                    "cities": [
+                        "Sisian "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Tavush",
+            "capital": "Ijevan",
+            "districts": [
+                {
+                    "name": "Ayrum Municipality",
+                    "cities": [
+                        "Ayrum "
+                    ]
+                },
+                {
+                    "name": "Berd Municipality",
+                    "cities": [
+                        "Berd "
+                    ]
+                },
+                {
+                    "name": "Dilijan Municipality",
+                    "cities": [
+                        "Dilijan "
+                    ]
+                },
+                {
+                    "name": "Ijevan Municipality",
+                    "cities": [
+                        "Ijevan "
+                    ]
+                },
+                {
+                    "name": "Noyemberyan Municipality",
+                    "cities": [
+                        "Noyemberyan "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": " Vayots Dzor",
+            "capital": "Yeghegnadzor",
+            "districts": [
+                {
+                    "name": "Jermuk Municipality",
+                    "cities": [
+                        "Jermuk "
+                    ]
+                },
+                {
+                    "name": "Vayk Municipality",
+                    "cities": [
+                        "Vayk "
+                    ]
+                },
+                {
+                    "name": "Yeghegnadzor Municipality",
+                    "cities": [
+                        "Yeghegnadzor "
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Yerevan",
+            "capital": "n/a",
+            "special provinces": "yes",
+            "districts": [
+                {
+                    "name": "",
+                    "cities": []
+                }
+            ]
+        }
+    ]
+}
