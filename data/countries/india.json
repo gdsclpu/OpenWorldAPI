@@ -167,8 +167,60 @@
       "capital": "Thiruvananthapuram",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "Kasaragod",
+          "cities": ["Kasaragod"]
+        },
+        {
+          "name": "Kannur",
+          "cities": ["Kannur"]
+        },
+        {
+          "name": "Kozhikode",
+          "cities": ["Kozhikode"]
+        },
+        {
+          "name": "Wayanad",
+          "cities": ["Wayanad"]
+        },
+        {
+          "name": "Alappuzha",
+          "cities": ["Alappuzha"]
+        },
+        {
+          "name": "Ernakulam",
+          "cities": ["Ernakulam", "Kochi"]
+        },
+        {
+          "name": "Idukki",
+          "cities": ["Idukki"]
+        },
+        {
+          "name": "Kollam",
+          "cities": ["Kollam"]
+        },
+        {
+          "name": "Kottayam",
+          "cities": ["Kottayam"]
+        },
+        {
+          "name": "Malappuram",
+          "cities": ["Malappuram"]
+        },
+        {
+          "name": "Palakkad",
+          "cities": ["Palakkad"]
+        },
+        {
+          "name": "Pathanamthitta",
+          "cities": ["Pathanamthitta"]
+        },
+        {
+          "name": "Thiruvananthapuram",
+          "cities": ["Thiruvananthapuram"]
+        },
+        {
+          "name": "Thrissur",
+          "cities": ["Thrissur"]
         }
       ]
     },
