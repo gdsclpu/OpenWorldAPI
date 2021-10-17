@@ -1,13 +1,14 @@
 const {
   allDistrictInCountry,
   allDistrictOfState,
-} = require("../custom/custom");
-let { GHANA, INDIA, ARMENIA } = require("../data/actions");
+} = require('../custom/custom');
+let { GHANA, INDIA, ARMENIA, SINGAPORE } = require('../data/actions');
 
 // ----------------COUNTRIES JSON DATA-----------------------------
-const GhanaData = require("../data/countries/ghana.json");
-const IndiaData = require("../data/countries/india.json");
-const ArmeniaData = require("../data/countries/armenia.json");
+const GhanaData = require('../data/countries/ghana.json');
+const IndiaData = require('../data/countries/india.json');
+const ArmeniaData = require('../data/countries/armenia.json');
+const SingaporeData = require('../data/countries/singapore.json');
 // ----------------------------------------------------------------
 
 const getAllDistrictsOfCountry = async (req, res, nex) => {
@@ -15,10 +16,10 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
   let { reverse } = req.query;
 
   if (!country) {
-    res.send(400).send({ message: "Please provide country name" });
+    res.send(400).send({ message: 'Please provide country name' });
   }
 
-  reverse = reverse ? (reverse === "false" ? false : true) : true;
+  reverse = reverse ? (reverse === 'false' ? false : true) : true;
   switch (country.toUpperCase()) {
     case GHANA:
       res
@@ -37,8 +38,12 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
         .status(200)
         .send({ districts: allDistrictInCountry(ArmeniaData, reverse) });
       return;
+    case SINGAPORE:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(SingaporeData, reverse) });
     default:
-      res.send("Nothingness");
+      res.send('Nothingness');
   }
 };
 
@@ -47,10 +52,10 @@ const getAllDistrictOfState = async (req, res, next) => {
   let { reverse, state } = req.query;
 
   if (!country || !state) {
-    res.status(400).send({ message: "Please provide both country and state" });
+    res.status(400).send({ message: 'Please provide both country and state' });
   }
 
-  reverse = reverse ? (reverse === "false" ? false : true) : true;
+  reverse = reverse ? (reverse === 'false' ? false : true) : true;
 
   let index;
   switch (country.toUpperCase()) {
@@ -59,7 +64,7 @@ const getAllDistrictOfState = async (req, res, next) => {
         (data) => data.name.toLowerCase() === state.toLowerCase()
       );
       if (index === -1) {
-        res.status(400).send({ message: "State no found" });
+        res.status(400).send({ message: 'State no found' });
         return;
       }
 
@@ -73,7 +78,7 @@ const getAllDistrictOfState = async (req, res, next) => {
         (data) => data.name.toLowerCase() === state.toLowerCase()
       );
       if (index === -1) {
-        res.status(400).send({ message: "State no found" });
+        res.status(400).send({ message: 'State no found' });
         return;
       }
 
@@ -87,16 +92,26 @@ const getAllDistrictOfState = async (req, res, next) => {
         (data) => data.name.toLowerCase() === state.toLowerCase()
       );
       if (index === -1) {
-        res.status(400).send({ message: "State no found" });
+        res.status(400).send({ message: 'State no found' });
         return;
       }
 
       res
         .status(200)
         .send({ districts: allDistrictOfState(ArmeniaData, index, reverse) });
-
+    case SINGAPORE:
+      index = SingaporeData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+      if (index == -1) {
+        res.send(400).send({ message: ' State not found' });
+        return;
+      }
+      res
+        .status(200)
+        .send({ districts: allDistrictOfState(SingaporeData, index, reverse) });
     default:
-      res.send("Nothingness");
+      res.send('Nothingness');
   }
 };
 
