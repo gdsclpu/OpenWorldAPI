@@ -1,17 +1,257 @@
 {
-        "country":"Singapore",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
-    }
+    "country": "Republic of Singapore",
+    "capital": "Singapore",
+    "currency": "Singapore dollar",
+    "states": [
+        {
+            "name": "Central Singapore Community Development Council",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Ang Mo Kio GRC",
+                    "cities": [
+                        "Ang Mo Kio–Hougang",
+                        "Cheng San–Seletar",
+                        "Jalan Kayu",
+                        "Fernvale",
+                        "Teck Ghee"
+                    ]
+                },
+                {
+                    "name": "Bishan-Toa Payoh GRC",
+                    "cities": [
+                        "Bishan East–Sin Ming",
+                        "Toa Payoh West–Thomson",
+                        "Toa Payoh Central",
+                        "Toa Payoh East"
+                    ]
+                },
+                {
+                    "name": "Jalan Besar GRC",
+                    "cities": [
+                        "Kampong Glam",
+                        "Kolam Ayer",
+                        "Kreta Ayer - Kim Seng",
+                        "Whampoa"
+                    ]
+                },
+                {
+                    "name": "Tanjong Pagar GRC",
+                    "cities": [
+                        "Buona Vista",
+                        "Henderson - Dawson",
+                        "Moulmein - Cairnhill",
+                        "Queenstown",
+                        "Tanjong Pagar - Tiong Bahru"
+                    ]
+                },
+                {
+                    "name": "Kebun Baru SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Marymount SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Potong Pasir SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Radin Mas SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Yio Chu Kang SMC",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "North East Community Development Council",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Aljunied GRC",
+                    "cities": [
+                        "Bedok Reservoir-Punggol",
+                        "Eunos",
+                        "Kaki Bukit",
+                        "Paya Lebar",
+                        "Serangoon"
+                    ]
+                },
+                {
+                    "name": "Pasir Ris-Punggol GRC",
+                    "cities": [
+                        "Pasir Ris East",
+                        "Pasir Ris West",
+                        "Pasir Ris Central",
+                        "Punggol Shore",
+                        "Punggol Coast"
+                    ]
+                },
+                {
+                    "name": "Sengkang GRC",
+                    "cities": [
+                        "Buangkok",
+                        "Anchorvale",
+                        "Compassvale",
+                        "Rivervale"
+                    ]
+                },
+                {
+                    "name": "Tampines GRC",
+                    "cities": [
+                        "Tampines Central",
+                        "Tampines Changkat",
+                        "Tampines East",
+                        "Tampines North",
+                        "Tampines West"
+                    ]
+                },
+                {
+                    "name": "Hougang SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Punggol West SMC",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "North West Community Development Council",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Holland-Bukit Timah GRC",
+                    "cities": [
+                        "Bukit Timah",
+                        "Cashew",
+                        "Ulu Pandan",
+                        "Zhenghua"
+                    ]
+                },
+                {
+                    "name": "Marsiling-Yew Tee GRC",
+                    "cities": [
+                        "Limbang",
+                        "Marsiling",
+                        "Woodgrove",
+                        "Yew Tee"
+                    ]
+                },
+                {
+                    "name": "Nee Soon GRC",
+                    "cities": [
+                        "Chong Pang",
+                        "Nee Soon Central",
+                        "Nee Soon East",
+                        "Nee Soon South",
+                        "Nee Soon Link"
+                    ]
+                },
+                {
+                    "name": "Sembawang GRC",
+                    "cities": [
+                        "Admiralty",
+                        "Canberra",
+                        "Sembawang Central",
+                        "Sembawang West",
+                        "Woodlands"
+                    ]
+                },
+                {
+                    "name": "Bukit Panjang SMC",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "South East Community Development Council",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "East Coast GRC",
+                    "cities": [
+                        "Bedok",
+                        "Changi-Simei",
+                        "Fengshan",
+                        "Kampong Chai Chee",
+                        "Siglap"
+                    ]
+                },
+                {
+                    "name": "Marine Parade GRC",
+                    "cities": [
+                        "Braddell Heights",
+                        "Geylang Serai",
+                        "Joo Chiat",
+                        "Kembangan - Chai Chee",
+                        "Marine Parade"
+                    ]
+                },
+                {
+                    "name": "MacPherson SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Mountbatten SMC",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "South West Community Development Council",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Chua Chu Kang GRC",
+                    "cities": [
+                        "Brickland",
+                        "Bukit Gombak",
+                        "Chua Chu Kang",
+                        "Keat Hong"
+                    ]
+                },
+                {
+                    "name": "Jurong GRC",
+                    "cities": [
+                        "Jurong Central",
+                        "Jurong Spring",
+                        "Taman Jurong",
+                        "Clementi",
+                        "Bukit Batok East"
+                    ]
+                },
+                {
+                    "name": "West Coast GRC",
+                    "cities": [
+                        "Ayer Rajah-Gek Poh",
+                        "Boon Lay",
+                        "Nanyang",
+                        "Telok Blangah",
+                        "West Coast"
+                    ]
+                },
+                {
+                    "name": "Bukit Batok SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Hong Kah North SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Pioneer SMC",
+                    "cities": []
+                },
+                {
+                    "name": "Yuhua SMC",
+                    "cities": []
+                }
+            ]
+        }
+    ]
+}
