@@ -1,391 +1,650 @@
 {
-        "country":"India",
-        "capital":"New Delhi",
-        "currency":"RUPEE(INR)",
-        "states":[
-            {
-                "name":"Andaman and Nicobar Islands",
-                "capital":"Port Blair",
-                "districts":[
-                    {
-                        "name":"Nicobar",
-                        "cities":[
-                            "Chowra Island",
-                            "Kondul Island",
-                            "Pulomilo",
-                            "Tillangchong",
-                            "Trinket Island"    
-                        ]
-                    },
-                    {
-                        "name":"North and Middle Andaman",
-                        "cities":[
-                            "Aves Island",
-                            "Curlew Island",
-                            "Diglipur",
-                            "Interview Island",
-                            "Long Island",
-                            "Mayabunder",
-                            "Narcondam Island",
-                            "North Passage Island",
-                            "Porlob Island",
-                            "Rangat",
-                            "Smith Island",
-                            "Stewart Island",
-                            "Strait Island"    
-                        ]
-                    },
-                    {
-                        "name":"South Andaman",
-                        "cities":[
-                            "Bombooflat",
-                            "Garacharma",
-                            "Hutbay",
-                            "Little Andaman",
-                            "North Cinque Island",
-                            "Port Blair",
-                            "Port Cornwallis",
-                            "Swaraj Island",
-                            "Tushnabad",
-                            "Viper Island"    
-                        ]
-                    }
-                ]
-            },
-            {
-                "name":"Andhra Pradesh",
-                "capital":"Amaravati",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Arunachal Pradesh",
-                "capital":"Itanagar",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Assam",
-                "capital":"Dispur",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Bihar",
-                "capital":"Patna",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Chhattisgarh",
-                "capital":"Naya Raipur",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Goa",
-                "capital":"Panaji",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Gujarat",
-                "capital":"Gandhinagar",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Haryana",
-                "capital":"Chandigarh",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Himachal Pradesh",
-                "capital":"Shimla",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Jharkhand",
-                "capital":"Ranchi",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Karnataka",
-                "capital":"Bangalore",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Kerala",
-                "capital":"Thiruvananthapuram",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Madhya Pradesh",
-                "capital":"Bhopal",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Maharashtra",
-                "capital":"Mumbai",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Manipur",
-                "capital":"Imphal",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Meghalaya",
-                "capital":"Shillong",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Mizoram",
-                "capital":"Aizawl",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Nagaland",
-                "capital":"Kohima",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Odisha",
-                "capital":"Bhubaneswar",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Punjab",
-                "capital":"Chandigarh",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Rajasthan",
-                "capital":"Jaipur",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Sikkim",
-                "capital":"Gangtok",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Tamil Nadu",
-                "capital":"Chennai",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Telangana",
-                "capital":"Hyderabad",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Tripura",
-                "capital":"Agartala",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Uttar Pradesh",
-                "capital":"Lucknow",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"Uttarakhand",
-                "capital":"Dehradun, Gairsain (Summer)",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-
-            },
-            {
-                "name":"West Bengal",
-                "capital":"Kolkata",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[
-                        ]
-                    }
-                ]
-            }
-        ]
+  "country": "India",
+  "capital": "New Delhi",
+  "currency": "RUPEE(INR)",
+  "states": [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "capital": "Port Blair",
+      "districts": [
+        {
+          "name": "Nicobar",
+          "cities": [
+            "Chowra Island",
+            "Kondul Island",
+            "Pulomilo",
+            "Tillangchong",
+            "Trinket Island"
+          ]
+        },
+        {
+          "name": "North and Middle Andaman",
+          "cities": [
+            "Aves Island",
+            "Curlew Island",
+            "Diglipur",
+            "Interview Island",
+            "Long Island",
+            "Mayabunder",
+            "Narcondam Island",
+            "North Passage Island",
+            "Porlob Island",
+            "Rangat",
+            "Smith Island",
+            "Stewart Island",
+            "Strait Island"
+          ]
+        },
+        {
+          "name": "South Andaman",
+          "cities": [
+            "Bombooflat",
+            "Garacharma",
+            "Hutbay",
+            "Little Andaman",
+            "North Cinque Island",
+            "Port Blair",
+            "Port Cornwallis",
+            "Swaraj Island",
+            "Tushnabad",
+            "Viper Island"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "capital": "Itanagar",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Assam",
+      "capital": "Dispur",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Bihar",
+      "capital": "Patna",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Chhattisgarh",
+      "capital": "Naya Raipur",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Goa",
+      "capital": "Panaji",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Haryana",
+      "capital": "Chandigarh",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "capital": "Shimla",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Jharkhand",
+      "capital": "Ranchi",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "capital": "Bangalore",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Manipur",
+      "capital": "Imphal",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Meghalaya",
+      "capital": "Shillong",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Mizoram",
+      "capital": "Aizawl",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Nagaland",
+      "capital": "Kohima",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Odisha",
+      "capital": "Bhubaneswar",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "capital": "Chandigarh",
+      "districts": [
+        {
+          "name": "Amritsar",
+          "cities": [
+            "Kathunangal",
+            "Raja Sansi",
+            "Ajnala",
+            "Tarsikka",
+            "Khem Karan",
+            "Harike",
+            "Amritsar",
+            "Attari",
+            "Dhotian",
+            "Patti",
+            "Khalra",
+            "Chheherta",
+            "Kang",
+            "Majitha",
+            "Fatehbad",
+            "Beas",
+            "Khilchian",
+            "Sur Singh",
+            "Chogawan",
+            "Khem Karn",
+            "Bhikhiwind",
+            "Bundala",
+            "Sathiala",
+            "Kot Mit Singh",
+            "Chabhal",
+            "S.a. Khan",
+            "Chetanpura",
+            "Mehta Chowk",
+            "Kot Mit Sing",
+            "S.a.khan",
+            "D.khasa",
+            "Rayya",
+            "Kathunanagal",
+            "Kacha Pacca",
+            "Sarhali",
+            "Chawinda Devi",
+            "Jandiala",
+            "Jandiala Guru",
+            "Verka",
+            "Kairon",
+            "Chamiari",
+            "Ramdass",
+            "Goindwal",
+            "Tarn Taran",
+            "Distrillery Khasa",
+            "Bundalal",
+            "D.b.j.singh.",
+            "Preet Nagar",
+            "Baba Bakala",
+            "Nausher Panvan",
+            "Ajnla",
+            "Fatehabad",
+            "Khadoor Sahib",
+            "Fatehpur Rajputan",
+            "Chola Sahib",
+            "Naushera Panvan",
+            "J.f.mills",
+            "Butala",
+            "Khilchaian",
+            "Jandila Guru",
+            "Janidiala Resistant/s",
+            "Gandiwind",
+            "Harsha Chhina"
+          ]
+        },
+        {
+          "name": "Barnala",
+          "cities": []
+        },
+        {
+          "name": "Bathinda",
+          "cities": [
+            "Goniana Mandi",
+            "Phul",
+            "Bareta",
+            "Bathinda",
+            "Bti",
+            "Sangat",
+            "T Sabo",
+            "T.sabo",
+            "Talwandi Sabo",
+            "Bhucho Manda",
+            "Bhucho",
+            "Maur",
+            "Bhai Rupa",
+            "Maur Mandi",
+            "Bhagta Bhai",
+            "Rampura",
+            "Nathana",
+            "Bhagta Bhaika"
+          ]
+        },
+        {
+          "name": "Faridkot",
+          "cities": ["Faridkot"]
+        },
+        {
+          "name": "Fategarh Sahib",
+          "cities": [
+            "Amloh",
+            "Bassi Pathana",
+            "Khamanon",
+            "Mandi Gobindgarh",
+            "Sirhind-Fategarh"
+          ]
+        },
+        {
+          "name": "Fatzilka",
+          "cities": ["Fazilka"]
+        },
+        {
+          "name": "Firozepur",
+          "cities": [
+            "Abohar",
+            "Jalalabad",
+            "Ferozepur",
+            "Zira",
+            "Ferozpeur",
+            "Feroeepur",
+            "Aboahr",
+            "Ghall Khurd",
+            "Guru Har Sahai",
+            "Khuian Sarwar",
+            "Makhu",
+            "Mamdot"
+          ]
+        },
+        {
+          "name": "Gurdaspur",
+          "cities": [
+            "Pathankot",
+            "Batala",
+            "Gurdaspur",
+            "Guirdaspur",
+            "Sub Tehsil Dhariwal",
+            "Sub Tehsil Dharkalan",
+            "Sub Tehsil Dinanagar",
+            "Dhar Kalan",
+            "Teh Batala, Sub The. S H G Pur",
+            "Sub Tehsil Narot Jaimal Singh",
+            "Bamial",
+            "Dera Baba Nanak",
+            "Dhariwal",
+            "Dharkalan",
+            "Dinanagar",
+            "Dorangla",
+            "Fatehgarh Churian",
+            "Kahnuwan",
+            "Kalanaur",
+            "Narot Jaimal Singh",
+            "Qadian",
+            "Srihargobind Pur",
+            "Sujanpur"
+          ]
+        },
+        {
+          "name": "Hoshiarpur",
+          "cities": [
+            "Hoshiarpur-I",
+            "Hoshiar Pur",
+            "Dasuya",
+            "Hoshiaepur",
+            "Hoshiarpur-II",
+            "Bhunga",
+            "Garhshankar",
+            "Hajipur",
+            "Mahilpur",
+            "Mukerian",
+            "Talwara",
+            "Tanda"
+          ]
+        },
+        {
+          "name": "Jalandhar",
+          "cities": [
+            "Jalandhar - West",
+            "Nakodar",
+            "Phillaur",
+            "Nakoder",
+            "Nurmahal",
+            "Kartarpur",
+            "Jalandhar-East",
+            "Adampur",
+            "Bhogpur",
+            "Lohian",
+            "Rurka Kalan",
+            "Shahkot"
+          ]
+        },
+        {
+          "name": "Kapurthala",
+          "cities": [
+            "Kapurthala",
+            "Bholath",
+            "Phagwara",
+            "Sultanpur Lodhi",
+            "Begowal",
+            "Dhilwan",
+            "Phagwara HO",
+            "Kala Sanghian",
+            "Kapurthala HO",
+            "Nadala"
+          ]
+        },
+        {
+          "name": "Ludhiana",
+          "cities": ["Ludhiana"]
+        },
+        {
+          "name": "Mansa",
+          "cities": ["Mansa"]
+        },
+        {
+          "name": "Moga",
+          "cities": [
+            "Moga-I",
+            "Baghapurana",
+            "Dharamkot",
+            "Dharmkot",
+            "Nihal Singh Wala",
+            "Dharmakot",
+            "Baghaurana",
+            "Dharakot",
+            "Moga-II",
+            "Kot-ise-khan"
+          ]
+        },
+        {
+          "name": "Muktsar",
+          "cities": ["Lambi", "Muktsar", "Malout", "Gidderbaha", "Mutksar"]
+        },
+        {
+          "name": "Pathankot",
+          "cities": ["Pathankot"]
+        },
+        {
+          "name": "Patiala",
+          "cities": ["Patiala"]
+        },
+        {
+          "name": "Rupnagar",
+          "cities": [
+            "Anandpur Sahib",
+            "Chamkour Sahib",
+            "Karar",
+            "Majri",
+            "Morindha",
+            "Nurpur Bedi",
+            "Rupnagar"
+          ]
+        },
+        {
+          "name": "S.A.S Nagar",
+          "cities": ["S.A.S Nagar"]
+        },
+        {
+          "name": "Sangrur",
+          "cities": [
+            "Ahmedagarh",
+            "Sangrur",
+            "Ahmaedgarh",
+            "Dhuri",
+            "Sunam",
+            "Barnala",
+            "Moonak",
+            "Malerkotla",
+            "Lehragaga",
+            "Amargarh",
+            "Tapa",
+            "Chhajli",
+            "Dirba",
+            "Sherpur",
+            "Dhunala",
+            "Ladda",
+            "Mehal Kalan",
+            "Bhadour",
+            "Sandhour",
+            "Marerkotla",
+            "Shaina",
+            "Handaya",
+            "Bhawani Garh",
+            "Mahal Kalan",
+            "Dhanaula",
+            "Bagrian",
+            "Bhwanigarh",
+            "Handiaya",
+            "Sandhaur",
+            "Longowal",
+            "Pakki Khanauri",
+            "Bagrain",
+            "Chajjli",
+            "Tallewal",
+            "Malarkotla",
+            "Mehal Kalan",
+            "Ahmedgarh",
+            "Sehna"
+          ]
+        },
+        {
+          "name": "NawanShahar",
+          "cities": [
+            "Nwanshahar",
+            "Nawanshahar",
+            "Banga",
+            "Nawanshahr",
+            "Nawahshahar",
+            "Aur",
+            "Balachaur",
+            "Saroya"
+          ]
+        },
+        {
+          "name": "Tarn Taran",
+          "cities": ["Tarn Taran"]
+        }
+      ]
+    },
+    {
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Sikkim",
+      "capital": "Gangtok",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Tripura",
+      "capital": "Agartala",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "capital": "Dehradun, Gairsain (Summer)",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
     }
+  ]
+}
