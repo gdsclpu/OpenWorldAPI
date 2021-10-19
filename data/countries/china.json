@@ -144,6 +144,16 @@
                 ]
             },
             {
+                "name":"Inner Mongolia",
+                "capital":"Hohhot",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
                 "name":"Jiangsu",
                 "capital":"Nanjing",
                 "districts":[
@@ -154,8 +164,8 @@
                 ]
             }
             ,{
-                "name":"",
-                "capital":"",
+                "name":"Jiangxi",
+                "capital":"Nanchang",
                 "districts":[
                     {
                         "name":"",
@@ -164,8 +174,8 @@
                 ]
             }
             ,{
-                "name":"",
-                "capital":"",
+                "name":"Jilin",
+                "capital":"Changchun",
                 "districts":[
                     {
                         "name":"",
