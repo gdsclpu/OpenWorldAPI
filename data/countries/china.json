@@ -84,6 +84,16 @@
                 ]
             },
             {
+                "name":"Hainan",
+                "capital":"Haikou",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
                 "name":"",
                 "capital":"",
                 "districts":[
