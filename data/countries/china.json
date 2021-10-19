@@ -223,5 +223,15 @@
                     }
                 ]
             }
+            ,{
+                "name":"Shanghai",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            }
         ]
     }
