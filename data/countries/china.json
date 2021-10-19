@@ -243,5 +243,15 @@
                     }
                 ]
             }
+            ,{
+                "name":"Sichuan",
+                "capital":"Chengdu",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            }
         ]
     }
