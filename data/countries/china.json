@@ -53,8 +53,16 @@
                     }
                 ]
             },
-
-
+            {
+                "name":"Guangdong",
+                "capital":"Guangzhou",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
             {
                 "name":"",
                 "capital":"",
