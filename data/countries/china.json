@@ -273,5 +273,16 @@
                     }
                 ]
             }
+            ,{
+                "name":"Zhejiang",
+                "capital":"Hangzhou",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            }
+
         ]
     }
