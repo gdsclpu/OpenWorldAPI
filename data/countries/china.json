@@ -252,6 +252,16 @@
                         "cities":[]
                     }
                 ]
+            },
+            {
+                "name":"Tianjin",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
             }
         ]
     }
