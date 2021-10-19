@@ -203,5 +203,15 @@
                     }
                 ]
             }
+            ,{
+                "name":"Shaanxi",
+                "capital":"Xi'an",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            }
         ]
     }
