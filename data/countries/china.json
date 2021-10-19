@@ -23,7 +23,16 @@
                     }
                 ]
             },
-            
+            {
+                "name":"Chongqing",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
             {
                 "name":"",
                 "capital":"",
