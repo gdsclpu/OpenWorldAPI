@@ -182,26 +182,6 @@
                         "cities":[]
                     }
                 ]
-            },
-            {
-                "name":"Liaoning",
-                "capital":"Shenyang",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-            ,{
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
             }
         ]
     }
