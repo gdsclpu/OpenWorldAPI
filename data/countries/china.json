@@ -193,5 +193,15 @@
                     }
                 ]
             }
+            ,{
+                "name":"Qinghai",
+                "capital":"Xining",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            }
         ]
     }
