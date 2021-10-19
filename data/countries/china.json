@@ -64,6 +64,17 @@
                 ]
             },
             {
+                "name":"Guangxi Zhuang",
+                "capital":"Nanning",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+
+            {
                 "name":"",
                 "capital":"",
                 "districts":[
