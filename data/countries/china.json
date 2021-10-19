@@ -13,6 +13,16 @@
                     }
                 ]
             },
+            {
+                "name":"Beijing",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
             
             {
                 "name":"",
