@@ -233,5 +233,15 @@
                     }
                 ]
             }
+            ,{
+                "name":"Shanxi",
+                "capital":"Taiyan",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            }
         ]
     }
