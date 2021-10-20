@@ -77,8 +77,84 @@
       "capital": "Dispur",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "Baksa",
+          "cities": ["Baksa"]
+        },
+        {
+          "name": "Biswanath",
+          "cities": ["Biswanath"]
+        },
+        {
+          "name": "Barpeta",
+          "cities": ["Barpeta"]
+        },
+        {
+          "name": "Bongaigaon",
+          "cities": ["Bongaigaon"]
+        },
+        {
+          "name": "Cachar",
+          "cities": ["Cachar"]
+        },
+        {
+          "name": "Charaideo",
+          "cities": ["Charaideo"]
+        },
+        {
+          "name": "Chirang",
+          "cities": ["Chirang"]
+        },
+        {
+          "name": "Darrang",
+          "cities": ["Darrang"]
+        },
+        {
+          "name": "Dhemaji",
+          "cities": ["Dhemaji"]
+        },
+        {
+          "name": "Dhubri",
+          "cities": ["Dhubri"]
+        },
+        {
+          "name": "Dibrugarh",
+          "cities": ["Dibrugarh"]
+        },
+        {
+          "name": "Goalpara",
+          "cities": ["Goalpara"]
+        },
+        {
+          "name": "Golaghat",
+          "cities": ["Golaghat"]
+        },
+        {
+          "name": "Hailakandi",
+          "cities": ["Hailakandi"]
+        },
+        {
+          "name": "Hojai",
+          "cities": ["Hojai"]
+        },
+        {
+          "name": "Jorhat",
+          "cities": ["Jorhat"]
+        },
+        {
+          "name": "Kamrup",
+          "cities": ["Kamrup"]
+        },
+        {
+          "name": "Karimganj",
+          "cities": ["Karimganj"]
+        },
+        {
+          "name": "Kokrajhar",
+          "cities": ["Kokrajhar"]
+        },
+        {
+          "name": "Lakhimpur",
+          "cities": ["Lakhimpur"]
         }
       ]
     },
