@@ -26,6 +26,10 @@ router.get('/get/all', controller.getAllCountries);
  *     responses:
  *       200:
  *         description: Success
+ *         content:
+ *          application/json:
+ *            example:
+ *              countries: [{"name": "Afghanistan","code": "AF"},{"name": "Åland Islands","code": "AX"},{"name": "Algeria","code": "DZ"},{"name": "American Samoa","code": "AS"},{"name": "AndorrA","code": "AD"}]
  */
 router.get('/get/all/and/code', controller.getAllCountriesAndCode);
 
