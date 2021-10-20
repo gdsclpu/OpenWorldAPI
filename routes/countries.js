@@ -1,5 +1,5 @@
-const router = require("express").Router();
-const controller = require("../controllers/countries");
+const router = require('express').Router();
+const controller = require('../controllers/countries');
 
 /**
  *  @swagger
@@ -10,8 +10,12 @@ const controller = require("../controllers/countries");
  *     responses:
  *       200:
  *         description: Success
+ *         content:
+ *            application/json:
+ *              example:
+ *                countries: [Afghanistan,Åland Islands,Albania,Algeria,American Samoa,AndorrA,Angola,Anguilla,Antarctica,Antigua and Barbuda,Argentina]
  */
-router.get("/get/all", controller.getAllCountries);
+router.get('/get/all', controller.getAllCountries);
 
 /**
  *  @swagger
@@ -23,6 +27,6 @@ router.get("/get/all", controller.getAllCountries);
  *       200:
  *         description: Success
  */
-router.get("/get/all/and/code", controller.getAllCountriesAndCode);
+router.get('/get/all/and/code', controller.getAllCountriesAndCode);
 
 module.exports = router;
