@@ -5,7 +5,7 @@ const controller = require("../controllers/district");
  *  @swagger
  * /district/get/all/district/country/{country}:
  *   get:
- *     tags: [Districts API]
+ *     tags: [Districts Endpoints]
  *     description: Getting all the various disticts in a country
  *     parameters:
  *     - name: country
@@ -27,7 +27,7 @@ router.get(
  * /district/get/all/districts/{country}:
  *   get:
  *     description: Gets all districts provided state
- *     tags: [Districts API]
+ *     tags: [Districts Endpoints]
  *     parameters:
  *     - name: country
  *       description: The country for which the state is been searched for

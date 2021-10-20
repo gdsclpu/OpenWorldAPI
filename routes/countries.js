@@ -5,7 +5,7 @@ const controller = require("../controllers/countries");
  *  @swagger
  * /countries/get/all:
  *   get:
- *     tags: [Countries Endpoint]
+ *     tags: [Countries Endpoints]
  *     description: Getting all the countries in the world
  *     responses:
  *       200:
@@ -17,7 +17,7 @@ router.get("/get/all", controller.getAllCountries);
  *  @swagger
  * /countries/get/all/and/code:
  *   get:
- *     tags: [Countries Endpoint]
+ *     tags: [Countries Endpoints]
  *     description: Getting all the countries and their code
  *     responses:
  *       200:
