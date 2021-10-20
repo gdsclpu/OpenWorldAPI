@@ -26,9 +26,9 @@ const options = {
     ],
   },
   apis: [
-    "./routes/districts.js",
     "./routes/countries.js",
     "./routes/states.js",
+    "./routes/districts.js",
   ],
 };
 
