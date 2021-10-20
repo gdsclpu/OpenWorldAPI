@@ -44,7 +44,7 @@ app.use(express.static(path.join(__dirname, "public")));
 const port = process.env.PORT || 3000;
 
 // Routes
-app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(specs));
+app.use("/", swaggerUi.serve, swaggerUi.setup(specs));
 app.use("/countries", CountriesRoutes);
 app.use("/states", StatesRoutes);
 app.use("/district", DistrictRoutes);
