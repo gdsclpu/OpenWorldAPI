@@ -12,7 +12,7 @@ const options = {
       },
       contact: {
         name: "OpenWorldApi",
-        url: "openworldapi.tech/api-docs",
+        url: "/",
         email: "samson@luxstek.com",
       },
     },
