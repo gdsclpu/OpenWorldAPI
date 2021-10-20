@@ -213,8 +213,222 @@
       "capital": "Shimla",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "Bilaspur (HP)",
+          "cities": [
+            "Ghumarwin",
+            "Jhanduta",
+            "Jhandutta",
+            "Jhamdutta",
+            "Bilaspur",
+            "Naina Devi",
+            "Jhandutha",
+            "Ghuamrwin",
+            "Sadar",
+            "Jhansdutta",
+            "Jhadutta",
+            "Jhandutt",
+            "Blaspur",
+            "Bilapur",
+            "Jhandutta",
+            "Sri Naina Devi Ji"
+          ]
+        },
+        {
+          "name": "Chamba",
+          "cities": [
+            "Chamba",
+            "Dalhousie",
+            "Tissa",
+            "Chowari",
+            "Bharmour",
+            "Slooni",
+            "Bhallai",
+            "Holi",
+            "Bhalei",
+            "Sihunta",
+            "Pangi",
+            "Chmaba",
+            "Bahrmour"
+          ]
+        },
+        {
+          "name": "Hamirpur (HP)",
+          "cities": [
+            "Bhoranj",
+            "Hamirpur",
+            "Nadaun",
+            "Bhuranj",
+            "Barsar",
+            "SP Tira",
+            "Bijhari",
+            "Sujanpur",
+            "S P Tira",
+            "Mehre",
+            "Bhorang",
+            "Sujanpur Tira",
+            "Bhaoranj",
+            "Bamson",
+            "Bijhri",
+            "Tira Sujanpur"
+          ]
+        },
+        {
+          "name": "Kangra",
+          "cities": [
+            "Dehra",
+            "Nurpur",
+            "Jaiinghpur",
+            "Rakkar",
+            "Jawali",
+            "Quasba Kotla",
+            "Baijnath",
+            "Sahpur",
+            "Baroh",
+            "Palampur",
+            "Jaisinghpur",
+            "Kangra",
+            "Kotla",
+            "Jawli",
+            "Fatehpur",
+            "Qusba Kotla",
+            "Dharamsala",
+            "Shahpur",
+            "Indora",
+            "Indora SO",
+            "Dehra Gopipur",
+            "Baijnath",
+            "Khundian",
+            "Qasba Kotla",
+            "Kangara",
+            "Harcahkian",
+            "Jaisisnghpur",
+            "Shapur/jawali",
+            "Jasinghpur",
+            "Khuandian",
+            "Pala,mpur",
+            "Qubsa Kotla",
+            "Jainshgpur",
+            "Bhawarna",
+            "Lambagaon",
+            "Nagrota Bagwan",
+            "Nagrota Surian",
+            "Noorpur",
+            "Panchrukhi",
+            "Pragpur",
+            "Rait",
+            "Sulah"
+          ]
+        },
+        {
+          "name": "Kinnaur",
+          "cities": [
+            "Moorang",
+            "Kalpa",
+            "Nichar",
+            "Sangla",
+            "Pooh",
+            "Kapla",
+            "Hangrang"
+          ]
+        },
+        {
+          "name": "Kullu",
+          "cities": ["Kullu", "Banjar", "Anni", "Naggar", "Nirmand"]
+        },
+        {
+          "name": "Lahul & Spiti",
+          "cities": ["Udaipur", "Spiti", "Lahaul"]
+        },
+        {
+          "name": "Mandi",
+          "cities": [
+            "Jogindernagar",
+            "Sadar",
+            "Karsog",
+            "Mandi Sadar",
+            "Sarkaghat",
+            "Chachiot",
+            "Thunag",
+            "Sundarnagar",
+            "Joginder Nagar",
+            "Sadar Mandi",
+            "Sundernagar",
+            "Jogindr Nagar",
+            "Sundr Nagar",
+            "Balh",
+            "Chauntra",
+            "Dharmpur",
+            "Drang",
+            "Gohar",
+            "Gopalpur",
+            "Seraj"
+          ]
+        },
+        {
+          "name": "Shimla",
+          "cities": [
+            "Shimla",
+            "Jubbal Kotkhai",
+            "Rohru",
+            "Kotkhai",
+            "Kothkhai",
+            "Theog",
+            "Rampur Bushahr",
+            "Chaupal",
+            "Nankhari",
+            "Kumarsain",
+            "Suni",
+            "Chopl",
+            "Shimla R",
+            "Chirgaon",
+            "Junga",
+            "Rampur",
+            "Dodra Kawar",
+            "Shimlar",
+            "Choupal",
+            "Sunni",
+            "Nankahri",
+            "Basantpur",
+            "Chauhara",
+            "Mashobra",
+            "Narkanda"
+          ]
+        },
+        {
+          "name": "Sirmaur",
+          "cities": [
+            "Sangrah",
+            "Sangarh",
+            "Pachhad",
+            "Shillai",
+            "Paonta Sahib",
+            "Nahan",
+            "Shilai",
+            "Rajgarh",
+            "Sangah",
+            "Sangarha",
+            "Rajgarah",
+            "Sangarah",
+            "Shilla",
+            "Nohra"
+          ]
+        },
+        {
+          "name": "Solan",
+          "cities": [
+            "Kandaghat",
+            "Nalagarh",
+            "Ramshahar",
+            "Arki",
+            "Kasauli",
+            "Solan",
+            "Dharampur",
+            "Kunihar"
+          ]
+        },
+        {
+          "name": "Una",
+          "cities": ["Una", "Amb", "Bangana", "Bharwain", "Haroli", "Gagret"]
         }
       ]
     },
