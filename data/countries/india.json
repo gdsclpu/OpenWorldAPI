@@ -77,8 +77,235 @@
       "capital": "Dispur",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "Baksa",
+          "cities": [
+            "Musalpur",
+            "Salbari",
+            "Tamulpur"
+          ]
+        },
+        {
+          "name": "Barpeta",
+          "cities": [
+            "Barpeta",
+            "Barpeta Road",
+            "Howli",
+            "Sarthebari",
+            "Pathsala",
+            "Sarbhog"
+          ]
+        },
+        {
+          "name": "Bongaigaon",
+          "cities": [
+            "Bongaigaon",
+            "Abhayapuri"
+          ]
+        },
+        {
+          "name": "Cachar",
+          "cities": [
+            "Silchar",
+            "Lakhipur"
+          ]
+        },
+        {
+          "name": "Chirang",
+          "cities": [
+            "Basugaon",
+            "Bijni"
+          ]
+        },
+        {
+          "name": "Darrang",
+          "cities": [
+            "Mangaldoi",
+            "Kharupetia",
+            "Namkhola",
+            "Duni"
+          ]
+        },
+        {
+          "name": "Dhemaji",
+          "cities": [
+            "Dhemaji",
+            "Silapathar"
+          ]
+        },
+        {
+          "name": "Dhubri",
+          "cities": [
+            "Gouripur",
+            "Sapatgram",
+            "Bilasipara",
+            "Chapar",
+            "Hatsingimari",
+            "South Salmara"
+          ]
+        },
+        {
+          "name": "Dibrugarh",
+          "cities": [
+            "Dibrugarh",
+            "Naharkatia",
+            "Chabua"
+          ]
+        },
+        {
+          "name": "Dima Hasao",
+          "cities": [
+            "Haflong",
+            "Umrangso",
+            "Mahur",
+            "Maibang"
+          ]
+        },
+        {
+          "name": "Goalpara",
+          "cities": [
+            "Goalpara",
+            "Lakhipur"
+          ]
+        },
+        {
+          "name": "Golaghat",
+          "cities": [
+            "Golaghat",
+            "Dergaon",
+            "Bokakhat",
+            "Sarupathar",
+            "Borpathar"
+          ]
+        },
+        {
+          "name": "Hailakandi",
+          "cities": [
+            "Hailakandi",
+            "Lala"
+          ]
+        },
+        {
+          "name": "Jorhat",
+          "cities": [
+            "Jorhat",
+            "Mariani",
+            "Teok",
+            "Majuli",
+            "Titabor"
+          ]
+        },
+        {
+          "name": "Kamrup",
+          "cities": [
+            "Rangia",
+            "Palashbari"
+          ]
+        },
+        {
+          "name": "Kamrup Metro",
+          "cities": [
+            "Guwahati",
+            "North Guwahati"
+          ]
+        },
+        {
+          "name": "Karbi Anglong",
+          "cities": [
+            "Diphu",
+            "Dokmoka",
+            "Howraghat",
+            "Bokajan",
+            "Hamren",
+            "Donkamokam"
+          ]
+        },
+        {
+          "name": "Karimganj",
+          "cities": [
+            "Karimganj",
+            "Badarpur"
+          ]
+        },
+        {
+          "name": "Kokrajhar",
+          "cities": [
+            "Kokrajhar",
+            "Gossaigaon"
+          ]
+        },
+        {
+          "name": "Lakhimpur",
+          "cities": [
+            "North Lakhimpur",
+            "Bihpuria",
+            "Dhakuakhona" 
+          ]
+        },
+        {
+          "name": "Morigaon",
+          "cities": [
+            "Morigaon"
+          ]
+        },
+        {
+          "name": "Nagaon",
+          "cities": [
+            "Kampur",
+            "Roha",
+            "Doboka",
+            "Hojai",
+            "Lumding",
+            "Lanka",
+            "Hatbor",
+            "Kaliabor"
+          ]
+        },
+        {
+          "name": "Nalbari",
+          "cities": [
+            "Nalbari",
+            "Tihu"
+          ]
+        },
+        {
+          "name": "Sivasagar",
+          "cities": [
+            "Sivasagar",
+            "Amguri",
+            "Simaluguri",
+            "Sonari",
+            "Moranhat",
+            "Nazira"
+          ]
+        },
+        {
+          "name": "Sonitpur",
+          "cities": [
+            "Tezpur",
+            "Rangapara",
+            "Dhekiajuli",
+            "Gohpur",
+            "Biswanath Chariali"
+          ]
+        },
+        {
+          "name": "Tinsukia",
+          "cities": [
+            "Tinsukia",
+            "Digboi",
+            "Margherita",
+            "Dumduma",
+            "Makum",
+            "Sadiya",
+            "Chapakhowa"
+          ]
+        },
+        {
+          "name": "Udalguri",
+          "cities": [
+            "Odalguri",
+            "Tangla"
+          ]
         }
       ]
     },
