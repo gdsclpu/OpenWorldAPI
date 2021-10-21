@@ -1137,86 +1137,6 @@
       "capital": "Jaipur",
       "districts": [
         {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "Sikkim",
-      "capital": "Gangtok",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "Tamil Nadu",
-      "capital": "Chennai",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "Telangana",
-      "capital": "Hyderabad",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "Tripura",
-      "capital": "Agartala",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "Uttar Pradesh",
-      "capital": "Lucknow",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "Uttarakhand",
-      "capital": "Dehradun, Gairsain (Summer)",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "West Bengal",
-      "capital": "Kolkata",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
-    {
-      "name": "Rajasthan",
-      "capital": "Jaipur",
-      "districts": [
-        {
           "name": "Ajmer",
           "cities": [ 
             "Ajaysar",
@@ -1528,6 +1448,76 @@
           "cities": [
             "Udaipur Municipality"
           ]
+        }
+      ]
+    },
+    {
+      "name": "Sikkim",
+      "capital": "Gangtok",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Tripura",
+      "capital": "Agartala",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "capital": "Dehradun, Gairsain (Summer)",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
         }
       ]
     }
