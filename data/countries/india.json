@@ -78,11 +78,7 @@
       "districts": [
         {
           "name": "Baksa",
-          "cities": [
-            "Musalpur",
-            "Salbari",
-            "Tamulpur"
-          ]
+          "cities": ["Musalpur", "Salbari", "Tamulpur"]
         },
         {
           "name": "Barpeta",
@@ -97,40 +93,23 @@
         },
         {
           "name": "Bongaigaon",
-          "cities": [
-            "Bongaigaon",
-            "Abhayapuri"
-          ]
+          "cities": ["Bongaigaon", "Abhayapuri"]
         },
         {
           "name": "Cachar",
-          "cities": [
-            "Silchar",
-            "Lakhipur"
-          ]
+          "cities": ["Silchar", "Lakhipur"]
         },
         {
           "name": "Chirang",
-          "cities": [
-            "Basugaon",
-            "Bijni"
-          ]
+          "cities": ["Basugaon", "Bijni"]
         },
         {
           "name": "Darrang",
-          "cities": [
-            "Mangaldoi",
-            "Kharupetia",
-            "Namkhola",
-            "Duni"
-          ]
+          "cities": ["Mangaldoi", "Kharupetia", "Namkhola", "Duni"]
         },
         {
           "name": "Dhemaji",
-          "cities": [
-            "Dhemaji",
-            "Silapathar"
-          ]
+          "cities": ["Dhemaji", "Silapathar"]
         },
         {
           "name": "Dhubri",
@@ -145,27 +124,15 @@
         },
         {
           "name": "Dibrugarh",
-          "cities": [
-            "Dibrugarh",
-            "Naharkatia",
-            "Chabua"
-          ]
+          "cities": ["Dibrugarh", "Naharkatia", "Chabua"]
         },
         {
           "name": "Dima Hasao",
-          "cities": [
-            "Haflong",
-            "Umrangso",
-            "Mahur",
-            "Maibang"
-          ]
+          "cities": ["Haflong", "Umrangso", "Mahur", "Maibang"]
         },
         {
           "name": "Goalpara",
-          "cities": [
-            "Goalpara",
-            "Lakhipur"
-          ]
+          "cities": ["Goalpara", "Lakhipur"]
         },
         {
           "name": "Golaghat",
@@ -179,34 +146,19 @@
         },
         {
           "name": "Hailakandi",
-          "cities": [
-            "Hailakandi",
-            "Lala"
-          ]
+          "cities": ["Hailakandi", "Lala"]
         },
         {
           "name": "Jorhat",
-          "cities": [
-            "Jorhat",
-            "Mariani",
-            "Teok",
-            "Majuli",
-            "Titabor"
-          ]
+          "cities": ["Jorhat", "Mariani", "Teok", "Majuli", "Titabor"]
         },
         {
           "name": "Kamrup",
-          "cities": [
-            "Rangia",
-            "Palashbari"
-          ]
+          "cities": ["Rangia", "Palashbari"]
         },
         {
           "name": "Kamrup Metro",
-          "cities": [
-            "Guwahati",
-            "North Guwahati"
-          ]
+          "cities": ["Guwahati", "North Guwahati"]
         },
         {
           "name": "Karbi Anglong",
@@ -221,31 +173,19 @@
         },
         {
           "name": "Karimganj",
-          "cities": [
-            "Karimganj",
-            "Badarpur"
-          ]
+          "cities": ["Karimganj", "Badarpur"]
         },
         {
           "name": "Kokrajhar",
-          "cities": [
-            "Kokrajhar",
-            "Gossaigaon"
-          ]
+          "cities": ["Kokrajhar", "Gossaigaon"]
         },
         {
           "name": "Lakhimpur",
-          "cities": [
-            "North Lakhimpur",
-            "Bihpuria",
-            "Dhakuakhona" 
-          ]
+          "cities": ["North Lakhimpur", "Bihpuria", "Dhakuakhona"]
         },
         {
           "name": "Morigaon",
-          "cities": [
-            "Morigaon"
-          ]
+          "cities": ["Morigaon"]
         },
         {
           "name": "Nagaon",
@@ -262,10 +202,7 @@
         },
         {
           "name": "Nalbari",
-          "cities": [
-            "Nalbari",
-            "Tihu"
-          ]
+          "cities": ["Nalbari", "Tihu"]
         },
         {
           "name": "Sivasagar",
@@ -302,322 +239,167 @@
         },
         {
           "name": "Udalguri",
-          "cities": [
-            "Odalguri",
-            "Tangla"
-          ]
-        },
-        {
-          "name": "Biswanath",
-          "cities": ["Biswanath"]
-        },
-        {
-          "name": "Barpeta",
-          "cities": ["Barpeta"]
-        },
-        {
-          "name": "Bongaigaon",
-          "cities": ["Bongaigaon"]
-        },
-        {
-          "name": "Cachar",
-          "cities": ["Cachar"]
-        },
-        {
-          "name": "Charaideo",
-          "cities": ["Charaideo"]
-        },
-        {
-          "name": "Chirang",
-          "cities": ["Chirang"]
-        },
-        {
-          "name": "Darrang",
-          "cities": ["Darrang"]
-        },
-        {
-          "name": "Dhemaji",
-          "cities": ["Dhemaji"]
-        },
-        {
-          "name": "Dhubri",
-          "cities": ["Dhubri"]
-        },
-        {
-          "name": "Dibrugarh",
-          "cities": ["Dibrugarh"]
-        },
-        {
-          "name": "Goalpara",
-          "cities": ["Goalpara"]
-        },
-        {
-          "name": "Golaghat",
-          "cities": ["Golaghat"]
-        },
-        {
-          "name": "Hailakandi",
-          "cities": ["Hailakandi"]
-        },
-        {
-          "name": "Hojai",
-          "cities": ["Hojai"]
-        },
-        {
-          "name": "Jorhat",
-          "cities": ["Jorhat"]
-        },
-        {
-          "name": "Kamrup",
-          "cities": ["Kamrup"]
-        },
-        {
-          "name": "Karimganj",
-          "cities": ["Karimganj"]
-        },
-        {
-          "name": "Kokrajhar",
-          "cities": ["Kokrajhar"]
-        },
-        {
-          "name": "Lakhimpur",
-          "cities": ["Lakhimpur"]
+          "cities": ["Odalguri", "Tangla"]
         }
       ]
     },
     {
       "name": "Bihar",
       "capital": "Patna",
-      "districts":[
+      "districts": [
         {
-            "name":"Araria",
-            "cities":[
-                "Araria"
-            ]
+          "name": "Araria",
+          "cities": ["Araria"]
         },
         {
-            "name":"Arwal",
-            "cities":[
-                "Arwal"
-            ]
+          "name": "Arwal",
+          "cities": ["Arwal"]
         },
         {
-            "name":"Aurangabad",
-            "cities":[
-                "Aurangabad"
-            ]
+          "name": "Aurangabad",
+          "cities": ["Aurangabad"]
         },
         {
-            "name":"Banka",
-            "cities":[
-                "Banka"
-            ]
+          "name": "Banka",
+          "cities": ["Banka"]
         },
         {
-            "name":"Begusarai",
-            "cities":[
-                "Begusarai"
-            ]
+          "name": "Begusarai",
+          "cities": ["Begusarai"]
         },
         {
-            "name":"Bhagalpur",
-            "cities":[
-                "Bhagalpur"
-            ]
+          "name": "Bhagalpur",
+          "cities": ["Bhagalpur"]
         },
         {
-            "name":"Bhojpur",
-            "cities":[
-                "Bhojpur"
-            ]
+          "name": "Bhojpur",
+          "cities": ["Bhojpur"]
         },
         {
-            "name":"Buxar",
-            "cities":[
-                "Buxar"
-            ]
+          "name": "Buxar",
+          "cities": ["Buxar"]
         },
         {
-            "name":"Darbhanga",
-            "cities":[
-                "Darbhanga"
-            ]
+          "name": "Darbhanga",
+          "cities": ["Darbhanga"]
         },
         {
-            "name":"East Champaran (Motihari)",
-            "cities":[
-                "East Champaran (Motihari)"
-            ]
+          "name": "East Champaran (Motihari)",
+          "cities": ["East Champaran (Motihari)"]
         },
         {
-            "name":"Gaya",
-            "cities":[
-                "Gaya"
-            ]
+          "name": "Gaya",
+          "cities": ["Gaya"]
         },
         {
-            "name":"Gopalganj",
-            "cities":[
-                "Gopalganj"
-            ]
+          "name": "Gopalganj",
+          "cities": ["Gopalganj"]
         },
         {
-            "name":"Jamui",
-            "cities":[
-                "Jamui"
-            ]
+          "name": "Jamui",
+          "cities": ["Jamui"]
         },
         {
-            "name":"Jehanabad",
-            "cities":[
-                "Jehanabad"
-            ]
+          "name": "Jehanabad",
+          "cities": ["Jehanabad"]
         },
         {
-            "name":"Kaimur (Bhabua)",
-            "cities":[
-                "Kaimur (Bhabua)"
-            ]
+          "name": "Kaimur (Bhabua)",
+          "cities": ["Kaimur (Bhabua)"]
         },
         {
-            "name":"Katihar",
-            "cities":[
-                "Katihar"
-            ]
+          "name": "Katihar",
+          "cities": ["Katihar"]
         },
         {
-            "name":"Khagaria",
-            "cities":[
-                "Khagaria"
-            ]
+          "name": "Khagaria",
+          "cities": ["Khagaria"]
         },
         {
-            "name":"Kishanganj",
-            "cities":[
-                "Kishanganj"
-            ]
+          "name": "Kishanganj",
+          "cities": ["Kishanganj"]
         },
         {
-            "name":"Lakhisarai",
-            "cities":[
-                "Lakhisarai"
-            ]
+          "name": "Lakhisarai",
+          "cities": ["Lakhisarai"]
         },
         {
-            "name":"Madhepura",
-            "cities":[
-                "Madhepura"
-            ]
+          "name": "Madhepura",
+          "cities": ["Madhepura"]
         },
         {
-            "name":"Madhubani",
-            "cities":[
-                "Madhubani"
-            ]
+          "name": "Madhubani",
+          "cities": ["Madhubani"]
         },
         {
-            "name":"Munger (Monghyr)",
-            "cities":[
-                "Munger (Monghyr)"
-            ]
+          "name": "Munger (Monghyr)",
+          "cities": ["Munger (Monghyr)"]
         },
         {
-            "name":"Muzaffarpur",
-            "cities":[
-                "Muzaffarpur"
-            ]
+          "name": "Muzaffarpur",
+          "cities": ["Muzaffarpur"]
         },
         {
-            "name":"Nalanda",
-            "cities":[
-                "Nalanda"
-            ]
+          "name": "Nalanda",
+          "cities": ["Nalanda"]
         },
         {
-            "name":"Nawada",
-            "cities":[
-                "Nawada"
-            ]
+          "name": "Nawada",
+          "cities": ["Nawada"]
         },
         {
-            "name":"Patna",
-            "cities":[
-                "Patna"
-            ]
+          "name": "Patna",
+          "cities": ["Patna"]
         },
         {
-            "name":"Purnia (Purnea)",
-            "cities":[
-                "Purnia (Purnea)"
-            ]
+          "name": "Purnia (Purnea)",
+          "cities": ["Purnia (Purnea)"]
         },
         {
-            "name":"Rohtas",
-            "cities":[
-                "Rohtas"
-            ]
+          "name": "Rohtas",
+          "cities": ["Rohtas"]
         },
         {
-            "name":"Saharsa",
-            "cities":[
-                "Saharsa"
-            ]
+          "name": "Saharsa",
+          "cities": ["Saharsa"]
         },
         {
-            "name":"Samastipur",
-            "cities":[
-                "Samastipur"
-            ]
+          "name": "Samastipur",
+          "cities": ["Samastipur"]
         },
         {
-            "name":"Saran",
-            "cities":[
-                "Saran"
-            ]
+          "name": "Saran",
+          "cities": ["Saran"]
         },
         {
-            "name":"Sheikhpura",
-            "cities":[
-                "Sheikhpura"
-            ]
+          "name": "Sheikhpura",
+          "cities": ["Sheikhpura"]
         },
         {
-            "name":"Sheohar",
-            "cities":[
-                "Sheohar"
-            ]
+          "name": "Sheohar",
+          "cities": ["Sheohar"]
         },
         {
-            "name":"Sitamarhi",
-            "cities":[
-                "Sitamarhi"
-            ]
+          "name": "Sitamarhi",
+          "cities": ["Sitamarhi"]
         },
         {
-            "name":"Siwan",
-            "cities":[
-                "Siwan"
-            ]
+          "name": "Siwan",
+          "cities": ["Siwan"]
         },
         {
-            "name":"Supaul",
-            "cities":[
-                "Supaul"
-            ]
+          "name": "Supaul",
+          "cities": ["Supaul"]
         },
         {
-            "name":"Vaishali",
-            "cities":[
-                "Vaishali"
-            ]
+          "name": "Vaishali",
+          "cities": ["Vaishali"]
         },
         {
-            "name":"West Champaran",
-            "cities":[
-                "West Champaran"
-            ]
+          "name": "West Champaran",
+          "cities": ["West Champaran"]
         }
-    ]
+      ]
     },
     {
       "name": "Chhattisgarh",
@@ -1445,7 +1227,7 @@
       "districts": [
         {
           "name": "Ajmer",
-          "cities": [ 
+          "cities": [
             "Ajaysar",
             "Ajmer(M Corp.",
             "Akhri",
@@ -1533,231 +1315,168 @@
           ]
         },
         {
-          "name": "Alwar", 
-          "cities": [ 
-          "Alwar Muncipial Council",
-          "Diwakari Census Town",
-          "Bhoogar Census Town",
-          "Desoola Census Town"
+          "name": "Alwar",
+          "cities": [
+            "Alwar Muncipial Council",
+            "Diwakari Census Town",
+            "Bhoogar Census Town",
+            "Desoola Census Town"
           ]
         },
         {
-          "name" : "Banswara",
-          "cities": [
-            "Banswara Municipality"
-          ]
+          "name": "Banswara",
+          "cities": ["Banswara Municipality"]
         },
         {
-          "name" : "Bara",
-          "cities": [
-            "Bara Municipality"
-          ]
+          "name": "Bara",
+          "cities": ["Bara Municipality"]
         },
 
         {
-          "name" : "Barmer",
-          "cities": [
-            "Barmer Municipality"
-          ]
+          "name": "Barmer",
+          "cities": ["Barmer Municipality"]
         },
 
         {
-          "name" : "Bharatpur",
-          "cities": [
-            "Bharatpur Municipality"
-          ]
+          "name": "Bharatpur",
+          "cities": ["Bharatpur Municipality"]
         },
 
         {
-          "name" : "Bhilwara",
-          "cities": [
-            "Bhilwara Municipality"
-          ]
+          "name": "Bhilwara",
+          "cities": ["Bhilwara Municipality"]
         },
 
         {
-          "name" : "Bikaner",
-          "cities": [
-            "Bikaner Municipality"
-          ]
+          "name": "Bikaner",
+          "cities": ["Bikaner Municipality"]
         },
 
         {
-          "name" : "Bundi",
-          "cities": [
-            "Bundi Municipality"
-          ]
+          "name": "Bundi",
+          "cities": ["Bundi Municipality"]
         },
 
         {
-          "name" : "Chittorgarh",
-          "cities": [
-            "Chittorgarh Municipality"
-          ]
+          "name": "Chittorgarh",
+          "cities": ["Chittorgarh Municipality"]
         },
 
         {
-          "name" : "Churu",
-          "cities": [
-            "Churu Municipality"
-          ]
+          "name": "Churu",
+          "cities": ["Churu Municipality"]
         },
 
         {
-          "name" : "Dausa",
-          "cities": [
-            "Dausa Municipality"
-          ]
+          "name": "Dausa",
+          "cities": ["Dausa Municipality"]
         },
 
         {
-          "name" : "Dholpur",
-          "cities": [
-            "Dholpur Municipality"
-          ]
+          "name": "Dholpur",
+          "cities": ["Dholpur Municipality"]
         },
 
         {
-          "name" : "Dungarpur",
-          "cities": [
-            "Dungarpur Municipality"
-          ]
+          "name": "Dungarpur",
+          "cities": ["Dungarpur Municipality"]
         },
 
         {
-          "name" : "Hanumangarh",
-          "cities": [
-            "Hanumangarh Municipality"
-          ]
+          "name": "Hanumangarh",
+          "cities": ["Hanumangarh Municipality"]
         },
 
         {
-          "name" : "Jaipur",
-          "cities": [
-            "Jaipur Municipality"
-          ]
+          "name": "Jaipur",
+          "cities": ["Jaipur Municipality"]
         },
 
         {
-          "name" : "Jaisalmer",
-          "cities": [
-            "Jaisalmer Municipality"
-          ]
+          "name": "Jaisalmer",
+          "cities": ["Jaisalmer Municipality"]
         },
 
         {
-          "name" : "Jalore",
-          "cities": [
-            "Jalore Municipality"
-          ]
+          "name": "Jalore",
+          "cities": ["Jalore Municipality"]
         },
 
         {
-          "name" : "Jhalawar",
-          "cities": [
-            "Jhalawar Municipality"
-          ]
+          "name": "Jhalawar",
+          "cities": ["Jhalawar Municipality"]
         },
 
         {
-          "name" : "Jhunjhunu",
-          "cities": [
-            "Jhunjhnu Municipality"
-          ]
+          "name": "Jhunjhunu",
+          "cities": ["Jhunjhnu Municipality"]
         },
 
         {
-          "name" : "Jodhpur",
-          "cities": [
-            "Jodhpur Municipality"
-          ]
+          "name": "Jodhpur",
+          "cities": ["Jodhpur Municipality"]
         },
 
         {
-          "name" : "Karauli",
-          "cities": [
-            "Karauli Municipality"
-          ]
+          "name": "Karauli",
+          "cities": ["Karauli Municipality"]
         },
 
         {
-          "name" : "Kota",
-          "cities": [
-            "Kota Municipality"
-          ]
+          "name": "Kota",
+          "cities": ["Kota Municipality"]
         },
 
         {
-          "name" : "Nagaur",
-          "cities": [
-            "Nagaur Municipality"
-          ]
+          "name": "Nagaur",
+          "cities": ["Nagaur Municipality"]
         },
 
         {
-          "name" : "Pali",
-          "cities": [
-            "Pali Municipality"
-          ]
+          "name": "Pali",
+          "cities": ["Pali Municipality"]
         },
 
         {
-          "name" : "Pratapgarh",
-          "cities": [
-            "Pratapgarh Municipality"
-          ]
+          "name": "Pratapgarh",
+          "cities": ["Pratapgarh Municipality"]
         },
 
         {
-          "name" : "Rajsamand",
-          "cities": [
-            "Rajsamand Municipality"
-          ]
+          "name": "Rajsamand",
+          "cities": ["Rajsamand Municipality"]
         },
 
         {
-          "name" : "Sawai Madhopur",
-          "cities": [
-            "Sawai Madhopur Municipality"
-          ]
+          "name": "Sawai Madhopur",
+          "cities": ["Sawai Madhopur Municipality"]
         },
 
         {
-          "name" : "Sikar",
-          "cities": [
-            "Sikar Municipality"
-          ]
+          "name": "Sikar",
+          "cities": ["Sikar Municipality"]
         },
 
         {
-          "name" : "Sirohi",
-          "cities": [
-            " Sirohi Municipality"
-          ]
+          "name": "Sirohi",
+          "cities": [" Sirohi Municipality"]
         },
 
         {
-          "name" : "Sri Ganganagar",
-          "cities": [
-            "Sri Ganganagar Muincipality"
-          ]
+          "name": "Sri Ganganagar",
+          "cities": ["Sri Ganganagar Muincipality"]
         },
 
         {
-          "name" : "Tonk",
-          "cities": [
-            "Tonk Municipality"
-          ]
+          "name": "Tonk",
+          "cities": ["Tonk Municipality"]
         },
 
         {
-          "name" : "Udaipur",
-          "cities": [
-            "Udaipur Municipality"
-          ]
+          "name": "Udaipur",
+          "cities": ["Udaipur Municipality"]
         }
       ]
     }
   ]
 }
-
