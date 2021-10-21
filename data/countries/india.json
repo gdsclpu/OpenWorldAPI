@@ -987,6 +987,326 @@
           "cities": []
         }
       ]
+    },
+    {
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "districts": [
+        {
+          "name": "Ajmer",
+          "cities": [ 
+            "Ajaysar",
+            "Ajmer(M Corp.",
+            "Akhri",
+            "Amba Maseena",
+            "Aradka",
+            "Babayacha",
+            "Badiya Ka Bala",
+            "Balwanta",
+            "Banseli",
+            "Bargaon",
+            "Beer",
+            "Bhanwta",
+            "Bhawani Khera",
+            "Bhodol",
+            "Boraj-Kazipura(CT)",
+            "Bubani",
+            "Chachiywas",
+            "Chandiyawas",
+            "Chawandiya",
+            "Chhatri",
+            "Danta",
+            "Daurai(Rural)",
+            "Dedula",
+            "Deo Nagar",
+            "Doomara",
+            "Doongariya Khurd",
+            "Gagwana",
+            "Ganahera",
+            "Gegal",
+            "Ghooghra",
+            "Godiyawas",
+            "Goyala",
+            "Gudha",
+            "Gudli",
+            "Guwardi",
+            "Hansiyawas",
+            "Hathi Khera",
+            "Hatoondi",
+            "Hokaran",
+            "Hoshiyara",
+            "Jatiya",
+            "Jatli",
+            "Kadel",
+            "Kaklana",
+            "Kawalai",
+            "Kayampura",
+            "Kayar",
+            "Khajpura",
+            "Kharekhari",
+            "Khonda",
+            "Khori",
+            "Kishanpura",
+            "Lachchipura",
+            "Ladpura",
+            "Leela Seori",
+            "Leswa",
+            "Lohagal",
+            "Madarpura",
+            "Magra",
+            "Magri",
+            "Majhewla",
+            "Makarwali",
+            "Miyapur",
+            "Muhami(Mohami)",
+            "Naharpura",
+            "Nand",
+            "Nareli",
+            "Narwar",
+            "Nolkha",
+            "Oontra",
+            "Padampura",
+            "Palra",
+            "Pushkar(M)",
+            "Pushkar(Rural)",
+            "Ramner Dhami",
+            "Rampura Nand",
+            "Rasoolpura",
+            "Rewat",
+            "Saradhana",
+            "Sarana",
+            "Sedariya",
+            "Somalpur",
+            "Tabeej(Rural)",
+            "Tilora"
+          ]
+        },
+        {
+          "name": "Alwar", 
+          "cities": [ 
+          "Alwar Muncipial Council",
+          "Diwakari Census Town",
+          "Bhoogar Census Town",
+          "Desoola Census Town"
+          ]
+        },
+        {
+          "name" : "Banswara",
+          "cities": [
+            "Banswara Municipality"
+          ]
+        },
+        {
+          "name" : "Bara",
+          "cities": [
+            "Bara Municipality"
+          ]
+        },
+
+        {
+          "name" : "Barmer",
+          "cities": [
+            "Barmer Municipality"
+          ]
+        },
+
+        {
+          "name" : "Bharatpur",
+          "cities": [
+            "Bharatpur Municipality"
+          ]
+        },
+
+        {
+          "name" : "Bhilwara",
+          "cities": [
+            "Bhilwara Municipality"
+          ]
+        },
+
+        {
+          "name" : "Bikaner",
+          "cities": [
+            "Bikaner Municipality"
+          ]
+        },
+
+        {
+          "name" : "Bundi",
+          "cities": [
+            "Bundi Municipality"
+          ]
+        },
+
+        {
+          "name" : "Chittorgarh",
+          "cities": [
+            "Chittorgarh Municipality"
+          ]
+        },
+
+        {
+          "name" : "Churu",
+          "cities": [
+            "Churu Municipality"
+          ]
+        },
+
+        {
+          "name" : "Dausa",
+          "cities": [
+            "Dausa Municipality"
+          ]
+        },
+
+        {
+          "name" : "Dholpur",
+          "cities": [
+            "Dholpur Municipality"
+          ]
+        },
+
+        {
+          "name" : "Dungarpur",
+          "cities": [
+            "Dungarpur Municipality"
+          ]
+        },
+
+        {
+          "name" : "Hanumangarh",
+          "cities": [
+            "Hanumangarh Municipality"
+          ]
+        },
+
+        {
+          "name" : "Jaipur",
+          "cities": [
+            "Jaipur Municipality"
+          ]
+        },
+
+        {
+          "name" : "Jaisalmer",
+          "cities": [
+            "Jaisalmer Municipality"
+          ]
+        },
+
+        {
+          "name" : "Jalore",
+          "cities": [
+            "Jalore Municipality"
+          ]
+        },
+
+        {
+          "name" : "Jhalawar",
+          "cities": [
+            "Jhalawar Municipality"
+          ]
+        },
+
+        {
+          "name" : "Jhunjhunu",
+          "cities": [
+            "Jhunjhnu Municipality"
+          ]
+        },
+
+        {
+          "name" : "Jodhpur",
+          "cities": [
+            "Jodhpur Municipality"
+          ]
+        },
+
+        {
+          "name" : "Karauli",
+          "cities": [
+            "Karauli Municipality"
+          ]
+        },
+
+        {
+          "name" : "Kota",
+          "cities": [
+            "Kota Municipality"
+          ]
+        },
+
+        {
+          "name" : "Nagaur",
+          "cities": [
+            "Nagaur Municipality"
+          ]
+        },
+
+        {
+          "name" : "Pali",
+          "cities": [
+            "Pali Municipality"
+          ]
+        },
+
+        {
+          "name" : "Pratapgarh",
+          "cities": [
+            "Pratapgarh Municipality"
+          ]
+        },
+
+        {
+          "name" : "Rajsamand",
+          "cities": [
+            "Rajsamand Municipality"
+          ]
+        },
+
+        {
+          "name" : "Sawai Madhopur",
+          "cities": [
+            "Sawai Madhopur Municipality"
+          ]
+        },
+
+        {
+          "name" : "Sikar",
+          "cities": [
+            "Sikar Municipality"
+          ]
+        },
+
+        {
+          "name" : "Sirohi",
+          "cities": [
+            " Sirohi Municipality"
+          ]
+        },
+
+        {
+          "name" : "Sri Ganganagar",
+          "cities": [
+            "Sri Ganganagar Muincipality"
+          ]
+        },
+
+        {
+          "name" : "Tonk",
+          "cities": [
+            "Tonk Municipality"
+          ]
+        },
+
+        {
+          "name" : "Udaipur",
+          "cities": [
+            "Udaipur Municipality"
+          ]
+        }
+      ]
     }
   ]
 }
+
