@@ -416,8 +416,12 @@
       "capital": "Panaji",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "North Goa",
+          "cities": ["Bicholim", "Mapusa", "Panaji", "Pernem", "Sanquelim", "Valpoi"]
+        },
+        {
+          "name": "South Goa",
+          "cities": ["Canacona", "Cuncolim", "Curchorem", "Margao", "Mormugao", "Ponda", "Quepem", "Sanguem"]
         }
       ]
     },
