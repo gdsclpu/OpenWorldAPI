@@ -661,7 +661,98 @@
       "capital": "Ranchi",
       "districts": [
         {
-          "name": "",
+          "name": "Bokaro",
+          "cities": []
+        },
+        {
+          "name": "Chatra",
+          "cities": []
+        },
+        {
+          "name": "Deoghar",
+          "cities": []
+        },
+        {
+          "name": "Dhanbad",
+          "cities": []
+        },
+        {
+          "name": "Dumka",
+          "cities": []
+        },
+        {
+          "name": "East Singhbhum",
+          "cities": []
+        },
+        {
+          "name": "Garhwa",
+          "cities": []
+        },
+        {
+          "name": "Giridih",
+          "cities": []
+        },
+        {
+          "name": "Godda",
+          "cities": []
+        },
+        {
+          "name": "Gumla",
+          "cities": []
+        },
+        {
+          "name": "Hazaribag",
+          "cities": []
+        },
+        {
+          "name": "Jamtara",
+          "cities": []
+        },{
+          "name": "Khunti",
+          "cities": []
+        },
+        {
+          "name": "Koderma",
+          "cities": []
+        },
+        {
+          "name": "Latehar",
+          "cities": []
+        },
+        {
+          "name": "Lohardaga",
+          "cities": []
+        },
+        {
+          "name": "Pakur",
+          "cities": []
+        },
+        {
+          "name": "Palamu",
+          "cities": []
+        },
+        {
+          "name": "Ramgarh",
+          "cities": []
+        },
+        {
+          "name": "Ranchi",
+          "cities": []
+        },
+        {
+          "name": "Sahibganj",
+          "cities": []
+        },
+        {
+          "name": "Seraikela-Kharsawan",
+          "cities": []
+        },
+        {
+          "name": "Simdega",
+          "cities": []
+        },
+        {
+          "name": "West Singhbhum",
           "cities": []
         }
       ]
