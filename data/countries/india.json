@@ -417,11 +417,27 @@
       "districts": [
         {
           "name": "North Goa",
-          "cities": ["Bicholim", "Mapusa", "Panaji", "Pernem", "Sanquelim", "Valpoi"]
+          "cities": [
+            "Bicholim",
+            "Mapusa",
+            "Panaji",
+            "Pernem",
+            "Sanquelim",
+            "Valpoi"
+          ]
         },
         {
           "name": "South Goa",
-          "cities": ["Canacona", "Cuncolim", "Curchorem", "Margao", "Mormugao", "Ponda", "Quepem", "Sanguem"]
+          "cities": [
+            "Canacona",
+            "Cuncolim",
+            "Curchorem",
+            "Margao",
+            "Mormugao",
+            "Ponda",
+            "Quepem",
+            "Sanguem"
+          ]
         }
       ]
     },
@@ -1407,8 +1423,73 @@
       "capital": "Gangtok",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "East Sikkim",
+          "cities": [
+            "Rhenock",
+            "Ranipool",
+            "Singtam",
+            "Pakyong",
+            "Pelling",
+            "Gangtok",
+            "Rongli",
+            "Dikchu",
+            "Rangpo",
+            "Ranipool / Gangtok",
+            "Assam Lingzey",
+            "Duga",
+            "Pacheykhani",
+            "Penlong",
+            "Rumtek",
+            "Samdong",
+            "Sang",
+            "Sichey Busty",
+            "Nathula"
+          ]
+        },
+        {
+          "name": "North Sikkim",
+          "cities": [
+            "Chungthang",
+            "Mangan",
+            "Hee Gyathang",
+            "Kabi",
+            "Lachen",
+            "Lachung",
+            "Phodong",
+            "Tingbong"
+          ]
+        },
+        {
+          "name": "South Sikkim",
+          "cities": [
+            "Namchi",
+            "Ravangla",
+            "Melli",
+            "Chakung",
+            "Damthang",
+            "Jorthang",
+            "Namthang",
+            "Sumbuk",
+            "Temi",
+            "Wak",
+            "Yangang"
+          ]
+        },
+        {
+          "name": "West Sikkim",
+          "cities": [
+            "Gaylshing",
+            "Jorethang",
+            "Daramdin",
+            "Dentam",
+            "Ilee Yangthang",
+            "Kaluk",
+            "Mangalbarey",
+            "Okhray",
+            "Soreng",
+            "Tashiding",
+            "Yoksum"
+          ]
         }
       ]
     },
