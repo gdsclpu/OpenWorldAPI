@@ -183,8 +183,34 @@
       "capital": "Panaji",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "North Goa",
+          "cities": [
+            "Bicholim",
+            "Bardez",
+            "Pernem",
+            "Tiswadi",
+            "Sattari",
+            "Curti",
+            "Jua",
+            "Mercurim",
+            "Moira",
+            "Morjim"
+          ]
+        },
+        {
+          "name": "South Goa",
+          "cities": [
+            "Salcete",
+            "Sanguem",
+            "Quepem",
+            "Ponda",
+            "Mormugao",
+            "Canacona",
+            "Raia",
+            "Varca",
+            "Verna",
+            "Xeldem"
+          ]
         }
       ]
     },
