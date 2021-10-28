@@ -812,8 +812,73 @@
       "capital": "Aizawl",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "Aizawl",
+          "cities": [
+            "Aibawk",
+            "Saitual",
+            "Aizawl",
+            "Chandmary",
+            "Thingsulthliah",
+            "Bawngkawn",
+            "Zawlnuam",
+            "Kulikawn",
+            "Ramhlun",
+            "Vaivakawn",
+            "Zemabawk",
+            "Darlawn",
+            "Dawrpui",
+            "Durtlang",
+            "Lengpui Airport",
+            "Chanmary",
+            "Sialsuk",
+            "Sihphir",
+            "Tlangnuam"
+          ]
+        },
+        {
+          "name": "Champhai",
+          "cities": ["S.khawbung", "Khawzawl", "Champhai", "Ngopa"]
+        },
+        {
+          "name": "Kolasib",
+          "cities": [
+            "Kolasib",
+            "Bilkhawthlir",
+            "Kawnpui",
+            "Vairengte",
+            "Thingdawl"
+          ]
+        },
+        {
+          "name": "Lawngtlai",
+          "cities": ["Lawngtlai", "Sangau"]
+        },
+        {
+          "name": "Lunglei",
+          "cities": [
+            "Hnahthial",
+            "Chawngte",
+            "Lungsen",
+            "Lunglei",
+            "Bunghmun",
+            "Hanhthial",
+            "Demagiri",
+            "Zotlang",
+            "Kamalanagar",
+            "Thingsai"
+          ]
+        },
+        {
+          "name": "Mammit",
+          "cities": ["Reiek", "Phaileng", "Mamit", "Sairang"]
+        },
+        {
+          "name": "Saiha",
+          "cities": ["Saiha", "Tuipang", "Siaha"]
+        },
+        {
+          "name": "Serchipp",
+          "cities": ["Lungdar", "Serchhip"]
         }
       ]
     },
