@@ -1,35 +1,31 @@
 const options = {
   definition: {
-    openapi: "3.0.0",
+    openapi: '3.0.0',
     info: {
-      title: "OpenWorldApi Docs",
-      version: "1.0.0",
+      title: 'OpenWorldApi Docs',
+      version: '1.0.0',
       description:
-        "This provides a simplified documentation for using the open world api in any of your project. It also make it easy to test",
+        'This provides a simplified documentation for using the open world api in any of your project. It also make it easy to test',
       license: {
-        name: "MIT",
-        url: "https://spdx.org/licenses/MIT.html",
+        name: 'MIT',
+        url: 'https://spdx.org/licenses/MIT.html',
       },
       contact: {
-        name: "OpenWorldApi",
-        url: "/",
-        email: "samson@luxstek.com",
+        name: 'OpenWorldApi',
+        url: '/',
+        email: 'samson@luxstek.com',
       },
     },
     servers: [
       {
-        url: "http://localhost:5200",
+        url: 'http://localhost:5200',
       },
       {
-        url: "https://openworldapi.tech",
+        url: 'https://openworldapi.tech',
       },
     ],
   },
-  apis: [
-    "./routes/countries.js",
-    "./routes/states.js",
-    "./routes/districts.js",
-  ],
+  apis: ['./routes/*.js'],
 };
 
 module.exports = { options };
