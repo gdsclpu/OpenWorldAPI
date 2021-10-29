@@ -406,8 +406,76 @@
       "capital": "Naya Raipur",
       "districts": [
         {
-          "name": "",
-          "cities": []
+          "name": "Balod",
+          "cities": ["Balod"]
+        },
+        {
+          "name": "Balrampur",
+          "cities": ["Balrampur"]
+        },
+        {
+          "name": "Bastar",
+          "cities": ["Bastar"]
+        },
+        {
+          "name": "Bemetara",
+          "cities": ["Bemetara"]
+        },
+        {
+          "name": "Bijapur",
+          "cities": ["Bijapur"]
+        },
+        {
+          "name": "Bilaspur",
+          "cities": ["Bilaspur"]
+        },
+        {
+          "name": "Dhamtari",
+          "cities": ["Dhamtari"]
+        },
+        {
+          "name": "Durg",
+          "cities": ["Durg"]
+        },
+        {
+          "name": "Gariyaband",
+          "cities": ["Gariyaband"]
+        },
+        {
+          "name": "Jashpur",
+          "cities": ["Jashpur"]
+        },
+        {
+          "name": "Kanker",
+          "cities": ["Kanker"]
+        },
+        {
+          "name": "Kabirdham",
+          "cities": ["Kabirdham"]
+        },
+        {
+          "name": "Korba",
+          "cities": ["Korba"]
+        },
+        {
+          "name": "Mahasamund",
+          "cities": ["Mahasamund"]
+        },
+        {
+          "name": "Mungeli",
+          "cities": ["Mungeli"]
+        },
+        {
+          "name": "Narayanpur",
+          "cities": ["Narayanpur"]
+        },
+        {
+          "name": "Raigarh",
+          "cities": ["Raigarh"]
+        },
+        {
+          "name": "Raipur",
+          "cities": ["Raipur"]
         }
       ]
     },
@@ -419,24 +487,31 @@
           "name": "North Goa",
           "cities": [
             "Bicholim",
-            "Mapusa",
-            "Panaji",
+            "Bardez",
             "Pernem",
-            "Sanquelim",
-            "Valpoi"
+            "Tiswadi",
+            "Sattari",
+            "Curti",
+            "Jua",
+            "Mercurim",
+            "Moira",
+            "Morjim"
+
           ]
         },
         {
           "name": "South Goa",
           "cities": [
-            "Canacona",
-            "Cuncolim",
-            "Curchorem",
-            "Margao",
-            "Mormugao",
-            "Ponda",
+            "Salcete",
+            "Sanguem",
             "Quepem",
-            "Sanguem"
+            "Ponda",
+            "Mormugao",
+            "Canacona",
+            "Raia",
+            "Varca",
+            "Verna",
+            "Xeldem"
           ]
         }
       ]

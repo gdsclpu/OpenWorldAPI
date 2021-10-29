@@ -1,17 +1,269 @@
 {
         "country":"Canada",
-        "capital":"",
+        "capital":"Ottawa",
         "currency":"",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"Alberta",
+                "capital":"Edmonton",
                 "districts":[
                     {
                         "name":"",
-                        "cities":[]
+                        "cities":[
+                            "Airdrie",
+                            "Beaumont",
+                            "Brooks",
+                            "Calgary",
+                            "Camrose",
+                            "Chestermere",
+                            "Cold Lake",
+                            "Edmonton",
+                            "Fort Saskatchewan",
+                            "Grande Prairie",
+                            "Lacombe",
+                            "Leduc",
+                            "Lethbridge",
+                            "Lloydminster",
+                            "Medicine Hat"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"British Columbia",
+                "capital":"Victoria",
+                "districts":[
+                    {
+                        "name":"British Columbia",
+                        "cities":[
+                            "Abbotsford",
+                            "Armstrong",
+                            "Burnaby",
+                            "Campbell River",
+                            "Castlegar",
+                            "Chilliwack",
+                            "Colwood",
+                            "Coquitlam",
+                            "Courtenay",
+                            "Cranbrook",
+                            "Dawson Creek",
+                            "Delta",
+                            "Duncan",
+                            "Enderby",
+                            "Fernie"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Manitoba",
+                "capital":"Winnipeg",
+                "districts":[
+                    {
+                        "name":"Manitoba",
+                        "cities":[
+                            "Brandon",
+                            "Dauphin",
+                            "Flin Flon",
+                            "Morden",
+                            "Portage la Prairie",
+                            "Selkirk",
+                            "Steinbach",
+                            "Thompson",
+                            "Winkler",
+                            "Winnipeg"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"New Brunswick",
+                "capital":"Fredericton",
+                "districts":[
+                    {
+                        "name":"New Brunswick",
+                        "cities":[
+                            "Bathurst",
+                            "Campbellton[",
+                            "Dieppe",
+                            "Edmundston",
+                            "Fredericton",
+                            "Miramichi",
+                            "Moncton",
+                            "Saint John"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Newfoundland and Labrador",
+                "capital":"St. John's",
+                "districts":[
+                    {
+                        "name":"Newfoundland and Labrador",
+                        "cities":[
+                            "Corner Brook",
+                            "Mount Pearl",
+                            "St. John's"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Northwest Territories",
+                "capital":"Yellowknife",
+                "districts":[
+                    {
+                        "name":"Northwest Territories",
+                        "cities":[
+                            "Yellowknife"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Nova Scotia",
+                "capital":"Halifax",
+                "districts":[
+                    {
+                        "name":"Nova Scotia",
+                        "cities":[
+                            "Halifax",
+                            "Sydney",
+                            "Dartmouth"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Nunavut",
+                "capital":"Iqaluit",
+                "districts":[
+                    {
+                        "name":"Nunavut",
+                        "cities":[
+                            "Iqaluit"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Ontario",
+                "capital":"Toronto",
+                "districts":[
+                    {
+                        "name":"Ontario",
+                        "cities":[
+                            "Barrie",
+                            "Belleville",
+                            "Brampton",
+                            "Brant",
+                            "Brockville",
+                            "Brantford",
+                            "Burlington",
+                            "Cambridge",
+                            "Clarence-Rockland",
+                            "Cornwall",
+                            "Dryden",
+                            "Elliot Lake",
+                            "Greater Sudbury",
+                            "Guelph",
+                            "Haldimand County",
+                            "Ottawa",
+                            "Sarnia",
+                            "Sault Ste. Marie",
+                            "St. Catharines[",
+                            "Stratford",
+                            "St. Thomas",
+                            "Temiskaming Shores",
+                            "Thunder Bay",
+                            "Toronto",
+                            "Vaughan",
+                            "Waterloo",
+                            "Welland",
+                            "Windsor",
+                            "Woodstock"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Prince Edward Island",
+                "capital":"Charlottetown",
+                "districts":[
+                    {
+                        "name":"Prince Edward Island",
+                        "cities":[
+                            "Charlottetown",
+                            "Summerside"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Quebec",
+                "capital":"Quebec City",
+                "districts":[
+                    {
+                        "name":"Quebec",
+                        "cities":[
+                            "Acton Vale",
+                            "Alma",
+                            "Amos",
+                            "Amqui",
+                            "Baie-Comeau",
+                            "Baie-D'Urfé",
+                            "Baie-Saint-Paul",
+                            "Barkmere",
+                            "Beaconsfield",
+                            "Beauceville",
+                            "Beauharnois",
+                            "Beaupré",
+                            "Bécancour",
+                            "Bedford",
+                            "Belleterre"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Saskatchewan",
+                "capital":"Regina",
+                "districts":[
+                    {
+                        "name":"Saskatchewan",
+                        "cities":[
+                            "Estevan",
+                            "Humboldt",
+                            "Meadow Lake",
+                            "Melfort",
+                            "Moose Jaw",
+                            "North Battleford",
+                            "Prince Albert",
+                            "Regina",
+                            "Saskatoon",
+                            "Swift Current",
+                            "Weyburn",
+                            "Warman",
+                            "Lloydminster",
+                            "Martensville",
+                            "Yorkton"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name":"Yukon",
+                "capital":"Whitehorse",
+                "districts":[
+                    {
+                        "name":"Yukon",
+                        "cities":[
+                            "Whitehorse"
+                        ]
                     }
                 ]
             }
+            
         ]
     }
