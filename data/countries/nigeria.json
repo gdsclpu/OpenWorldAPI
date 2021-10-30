@@ -18,6 +18,10 @@
             "capital": "FCT",
             "districts": [
                 {
+                    "name": "Apo",
+                    "cities": []
+                },
+                {
                     "name": "Asokoro",
                     "cities": []
                 },
@@ -44,10 +48,16 @@
                     ]
                 },
                 {
-                    "name": "Utako"
+                    "name": "Gwarimpa",
+                    "cities": []
                 },
                 {
-                    "name": "Jabi"
+                    "name": "Utako",
+                    "cities": []
+                },
+                {
+                    "name": "Jabi",
+                    "cities": []
                 },
                 {
                     "name": "Maitama",
@@ -57,7 +67,8 @@
                     ]
                 },
                 {
-                    "name": "Lugbe"
+                    "name": "Lugbe",
+                    "cities": []
                 },
                 {
                     "name": "Wuse",
@@ -70,7 +81,66 @@
                         "Zone 6",
                         "Zone 7"
                     ]
+                },
+                {
+                    "name": "Nyanya",
+                    "cities": []
+                },
+                {
+                    "name": "Karu",
+                    "cities": []
+                },
+                {
+                    "name":"jukwoyi",
+                    "cities":[]
+                },
+                {
+                    "name":"Gudu",
+                    "cities":[]
+                },
+                {
+                    "name":"Wuye",
+                    "cities":[]
+                }, 
+                {
+                    "name":"Mabuchi",
+                    "cities":[]
+                },
+                {"name":"Jahi",
+                "cities":[]},
+                {
+                    "name":"Kado",
+                    "cities":[]
+                },
+                {
+                    "name":"Kukwuaba",
+                    "cities":[]
+                },
+                {
+                    "name":"Dakibiyu",
+                    "cities":[]
+                },
+                {
+                    "name":"Kaura",
+                    "cities":[]
+                },
+                {
+                    "name":"Duboyi",
+                    "cities":[]
+                },
+                {
+                    "name":"Gaduwa",
+                    "cities":[]
+                },
+                {
+                    "name":"Dutse",
+                    "cities":[]
+                },
+                {
+                    "name":"Katampe",
+                    "cities":[]
                 }
+
             ]
         },
         {
