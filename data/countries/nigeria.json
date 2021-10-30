@@ -1,427 +1,417 @@
 {
-        "country":"Nigeria",
-        "capital":"FCT",
-        "currency":"naira",
-        "states":[ 
-            {
-                "name":"Abia",
-                "capital":"Umuahi",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                ]
-            },
-            {
-                "name":"Abuja",
-                "capital":"FCT",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Adamawa",
-                "capital":"Yola",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Anambra",
-                "capital":"Akwa",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Bauchi",
-                "capital":"Bauchi",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Beyelsa",
-                "capital":"Yenagoa",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Benue",
-                "capital":"Makurdi",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Borno",
-                "capital":"Maiduguri",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Cross River",
-                "capital":"Calabar",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Delta",
-                "capital":"Asaba",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Ebonyi",
-                "capital":"Abakaliki",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Edo",
-                "capital":"Benin",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Ekiti",
-                "capital":"Ado-Ekiti",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Enugu",
-                "capital":"Enugu",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Gombe",
-                "capital":"Gombe",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Imo",
-                "capital":"Owerri",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Jigawa",
-                "capital":"Dutse",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Kaduna",
-                "capital":"Kaduna",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Kano",
-                "capital":"Kano",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Katsina",
-                "capital":"Katsina",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Kebbi",
-                "capital":"Birnin Kebbi",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Kogi",
-                "capital":"Lokoja",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Kwara",
-                "capital":"Ilorin",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Lagos",
-                "capital":"Ikeja",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Nassarawa",
-                "capital":"Lafia",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Niger",
-                "capital":"Minna",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Ogun",
-                "capital":"Abeokuta",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Ondo",
-                "capital":"Akure",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Osun",
-                "capital":"Oshogbo",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-             {
-                "name":"Oyo",
-                "capital":"Ibadan",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Plateau",
-                "capital":"Jos",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Rivers",
-                "capital":"Port harcourt",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Sokoto",
-                "capital":"Sokoto",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Taraba",
-                "capital":"Jalingo",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Yobe",
-                "capital":"Damaturu",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            },
-            {
-                "name":"Zamfara",
-                "capital":"Gusau",
-                "districts":[
-                    {
-                        "name":"Central",
-                        "cities":[]
-                    }
-                     
-                ]
-            }
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-        ]
-    }
+    "country": "Nigeria",
+    "capital": "FCT",
+    "currency": "naira",
+    "states": [
+        {
+            "name": "Abia",
+            "capital": "Umuahi",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Abuja",
+            "capital": "FCT",
+            "districts": [
+                {
+                    "name": "Asokoro",
+                    "cities": []
+                },
+                {
+                    "name": "Central district",
+                    "cities": [
+                        "Central business Area"
+                    ]
+                },
+                {
+                    "name": "Garki",
+                    "cities": [
+                        "Area 1",
+                        "Area 2",
+                        "Area 3",
+                        "Area 4",
+                        "Area 5",
+                        "Area 6",
+                        "Area 7",
+                        "Area 8",
+                        "Area 9",
+                        "Area 10",
+                        "Area 11"
+                    ]
+                },
+                {
+                    "name": "Utako"
+                },
+                {
+                    "name": "Jabi"
+                },
+                {
+                    "name": "Maitama",
+                    "cities": [
+                        "Maitama 1",
+                        "Maitama 2"
+                    ]
+                },
+                {
+                    "name": "Lugbe"
+                },
+                {
+                    "name": "Wuse",
+                    "cities": [
+                        "Zone 1",
+                        "Zone 2",
+                        "Zone 3",
+                        "Zone 4",
+                        "Zone 5",
+                        "Zone 6",
+                        "Zone 7"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Adamawa",
+            "capital": "Yola",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Anambra",
+            "capital": "Akwa",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Bauchi",
+            "capital": "Bauchi",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Beyelsa",
+            "capital": "Yenagoa",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Benue",
+            "capital": "Makurdi",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Borno",
+            "capital": "Maiduguri",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Cross River",
+            "capital": "Calabar",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Delta",
+            "capital": "Asaba",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Ebonyi",
+            "capital": "Abakaliki",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Edo",
+            "capital": "Benin",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Ekiti",
+            "capital": "Ado-Ekiti",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Enugu",
+            "capital": "Enugu",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Gombe",
+            "capital": "Gombe",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Imo",
+            "capital": "Owerri",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Jigawa",
+            "capital": "Dutse",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kaduna",
+            "capital": "Kaduna",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kano",
+            "capital": "Kano",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Katsina",
+            "capital": "Katsina",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kebbi",
+            "capital": "Birnin Kebbi",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kogi",
+            "capital": "Lokoja",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kwara",
+            "capital": "Ilorin",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Lagos",
+            "capital": "Ikeja",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Nassarawa",
+            "capital": "Lafia",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Niger",
+            "capital": "Minna",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Ogun",
+            "capital": "Abeokuta",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Ondo",
+            "capital": "Akure",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Osun",
+            "capital": "Oshogbo",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Oyo",
+            "capital": "Ibadan",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Plateau",
+            "capital": "Jos",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Rivers",
+            "capital": "Port harcourt",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Sokoto",
+            "capital": "Sokoto",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Taraba",
+            "capital": "Jalingo",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Yobe",
+            "capital": "Damaturu",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Zamfara",
+            "capital": "Gusau",
+            "districts": [
+                {
+                    "name": "Central",
+                    "cities": []
+                }
+            ]
+        }
+    ]
+}
