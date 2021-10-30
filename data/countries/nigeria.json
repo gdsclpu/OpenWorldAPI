@@ -91,56 +91,105 @@
                     "cities": []
                 },
                 {
-                    "name":"jukwoyi",
-                    "cities":[]
+                    "name": "jukwoyi",
+                    "cities": []
                 },
                 {
-                    "name":"Gudu",
-                    "cities":[]
+                    "name": "Gudu",
+                    "cities": []
                 },
                 {
-                    "name":"Wuye",
-                    "cities":[]
-                }, 
-                {
-                    "name":"Mabuchi",
-                    "cities":[]
-                },
-                {"name":"Jahi",
-                "cities":[]},
-                {
-                    "name":"Kado",
-                    "cities":[]
+                    "name": "Wuye",
+                    "cities": []
                 },
                 {
-                    "name":"Kukwuaba",
-                    "cities":[]
+                    "name": "Mabuchi",
+                    "cities": []
                 },
                 {
-                    "name":"Dakibiyu",
-                    "cities":[]
+                    "name": "Jahi",
+                    "cities": []
                 },
                 {
-                    "name":"Kaura",
-                    "cities":[]
+                    "name": "Kado",
+                    "cities": []
                 },
                 {
-                    "name":"Duboyi",
-                    "cities":[]
+                    "name": "Kukwuaba",
+                    "cities": []
                 },
                 {
-                    "name":"Gaduwa",
-                    "cities":[]
+                    "name": "Dakibiyu",
+                    "cities": []
                 },
                 {
-                    "name":"Dutse",
-                    "cities":[]
+                    "name": "Kaura",
+                    "cities": []
                 },
                 {
-                    "name":"Katampe",
-                    "cities":[]
+                    "name": "Duboyi",
+                    "cities": []
+                },
+                {
+                    "name": "Gaduwa",
+                    "cities": []
+                },
+                {
+                    "name": "Dutse",
+                    "cities": []
+                },
+                {
+                    "name": "Katampe",
+                    "cities": []
+                },
+                {
+                    "name": "Karimo",
+                    "cities": []
+                },
+                {
+                    "name": "Dape",
+                    "cities": []
+                },
+                {
+                    "name": "Kafe",
+                    "cities": []
+                },
+                {
+                    "name": "Nbora",
+                    "cities": []
+                },
+                {
+                    "name": "Galadimawa",
+                    "cities": []
+                },
+                {
+                    "name": "Chika",
+                    "cities": []
+                },
+                {
+                    "name": "Kuchigworo",
+                    "cities": []
+                },
+                {
+                    "name": "Pyakassa",
+                    "cities": []
+                },
+                {
+                    "name": "Idu",
+                    "cities": []
+                },
+                {
+                    "name": "Mpape",
+                    "cities": []
+                },
+                {
+                    "name": "Karimu",
+                    "cities": []
+                },
+                {
+                    "name": "Gwagwa",
+                    "cities": []
                 }
-
             ]
         },
         {
