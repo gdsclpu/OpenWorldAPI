@@ -2075,7 +2075,87 @@
       "capital": "Kolkata",
       "districts": [
         {
-          "name": "",
+          "name": "Alipurduar",
+          "cities": []
+        },
+        {
+          "name": "Bankura",
+          "cities": []
+        },
+        {
+          "name": "Birbhum",
+          "cities": []
+        },
+        {
+          "name": "Burdwan (Bardhaman)",
+          "cities": []
+        },
+        {
+          "name": "Cooch Behar",
+          "cities": []
+        },
+        {
+          "name": "Dakshin Dinajpur (South Dinajpur)",
+          "cities": []
+        },
+        {
+          "name": "Darjeeling",
+          "cities": []
+        },
+        {
+          "name": "Hooghly",
+          "cities": []
+        },
+        {
+          "name": "Howrah",
+          "cities": []
+        },
+        {
+          "name": "Jalpaiguri",
+          "cities": []
+        },
+        {
+          "name": "Kalimpong",
+          "cities": []
+        },
+        {
+          "name": "Kolkata",
+          "cities": []
+        },
+        {
+          "name": "Malda",
+          "cities": []
+        },
+        {
+          "name": "Murshidabad",
+          "cities": []
+        },
+        {
+          "name": "Nadia",
+          "cities": []
+        },
+        {
+          "name": "North 24 Parganas",
+          "cities": []
+        },
+        {
+          "name": "Paschim Medinipur (West Medinipur)",
+          "cities": []
+        },
+        {
+          "name": "Purba Medinipur (East Medinipur)",
+          "cities": []
+        },
+        {
+          "name": "Purulia",
+          "cities": []
+        },
+        {
+          "name": "South 24 Parganas",
+          "cities": []
+        },
+        {
+          "name": "Uttar Dinajpur (North Dinajpur)",
           "cities": []
         }
       ]
