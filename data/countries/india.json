@@ -1891,7 +1891,47 @@
       "capital": "Kohima",
       "districts": [
         {
-          "name": "",
+          "name": "Dimapur",
+          "cities": []
+        },
+        {
+          "name": "Kiphire",
+          "cities": []
+        },
+        {
+          "name": "Kohima",
+          "cities": []
+        },
+        {
+          "name": "Longleng",
+          "cities": []
+        },
+        {
+          "name": "Mokokchung",
+          "cities": []
+        },
+        {
+          "name": "Mon",
+          "cities": []
+        },
+        {
+          "name": "Peren",
+          "cities": []
+        },
+        {
+          "name": "Phek",
+          "cities": []
+        },
+        {
+          "name": "Tuensang",
+          "cities": []
+        },
+        {
+          "name": "Wokha",
+          "cities": []
+        },
+        {
+          "name": "Zunheboto",
           "cities": []
         }
       ]
