@@ -1148,9 +1148,125 @@
       "capital": "Bangalore",
       "districts": [
         {
-          "name": "",
+          "name": "Bagalkot",
           "cities": []
-        }
+        },
+        {
+          "name": "Ballari (Bellary)",
+          "cities": []
+        },
+        {
+          "name": "Belagavi (Belgaum)",
+          "cities": []
+        },
+        {
+          "name": "Bengaluru (Bangalore) Rural",
+          "cities": []
+        },
+        {
+          "name": "Bengaluru (Bangalore) Urban",
+          "cities": []
+        },
+        {
+          "name": "Bidar",
+          "cities": []
+        },
+        {
+          "name": "Chamarajanagar",
+          "cities": []
+        },
+        {
+          "name": "Chikballapur",
+          "cities": []
+        },
+        {
+          "name": "Chikkamagaluru (Chikmagalur)",
+          "cities": []
+        },
+        {
+          "name": "Chitradurga",
+          "cities": []
+        },
+        {
+          "name": "Dakshina Kannada",
+          "cities": []
+        },
+        {
+          "name": "Davangere",
+          "cities": []
+        },
+        {
+          "name": "Dharwad",
+          "cities": []
+        },
+        {
+          "name": "Gadag",
+          "cities": []
+        },
+        {
+          "name": "Hassan",
+          "cities": []
+        },
+        {
+          "name": "Haveri",
+          "cities": []
+        },
+        {
+          "name": "Kalaburagi (Gulbarga)",
+          "cities": []
+        },
+        {
+          "name": "Kodagu",
+          "cities": []
+        },
+        {
+          "name": "Kolar",
+          "cities": []
+        },
+        {
+          "name": "Koppal",
+          "cities": []
+        },
+        {
+          "name": "Mandya",
+          "cities": []
+        },
+        {
+          "name": "Mysuru (Mysore)",
+          "cities": []
+        },
+        {
+          "name": "Raichur",
+          "cities": []
+        },
+        {
+          "name": "Ramanagara",
+          "cities": []
+        },
+        {
+          "name": "Shivamogga (Shimoga)",
+          "cities": []
+        },
+        {
+          "name": "Tumakuru (Tumkur)",
+          "cities": []
+        },
+        {
+          "name": "Udupi",
+          "cities": []
+        },
+        {
+          "name": "Uttara Kannada (Karwar)",
+          "cities": []
+        },
+        {
+          "name": "Vijayapura (Bijapur)",
+          "cities": []
+        },
+        {
+          "name": "Yadgir",
+          "cities": []
+        },
       ]
     },
     {
