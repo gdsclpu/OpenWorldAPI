@@ -1749,9 +1749,37 @@
       "capital": "Agartala",
       "districts": [
         {
-          "name": "",
+          "name": "Dhalai",
           "cities": []
-        }
+        },
+        {
+          "name": "Gomati",
+          "cities": []
+        }, 
+        {
+          "name": "Khowai",
+          "cities": []
+        },
+        {
+          "name": "North Tripura",
+          "cities": []
+        },
+        {
+          "name": "Sepahijala",
+          "cities": []
+        },
+        {
+          "name": "South Tripura",
+          "cities": []
+        },
+        {
+          "name": "Unakoti",
+          "cities": []
+        },
+        {
+          "name": "West Tripura",
+          "cities": []
+        },
       ]
     },
     {
