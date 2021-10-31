@@ -190,16 +190,7 @@
         }
       ]
     },
-    {
-      "name": "",
-      "capital": "",
-      "districts": [
-        {
-          "name": "",
-          "cities": []
-        }
-      ]
-    },
+
     {
       "name": "Fujian",
       "capital": "Fuzhou",
@@ -395,7 +386,67 @@
       "capital": "",
       "districts": [
         {
-          "name": "",
+          "name": "Baoshan",
+          "cities": []
+        },
+        {
+          "name": "Changning",
+          "cities": []
+        },
+        {
+          "name": "Chongming",
+          "cities": []
+        },
+        {
+          "name": "Fengxian",
+          "cities": []
+        },
+        {
+          "name": "Hongkou",
+          "cities": []
+        },
+        {
+          "name": "Huangpu",
+          "cities": []
+        },
+        {
+          "name": "Jiading",
+          "cities": []
+        },
+        {
+          "name": "Jingan",
+          "cities": []
+        },
+        {
+          "name": "Jinshan",
+          "cities": []
+        },
+        {
+          "name": "Minhang",
+          "cities": []
+        },
+        {
+          "name": "Pudong",
+          "cities": []
+        },
+        {
+          "name": "Qingpu",
+          "cities": []
+        },
+        {
+          "name": "Songjiang",
+          "cities": []
+        },
+        {
+          "name": "Xuhui",
+          "cities": []
+        },
+        {
+          "name": "Yangpu",
+          "cities": []
+        },
+        {
+          "name": "Zhabei",
           "cities": []
         }
       ]
