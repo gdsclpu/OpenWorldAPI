@@ -1941,7 +1941,123 @@
       "capital": "Bhubaneswar",
       "districts": [
         {
-          "name": "",
+          "name": "Angul",
+          "cities": []
+        },
+        {
+          "name": "Balangir",
+          "cities": []
+        },
+        {
+          "name": "Balasore",
+          "cities": []
+        },
+        {
+          "name": "Bargarh",
+          "cities": []
+        },
+        {
+          "name": "Bhadrak",
+          "cities": []
+        },
+        {
+          "name": "Boudh",
+          "cities": []
+        },
+        {
+          "name": "Cuttack",
+          "cities": []
+        },
+        {
+          "name": "Deogarh",
+          "cities": []
+        },
+        {
+          "name": "Dhenkanal",
+          "cities": []
+        },
+        {
+          "name": "Gajapati",
+          "cities": []
+        },
+        {
+          "name": "Ganjam",
+          "cities": []
+        },
+        {
+          "name": "Jagatsinghapur",
+          "cities": []
+        },
+        {
+          "name": "Jajpur",
+          "cities": []
+        },
+        {
+          "name": "Jharsuguda",
+          "cities": []
+        },
+        {
+          "name": "Kalahandi",
+          "cities": []
+        },
+        {
+          "name": "Kandhamal",
+          "cities": []
+        },
+        {
+          "name": "Kendrapara",
+          "cities": []
+        },
+        {
+          "name": "Kendujhar (Keonjhar)",
+          "cities": []
+        },
+        {
+          "name": "Khordha",
+          "cities": []
+        },
+        {
+          "name": "Koraput",
+          "cities": []
+        },
+        {
+          "name": "Malkangiri",
+          "cities": []
+        },
+        {
+          "name": "Mayurbhanj",
+          "cities": []
+        },
+        {
+          "name": "Nabarangpur",
+          "cities": []
+        },
+        {
+          "name": "Nayagarh",
+          "cities": []
+        },
+        {
+          "name": "Nuapada",
+          "cities": []
+        },
+        {
+          "name": "Puri",
+          "cities": []
+        },
+        {
+          "name": "Rayagada",
+          "cities": []
+        },
+        {
+          "name": "Sambalpur",
+          "cities": []
+        },
+        {
+          "name": "Sonepur",
+          "cities": []
+        },
+        {
+          "name": "Sundargarh",
           "cities": []
         }
       ]
