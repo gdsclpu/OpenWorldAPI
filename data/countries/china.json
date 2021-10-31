@@ -45,13 +45,153 @@
       "capital": "",
       "districts": [
         {
-          "name": "",
+          "name": "Beizhuang",
+          "cities": []
+        },
+        {
+          "name": "Bulaotun",
+          "cities": []
+        },
+        {
+          "name": "Dachengzi",
+          "cities": []
+        },
+        {
+          "name": "Dayushu",
+          "cities": []
+        },
+        {
+          "name": "Dongshaoqu",
+          "cities": []
+        },
+        {
+          "name": "Fengjiayu",
+          "cities": []
+        },
+        {
+          "name": "Gaoling",
+          "cities": []
+        },
+        {
+          "name": "Gubeikou",
+          "cities": []
+        },
+        {
+          "name": "Henanzhai",
+          "cities": []
+        },
+        {
+          "name": "Jingzhuang",
+          "cities": []
+        },
+        {
+          "name": "Jiugong",
+          "cities": []
+        },
+        {
+          "name": "Jiuxian",
+          "cities": []
+        },
+        {
+          "name": "Jugezhuang",
+          "cities": []
+        },
+        {
+          "name": "Kangzhuang",
+          "cities": []
+        },
+        {
+          "name": "Lucheng",
+          "cities": []
+        },
+        {
+          "name": "Majuqiao",
+          "cities": []
+        },
+        {
+          "name": "Miaofengshan",
+          "cities": []
+        },
+        {
+          "name": "Muyun Town",
+          "cities": []
+        },
+        {
+          "name": "Mujiayu",
+          "cities": []
+        },
+        {
+          "name": "Qianjiadian",
+          "cities": []
+        },
+        {
+          "name": "Shenjiaying",
+          "cities": []
+        },
+        {
+          "name": "Shicheng",
+          "cities": []
+        },
+        {
+          "name": "Shidu",
+          "cities": []
+        },
+        {
+          "name": "Shilipu",
+          "cities": []
+        },
+        {
+          "name": "Sihai",
+          "cities": []
+        },
+        {
+          "name": "Taishitun",
+          "cities": []
+        },
+        {
+          "name": "Wanliu",
+          "cities": []
+        },
+        {
+          "name": "Xiaotangshan",
+          "cities": []
+        },
+        {
+          "name": "Xingchengzi",
+          "cities": []
+        },
+        {
+          "name": "Xitangezhuang",
+          "cities": []
+        },
+        {
+          "name": "Xiwengzhuang",
+          "cities": []
+        },
+        {
+          "name": "Yangzheng",
+          "cities": []
+        },
+        {
+          "name": "Yizhuang",
+          "cities": []
+        },
+        {
+          "name": "Yongning",
+          "cities": []
+        },
+        {
+          "name": "Yongshun",
+          "cities": []
+        },
+        {
+          "name": "Zhangshanying",
           "cities": []
         }
       ]
     },
     {
-      "name": "Chongqing",
+      "name": "",
       "capital": "",
       "districts": [
         {
