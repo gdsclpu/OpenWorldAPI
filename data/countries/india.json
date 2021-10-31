@@ -521,7 +521,135 @@
       "capital": "Gandhinagar",
       "districts": [
         {
-          "name": "",
+          "name": "Ahmedabad",
+          "cities": []
+        },
+        {
+          "name": "Amreli",
+          "cities": []
+        },
+        {
+          "name": "Anand",
+          "cities": []
+        },
+        {
+          "name": "Aravalli",
+          "cities": []
+        },
+        {
+          "name": "Banaskantha (Palanpur)",
+          "cities": []
+        },
+        {
+          "name": "Bharuch",
+          "cities": []
+        },
+        {
+          "name": "Bhavnagar",
+          "cities": []
+        },
+        {
+          "name": "Botad",
+          "cities": []
+        },
+        {
+          "name": "Chhota Udepur",
+          "cities": []
+        },
+        {
+          "name": "Dahod",
+          "cities": []
+        },
+        {
+          "name": "Dangs (Ahwa)",
+          "cities": []
+        },
+        {
+          "name": "Devbhoomi Dwarka",
+          "cities": []
+        },
+        {
+          "name": "Gandhinagar",
+          "cities": []
+        },
+        {
+          "name": "Gir Somnath",
+          "cities": []
+        },
+        {
+          "name": "Jamnagar",
+          "cities": []
+        },
+        {
+          "name": "Junagadh",
+          "cities": []
+        },
+        {
+          "name": "Kachchh",
+          "cities": []
+        },
+        {
+          "name": "Kheda (Nadiad)",
+          "cities": []
+        },
+        {
+          "name": "Mahisagar",
+          "cities": []
+        },
+        {
+          "name": "Mehsana",
+          "cities": []
+        },
+        {
+          "name": "Morbi",
+          "cities": []
+        },
+        {
+          "name": "Narmada (Rajpipla)",
+          "cities": []
+        },
+        {
+          "name": "Navsari",
+          "cities": []
+        },
+        {
+          "name": "Panchmahal (Godhra)",
+          "cities": []
+        },
+        {
+          "name": "Patan",
+          "cities": []
+        },
+        {
+          "name": "Porbandar",
+          "cities": []
+        },
+        {
+          "name": "Rajkot",
+          "cities": []
+        },
+        {
+          "name": "Sabarkantha (Himmatnagar)",
+          "cities": []
+        },
+        {
+          "name": "Surat",
+          "cities": []
+        },
+        {
+          "name": "Surendranagar",
+          "cities": []
+        },
+        {
+          "name": "Tapi (Vyara)",
+          "cities": []
+        },
+        {
+          "name": "Vadodara",
+          "cities": []
+        },
+        {
+          "name": "Valsad",
           "cities": []
         }
       ]
