@@ -938,7 +938,83 @@
       "capital": "Bhopal",
       "districts": [
         {
-          "name": "",
+          "name": "Agar Malwa",
+          "cities": []
+        },
+        {
+          "name": "Alirajpur",
+          "cities": []
+        },
+        {
+          "name": "Anuppur",
+          "cities": []
+        },
+        {
+          "name": "Ashoknagar",
+          "cities": []
+        },
+        {
+          "name": "Balaghat",
+          "cities": []
+        },
+        {
+          "name": "Barwani",
+          "cities": []
+        },
+        {
+          "name": "Betul",
+          "cities": []
+        },
+        {
+          "name": "Bhind",
+          "cities": []
+        },
+        {
+          "name": "Bhopal",
+          "cities": []
+        },
+        {
+          "name": "Burhanpur",
+          "cities": []
+        },
+        {
+          "name": "Chhatarpur",
+          "cities": []
+        },
+        {
+          "name": "Chhindwara",
+          "cities": []
+        },
+        {
+          "name": "Damoh",
+          "cities": []
+        },
+        {
+          "name": "Datia",
+          "cities": []
+        },
+        {
+          "name": "Dewas",
+          "cities": []
+        },
+        {
+          "name": "Dhar",
+          "cities": []
+        },
+        {
+          "name": "Dindori",
+          "cities": []
+        },
+        {
+          "name": "Guna",
+          "cities": []
+        },
+        {
+          "name": "Gwalior",
+          "cities": []
+        },
+        {
+          "name": "Harda",
           "cities": []
         }
       ]
