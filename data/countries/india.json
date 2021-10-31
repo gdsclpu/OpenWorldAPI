@@ -1739,7 +1739,63 @@
       "capital": "Hyderabad",
       "districts": [
         {
-          "name": "",
+          "name": "Adilabad",
+          "cities": []
+        },
+        {
+          "name": "Bhadradri Kothagudem",
+          "cities": []
+        },
+        {
+          "name": "Hyderabad",
+          "cities": []
+        },
+        {
+          "name": "Jagtial",
+          "cities": []
+        },
+        {
+          "name": "Jangaon",
+          "cities": []
+        },
+        {
+          "name": "Jayashankar Bhoopalpally",
+          "cities": []
+        },
+        {
+          "name": "Jogulamba Gadwal",
+          "cities": []
+        },
+        {
+          "name": "Kamareddy",
+          "cities": []
+        },
+        {
+          "name": "Karimnagar",
+          "cities": []
+        },
+        {
+          "name": "Khammam",
+          "cities": []
+        },
+        {
+          "name": "Komaram Bheem Asifabad",
+          "cities": []
+        },
+        {
+          "name": "Mahabubabad",
+          "cities": []
+        },
+        {
+          "name": "Mahabubnagar",
+          "cities": []
+        },
+        {
+          "name": "Mancherial",
+          "cities": []
+        },
+        {
+          "name": "Medak",
           "cities": []
         }
       ]
