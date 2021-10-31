@@ -1,7 +1,8 @@
-const GHANA = 'GHANA';
-const INDIA = 'INDIA';
-const ARMENIA = 'ARMENIA';
-const SINGAPORE = 'SINGAPORE';
-const CHINA = 'CHINA';
+const GHANA = "GHANA";
+const INDIA = "INDIA";
+const ARMENIA = "ARMENIA";
+const SINGAPORE = "SINGAPORE";
+const CHINA = "CHINA";
+const NIGERIA = "NIGERIA";
 
-module.exports = { GHANA, INDIA, ARMENIA, SINGAPORE, CHINA };
+module.exports = { GHANA, INDIA, ARMENIA, SINGAPORE, CHINA, NIGERIA };
