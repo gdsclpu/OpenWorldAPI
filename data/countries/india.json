@@ -1766,7 +1766,47 @@
       "capital": "Shillong",
       "districts": [
         {
-          "name": "",
+          "name": "East Garo Hills",
+          "cities": []
+        },
+        {
+          "name": "East Jaintia Hills",
+          "cities": []
+        },
+        {
+          "name": "East Khasi Hills",
+          "cities": []
+        },
+        {
+          "name": "North Garo Hills",
+          "cities": []
+        },
+        {
+          "name": "Ri Bhoi",
+          "cities": []
+        },
+        {
+          "name": "South Garo Hills",
+          "cities": []
+        },
+        {
+          "name": "South West Garo Hills",
+          "cities": []
+        },
+        {
+          "name": "South West Khasi Hills",
+          "cities": []
+        },
+        {
+          "name": "West Garo Hills",
+          "cities": []
+        },
+        {
+          "name": "West Jaintia Hills",
+          "cities": []
+        },
+        {
+          "name": "West Khasi Hills",
           "cities": []
         }
       ]
