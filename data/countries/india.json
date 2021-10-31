@@ -973,6 +973,76 @@
       ]
     },
     {
+      "name": "Jammu and Kashmir(UT)",
+      "capital": "Jammu(winter), Srinagar(summer)",
+      "districts": [
+        {
+          "name": "Anantnag",
+          "cities": []
+        },
+        {
+          "name": "Bandipore",
+          "cities": []
+        },
+        {
+          "name": "Baramulla",
+          "cities": []
+        },
+        {
+          "name": "Budgam",
+          "cities": []
+        },
+        {
+          "name": "Doda",
+          "cities": []
+        },
+        {
+          "name": "Ganderbal",
+          "cities": []
+        },
+        {
+          "name": "Jammu",
+          "cities": []
+        },
+        {
+          "name": "Poonch",
+          "cities": []
+        },
+        {
+          "name": "Pulwama",
+          "cities": []
+        },
+        {
+          "name": "Rajouri",
+          "cities": []
+        },
+        {
+          "name": "Ramban",
+          "cities": []
+        },
+        {
+          "name": "Reasi",
+          "cities": []
+        },
+        {
+          "name": "Samba",
+          "cities": []
+        },
+        {
+          "name": "Shopian",
+          "cities": []
+        },
+        {
+          "name": "Srinagar",
+          "cities": []
+        },
+        {
+          "name": "Udhampur",
+          "cities": []
+        },
+      ]
+    },   
+    {
       "name": "Jharkhand",
       "capital": "Ranchi",
       "districts": [
