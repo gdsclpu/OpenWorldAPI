@@ -1546,7 +1546,147 @@
       "capital": "Mumbai",
       "districts": [
         {
-          "name": "",
+          "name": "Ahmednagar",
+          "cities": []
+        },
+        {
+          "name": "Akola",
+          "cities": []
+        },
+        {
+          "name": "Amravati",
+          "cities": []
+        },
+        {
+          "name": "Aurangabad",
+          "cities": []
+        },
+        {
+          "name": "Beed",
+          "cities": []
+        },
+        {
+          "name": "Bhandara",
+          "cities": []
+        },
+        {
+          "name": "Buldhana",
+          "cities": []
+        },
+        {
+          "name": "Chandrapur",
+          "cities": []
+        },
+        {
+          "name": "Dhule",
+          "cities": []
+        },
+        {
+          "name": "Gadchiroli",
+          "cities": []
+        },
+        {
+          "name": "Gondia",
+          "cities": []
+        },
+        {
+          "name": "Hingoli",
+          "cities": []
+        },
+        {
+          "name": "Jalgaon",
+          "cities": []
+        },
+        {
+          "name": "Jalna",
+          "cities": []
+        },
+        {
+          "name": "Kolhapur",
+          "cities": []
+        },
+        {
+          "name": "Latur",
+          "cities": []
+        },
+        {
+          "name": "Mumbai City",
+          "cities": []
+        },
+        {
+          "name": "Mumbai Suburban",
+          "cities": []
+        },
+        {
+          "name": "Nagpur",
+          "cities": []
+        },
+        {
+          "name": "Nanded",
+          "cities": []
+        },
+        {
+          "name": "Nandurbar",
+          "cities": []
+        },
+        {
+          "name": "Nashik",
+          "cities": []
+        },
+        {
+          "name": "Osmanabad",
+          "cities": []
+        },
+        {
+          "name": "Palghar",
+          "cities": []
+        },
+        {
+          "name": "Parbhani",
+          "cities": []
+        },
+        {
+          "name": "Pune",
+          "cities": []
+        },
+        {
+          "name": "Raigad",
+          "cities": []
+        },
+        {
+          "name": "Ratnagiri",
+          "cities": []
+        },
+        {
+          "name": "Sangli",
+          "cities": []
+        },
+        {
+          "name": "Satara",
+          "cities": []
+        },
+        {
+          "name": "Sindhudurg",
+          "cities": []
+        },
+        {
+          "name": "Solapur",
+          "cities": []
+        },
+        {
+          "name": "Thane",
+          "cities": []
+        },
+        {
+          "name": "Wardha",
+          "cities": []
+        },
+        {
+          "name": "Washim",
+          "cities": []
+        },
+        {
+          "name": "Yavatmal",
           "cities": []
         }
       ]
