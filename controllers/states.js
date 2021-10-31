@@ -1,5 +1,12 @@
 const { allStates } = require("../custom/custom");
-let { GHANA, INDIA, ARMENIA, SINGAPORE, CHINA } = require("../data/actions");
+let {
+  GHANA,
+  INDIA,
+  ARMENIA,
+  SINGAPORE,
+  CHINA,
+  NIGERIA,
+} = require("../data/actions");
 
 // ------------COUNTRIES JSON DATA-------------------------------
 const GhanaData = require("../data/countries/ghana.json");
@@ -7,6 +14,7 @@ const IndiaData = require("../data/countries/india.json");
 const ArmeniaData = require("../data/countries/armenia.json");
 const SingaporeData = require("../data/countries/singapore.json");
 const ChinaData = require("../data/countries/china.json");
+const NigeriaData = require("../data/countries/nigeria.json");
 // ----------------------------------------------------------------
 
 const getAllStates = async (req, res, next) => {
@@ -34,6 +42,9 @@ const getAllStates = async (req, res, next) => {
     case CHINA:
       res.status(200).send({ states: allStates(ChinaData, reverse) });
       return;
+
+    case NIGERIA:
+      res.status(200).send({ states: allStates(NigeriaData, reverse) });
 
     default:
       res.send("Nothingness");

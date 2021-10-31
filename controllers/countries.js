@@ -6,7 +6,12 @@ const getAllCountries = (req, res, next) => {
 };
 
 const getAllCountriesAndCode = (req, res, next) => {
-  const countries = countriesData.countries;
+  const countries = countriesData.countries.map((data) => {
+    return {
+      name: data.name,
+      code: data.code,
+    };
+  });
   res.send({ countries });
 };
 
