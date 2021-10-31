@@ -2,7 +2,14 @@ const {
   allDistrictInCountry,
   allDistrictOfState,
 } = require("../custom/custom");
-let { GHANA, INDIA, ARMENIA, SINGAPORE, CHINA } = require("../data/actions");
+let {
+  GHANA,
+  INDIA,
+  ARMENIA,
+  SINGAPORE,
+  CHINA,
+  NIGERIA,
+} = require("../data/actions");
 
 // ----------------COUNTRIES JSON DATA-----------------------------
 const GhanaData = require("../data/countries/ghana.json");
@@ -10,6 +17,7 @@ const IndiaData = require("../data/countries/india.json");
 const ArmeniaData = require("../data/countries/armenia.json");
 const SingaporeData = require("../data/countries/singapore.json");
 const ChinaData = require("../data/countries/china.json");
+const NigeriaData = require("../data/countries/nigeria.json");
 // ----------------------------------------------------------------
 
 const getAllDistrictsOfCountry = async (req, res, nex) => {
@@ -48,6 +56,11 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
       res
         .status(200)
         .send({ districts: allDistrictInCountry(ChinaData, reverse) });
+
+    case NIGERIA:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(NigeriaData, reverse) });
     default:
       res.send("Nothingness");
   }
@@ -128,6 +141,18 @@ const getAllDistrictOfState = async (req, res, next) => {
       res
         .status(200)
         .send({ districts: allDistrictOfState(ChinaData, index, reverse) });
+
+    case NIGERIA:
+      index = NigeriaData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+      if (index == -1) {
+        res.send(400).send({ message: " State not found" });
+        return;
+      }
+      res
+        .status(200)
+        .send({ districts: allDistrictOfState(NigeriaData, index, reverse) });
     default:
       res.send("Nothingness");
   }
