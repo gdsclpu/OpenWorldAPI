@@ -1729,7 +1729,63 @@
       "capital": "Chennai",
       "districts": [
         {
-          "name": "",
+          "name": "Ariyalur",
+          "cities": []
+        },
+        {
+          "name": "Chengalpattu",
+          "cities": []
+        },
+        {
+          "name": "Chennai",
+          "cities": []
+        },
+        {
+          "name": "Coimbatore",
+          "cities": []
+        },
+        {
+          "name": "Cuddalore",
+          "cities": []
+        },
+        {
+          "name": "Dharmapuri",
+          "cities": []
+        },
+        {
+          "name": "Dindigul",
+          "cities": []
+        },
+        {
+          "name": "Erode",
+          "cities": []
+        },
+        {
+          "name": "Kallakurichi",
+          "cities": []
+        },
+        {
+          "name": "Kanchipuram",
+          "cities": []
+        },
+        {
+          "name": "Kanyakumari",
+          "cities": []
+        },
+        {
+          "name": "Karur",
+          "cities": []
+        },
+        {
+          "name": "Krishnagiri",
+          "cities": []
+        },
+        {
+          "name": "Madurai",
+          "cities": []
+        },
+        {
+          "name": "Nagapattinam",
           "cities": []
         }
       ]
