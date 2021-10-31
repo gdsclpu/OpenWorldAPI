@@ -659,7 +659,91 @@
       "capital": "Chandigarh",
       "districts": [
         {
-          "name": "",
+          "name": "Ambala",
+          "cities": []
+        },
+        {
+          "name": "Bhiwani",
+          "cities": []
+        },
+        {
+          "name": "Charkhi Dadri",
+          "cities": []
+        },
+        {
+          "name": "Faridabad",
+          "cities": []
+        },
+        {
+          "name": "Fatehabad",
+          "cities": []
+        },
+        {
+          "name": "Gurugram (Gurgaon)",
+          "cities": []
+        },
+        {
+          "name": "Hisar",
+          "cities": []
+        },
+        {
+          "name": "Jhajjar",
+          "cities": []
+        },
+        {
+          "name": "Jind",
+          "cities": []
+        },
+        {
+          "name": "Kaithal",
+          "cities": []
+        },
+        {
+          "name": "Karnal",
+          "cities": []
+        },
+        {
+          "name": "Kurukshetra",
+          "cities": []
+        },
+        {
+          "name": "Mahendragarh",
+          "cities": []
+        },
+        {
+          "name": "Nuh",
+          "cities": []
+        },
+        {
+          "name": "Palwal",
+          "cities": []
+        },
+        {
+          "name": "Panchkula",
+          "cities": []
+        },
+        {
+          "name": "Panipat",
+          "cities": []
+        },
+        {
+          "name": "Rewari",
+          "cities": []
+        },
+        {
+          "name": "Rohtak",
+          "cities": []
+        },
+        {
+          "name": "Sirsa",
+          "cities": []
+        },
+        {
+          "name": "Sonipat",
+          "cities": []
+        },
+        {
+          "name": "Yamunanagar",
           "cities": []
         }
       ]
