@@ -2065,7 +2065,55 @@
       "capital": "Dehradun, Gairsain (Summer)",
       "districts": [
         {
-          "name": "",
+          "name": "Almora",
+          "cities": []
+        },
+        {
+          "name": "Bageshwar",
+          "cities": []
+        },
+        {
+          "name": "Chamoli",
+          "cities": []
+        },
+        {
+          "name": "Champawat",
+          "cities": []
+        },
+        {
+          "name": "Dehradun",
+          "cities": []
+        },
+        {
+          "name": "Haridwar",
+          "cities": []
+        },
+        {
+          "name": "Nainital",
+          "cities": []
+        },
+        {
+          "name": "Pauri Garhwal",
+          "cities": []
+        },
+        {
+          "name": "Pithoragarh",
+          "cities": []
+        },
+        {
+          "name": "Rudraprayag",
+          "cities": []
+        },
+        {
+          "name": "Tehri Garhwal",
+          "cities": []
+        },
+        {
+          "name": "Udham Singh Nagar",
+          "cities": []
+        },
+        {
+          "name": "Uttarkashi",
           "cities": []
         }
       ]
