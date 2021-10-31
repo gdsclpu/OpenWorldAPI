@@ -1696,7 +1696,67 @@
       "capital": "Imphal",
       "districts": [
         {
-          "name": "",
+          "name": "Bishnupur",
+          "cities": []
+        },
+        {
+          "name": "Chandel",
+          "cities": []
+        },
+        {
+          "name": "Churachandpur",
+          "cities": []
+        },
+        {
+          "name": "Imphal East",
+          "cities": []
+        },
+        {
+          "name": "Imphal West",
+          "cities": []
+        },
+        {
+          "name": "Jiribam",
+          "cities": []
+        },
+        {
+          "name": "Kakching",
+          "cities": []
+        },
+        {
+          "name": "Kamjong",
+          "cities": []
+        },
+        {
+          "name": "Kangpokpi",
+          "cities": []
+        },
+        {
+          "name": "Noney",
+          "cities": []
+        },
+        {
+          "name": "Pherzawl",
+          "cities": []
+        },
+        {
+          "name": "Senapati",
+          "cities": []
+        },
+        {
+          "name": "Tamenglong",
+          "cities": []
+        },
+        {
+          "name": "Tengnoupal",
+          "cities": []
+        },
+        {
+          "name": "Thoubal",
+          "cities": []
+        },
+        {
+          "name": "Ukhrul",
           "cities": []
         }
       ]
