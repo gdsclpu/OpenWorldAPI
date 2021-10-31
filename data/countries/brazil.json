@@ -1,15 +1,656 @@
 {
         "country":"Brazil",
-        "capital":"",
-        "currency":"",
+        "capital":"Brasília",
+        "currency":"Brazilian real",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"São Paulo",
+                "capital":"São Paulo",
                 "districts":[
                     {
-                        "name":"",
-                        "cities":[]
+                        "name":"São Paulo",
+                        "cities":["São Paulo"]
+                    },
+                    {
+                        "name":"Guarulhos",
+                        "cities":["Guarulhos"]
+                    },
+                    {
+                        "name":"Campinas",
+                        "cities":["Campinas"]
+                    },
+                    {
+                        "name":"São Bernardo do Campo",
+                        "cities":["São Bernardo do Campo"]
+                    },
+                    {
+                        "name":"Santo André",
+                        "cities":["Santo André"]
+                    },
+                    {
+                        "name":"Osasco",
+                        "cities":["Osasco"]
+                    },
+                    {
+                        "name":"São José dos Campos",
+                        "cities":["São José dos Campos"]
+                    },
+                    {
+                        "name":"Ribeirão Preto",
+                        "cities":["Ribeirão Preto"]
+                    },
+                    {
+                        "name":"Sorocaba",
+                        "cities":["Sorocaba"]
+                    },
+                    {
+                        "name":"Mauá",
+                        "cities":["Mauá"]
+                    },
+                    {
+                        "name":"Santos",
+                        "cities":["Santos"]
+                    },
+                    {
+                        "name":"São José do Rio Preto",
+                        "cities":["São José do Rio Preto"]
+                    },
+                    {
+                        "name":"Mogi das Cruzes",
+                        "cities":["Mogi das Cruzes"]
+                    },
+                    {
+                        "name":"Diadema",
+                        "cities":["Diadema"]
+                    },
+                    {
+                        "name":"Jundiaí",
+                        "cities":["Jundiaí"]
+                    },
+                    {
+                        "name":"Carapicuíba",
+                        "cities":["Carapicuíba"]
+                    },
+                    {
+                        "name":"Piracicaba",
+                        "cities":["Piracicaba"]
+                    },
+                    {
+                        "name":"Bauru",
+                        "cities":["Bauru"]
+                    },
+                    {
+                        "name":"São Vicente",
+                        "cities":["São Vicente"]
+                    },
+                    {
+                        "name":"Itaquaquecetuba",
+                        "cities":["Itaquaquecetuba"]
+                    }
+                ]
+            },
+            {
+                "name":" Minas Gerais",
+                "capital":"Belo Horizonte",
+                "districts":[
+                    {
+                        "name":"Belo Horizonte",
+                        "cities":["Belo Horizonte"]
+                    },
+                    {
+                        "name":"Uberlândia",
+                        "cities":["Uberlândia"]
+                    },
+                    {
+                        "name":"Contagem",
+                        "cities":["Contagem"]
+                    },
+                    {
+                        "name":"Juiz de Fora",
+                        "cities":["Juiz de Fora"]
+                    },
+                    {
+                        "name":"Betim",
+                        "cities":["Betim"]
+                    },
+                    {
+                        "name":"Montes Claros",
+                        "cities":["Montes Claros"]
+                    },
+                    {
+                        "name":"Ribeirão das Neves",
+                        "cities":["Ribeirão das Neves"]
+                    },
+                    {
+                        "name":"Uberaba",
+                        "cities":["Uberaba"]
+                    },
+                    {
+                        "name":"Governador Valadares",
+                        "cities":["Governador Valadares"]
+                    },
+                    {
+                        "name":"Ipatinga",
+                        "cities":["Ipatinga"]
+                    }
+                ]
+            },
+            {
+                "name":"Rio de Janeiro",
+                "capital":"Rio de Janeiro",
+                "districts":[
+                    {
+                        "name":"Angra dos Reis",
+                        "cities":["Angra dos Reis"]
+                    },
+                    {
+                        "name":"Barra Mansa",
+                        "cities":["Barra Mansa"]
+                    },
+                    {
+                        "name":"Campos dos Goytacazes",
+                        "cities":["Campos dos Goytacazes"]
+                    },
+                    {
+                        "name":"Copacabana",
+                        "cities":["Copacabana"]
+                    },
+                    {
+                        "name":"Duque de Caxias",
+                        "cities":["Duque de Caxias"]
+                    },
+                    {
+                        "name":"Rio de Janeiro",
+                        "cities":["Rio de Janeiro"]
+                    },
+                    {
+                        "name":"São Gonçalo",
+                        "cities":["São Gonçalo"]
+                    },
+                    {
+                        "name":"Nova Friburgo",
+                        "cities":["Nova Friburgo"]
+                    },
+                    {
+                        "name":"Nova Iguaçu",
+                        "cities":["Nova Iguaçu  "]
+                    },
+                    {
+                        "name":"Resende",
+                        "cities":["Resende"]
+                    },
+                    {
+                        "name":"Teresópolis",
+                        "cities":["Teresópolis"]
+                    },
+                    {
+                        "name":"Volta Redonda",
+                        "cities":["Volta Redonda"]
+                    }
+                ]
+            },
+            {
+                "name":"Bahia",
+                "capital":"Salvador",
+                "districts":[
+                    {
+                        "name":"Alagoinhas",
+                        "cities":["Alagoinhas"]
+                    },
+                    {
+                        "name":"Feira de Santana",
+                        "cities":["Feira de Santana"]
+                    },
+                    {
+                        "name":"Ilhéus",
+                        "cities":["Ilhéus"]
+                    },
+                    {
+                        "name":"Itabuna",
+                        "cities":["Itabuna  "]
+                    },
+                    {
+                        "name":"Jequié",
+                        "cities":["Jequié"]
+                    },
+                    {
+                        "name":"Juazeiro",
+                        "cities":["Juazeiro"]
+                    },
+                    {
+                        "name":"Paulo Afonso",
+                        "cities":["Paulo Afonso"]
+                    },
+                    {
+                        "name":"Salvador",
+                        "cities":["Salvador"]
+                    },
+                    {
+                        "name":"Vitória da Conquista",
+                        "cities":["Vitória da Conquista"]
+                    }
+                ]
+            },
+            {
+                "name":"Paraná",
+                "capital":"Curitiba",
+                "districts":[
+                    {
+                        "name":"Curitiba",
+                        "cities":["Curitiba"]
+                    },
+                    {
+                        "name":"Londrina",
+                        "cities":["Londrina"]
+                    },
+                    {
+                        "name":"Maringá",
+                        "cities":["Maringá"]
+                    },
+                    {
+                        "name":"Paranaguá",
+                        "cities":["Paranaguá"]
+                    },
+                    {
+                        "name":"Ponta Grossa",
+                        "cities":["Ponta Grossa"]
+                    }
+                    
+                ]
+            },
+            {
+                "name":"Rio Grande do Sul",
+                "capital":"Porto Alegre",
+                "districts":[
+                    {
+                        "name":"Bagé",
+                        "cities":["Bagé"]
+                    },
+                    {
+                        "name":"Bento Gonçalves",
+                        "cities":["Bento Gonçalves"]
+                    },
+                    {
+                        "name":"Canoas",
+                        "cities":["Canoas"]
+                    },
+                    {
+                        "name":"Caxias do Sul",
+                        "cities":["Caxias do Sul"]
+                    },
+                    {
+                        "name":"Novo Hamburgo",
+                        "cities":["Novo Hamburgo"]
+                    },
+                    {
+                        "name":"Passo Fundo",
+                        "cities":["Passo Fundo"]
+                    },
+                    {
+                        "name":"Pelotas",
+                        "cities":["Pelotas"]
+                    },
+                    {
+                        "name":"Porto Alegre",
+                        "cities":["Porto Alegre"]
+                    },
+                    {
+                        "name":"Rio Grande",
+                        "cities":["Rio Grande"]
+                    },
+                    {
+                        "name":"Santa Maria",
+                        "cities":["Santa Maria"]
+                    },
+                    {
+                        "name":"São Leopoldo",
+                        "cities":["São Leopoldo"]
+                    }
+                ]
+            },
+            {
+                "name":"Pernambuco",
+                "capital":"Recife",
+                "districts":[
+                    {
+                        "name":"Caruaru",
+                        "cities":["Caruaru"]
+                    },
+                    {
+                        "name":"Garanhuns",
+                        "cities":["Garanhuns"]
+                    },
+                    {
+                        "name":"Jaboatão",
+                        "cities":["Jaboatão"]
+                    },
+                    {
+                        "name":"Olinda",
+                        "cities":["Olinda"]
+                    },
+                    {
+                        "name":"Petrolândia",
+                        "cities":["Petrolândia"]
+                    },
+                    {
+                        "name":"Petrolina",
+                        "cities":["Petrolina"]
+                    }
+                    
+                ]
+            },
+            {
+                "name":"Ceará",
+                "capital":"Fortaleza",
+                "districts":[
+                    {
+                        "name":"Aracati",
+                        "cities":["Aracati"]
+                    },
+                    {
+                        "name":"Crato",
+                        "cities":["Crato"]
+                    },
+                    {
+                        "name":"Fortaleza",
+                        "cities":["Fortaleza"]
+                    },
+                    {
+                        "name":"Juazeiro do Norte",
+                        "cities":["Juazeiro do Norte"]
+                    },
+                    {
+                        "name":"Sobral",
+                        "cities":["Sobral"]
+                    }
+                    
+                ]
+            },
+            {
+                "name":"Pará",
+                "capital":"Belém",
+                "districts":[
+                    {
+                        "name":"Belém",
+                        "cities":["Belém"]
+                    },
+                    {
+                        "name":"Bragança",
+                        "cities":["Bragança"]
+                    },
+                    {
+                        "name":"Monte Alegre",
+                        "cities":["Monte Alegre"]
+                    },
+                    {
+                        "name":"Óbidos",
+                        "cities":["Óbidos"]
+                    },
+                    {
+                        "name":"Santarém",
+                        "cities":["Santarém"]
+                    },
+                    {
+                        "name":"Campina Grande",
+                        "cities":["Campina Grande"]
+                    }
+                ]
+            },
+            {
+                "name":"Santa Catarina",
+                "capital":"Florianópolis",
+                "districts":[
+                    {
+                        "name":"Blumenau",
+                        "cities":["Blumenau"]
+                    },
+                    {
+                        "name":"Criciúma",
+                        "cities":["Criciúma"]
+                    },
+                    {
+                        "name":"Florianópolis",
+                        "cities":["Florianópolis"]
+                    },
+                    {
+                        "name":"Itajaí",
+                        "cities":["Itajaí"]
+                    },
+                    {
+                        "name":"Lajes",
+                        "cities":["Lajes"]
+                    },
+                    {
+                        "name":"Tubarão",
+                        "cities":["Tubarão"]
+                    }
+                ]
+            },
+            {
+                "name":"Maranhão",
+                "capital":"São Luís",
+                "districts":[
+                    {
+                        "name":"Alcântara",
+                        "cities":["Alcântara"]
+                    },
+                    {
+                        "name":"Caxias",
+                        "cities":["Caxias"]
+                    },
+                    {
+                        "name":"São Luís",
+                        "cities":["São Luís"]
+                    }
+                ]
+            },
+            {
+                "name":"Amazonas",
+                "capital":"Manaus",
+                "districts":[
+                    {
+                        "name":"Itacoatiara",
+                        "cities":["Itacoatiara"]
+                    },
+                    {
+                        "name":"Manaus",
+                        "cities":["Manaus"]
+                    },
+                    {
+                        "name":"Tefé",
+                        "cities":["Tefé"]
+                    }
+                ]
+            },
+            {
+                "name":"Espírito Santo",
+                "capital":"Vitória",
+                "districts":[
+                    {
+                        "name":"Cachoeiro de Itapemirim",
+                        "cities":["Cachoeiro de Itapemirim"]
+                    },
+                    {
+                        "name":"Colatina",
+                        "cities":["Colatina"]
+                    },
+                    {
+                        "name":"Fundão",
+                        "cities":["Fundão"]
+                    },
+                    {
+                        "name":"Vila Velha",
+                        "cities":["Vila Velha"]
+                    },
+                    {
+                        "name":"Vitória",
+                        "cities":["Vitória"]
+                    }
+                ]
+            },
+            {
+                "name":"Paraíba",
+                "capital":"João Pessoa",
+                "districts":[
+                    {
+                        "name":"Campina Grande",
+                        "cities":["Campina Grande"]
+                    },
+                    {
+                        "name":"João Pessoa",
+                        "cities":["João Pessoa"]
+                    }
+                ]
+            },
+            {
+                "name":"Rio Grande do Norte",
+                "capital":"Natal",
+                "districts":[
+                    {
+                        "name":"Mossoró",
+                        "cities":["Mossoró"]
+                    },
+                    {
+                        "name":"Natal",
+                        "cities":["Natal"]
+                    }
+                ]
+            },
+            {
+                "name":"Mato Grosso",
+                "capital":"Cuiabá",
+                "districts":[
+                    {
+                        "name":"Cuiabá",
+                        "cities":["Cuiabá"]
+                    }
+                ]
+            },
+            {
+                "name":"Alagoas",
+                "capital":"Maceió",
+                "districts":[
+                    {
+                        "name":"União dos Palmares",
+                        "cities":["União dos Palmares"]
+                    },
+                    {
+                        "name":"Maceió",
+                        "cities":["Maceió"]
+                    }
+                ]
+            },
+            {
+                "name":"Piauí",
+                "capital":"Teresina",
+                "districts":[
+                    {
+                        "name":"Floriano",
+                        "cities":["Floriano"]
+                    },
+                    {
+                        "name":"Parnaíba",
+                        "cities":["Parnaíba"]
+                    },
+                    {
+                        "name":"Teresina",
+                        "cities":["Teresina"]
+                    }
+                ]
+            },
+            {
+                "name":"Distrito Federal",
+                "capital":"Brasília",
+                "districts":[
+                    {
+                        "name":"Brasília",
+                        "cities":["Brasília"]
+                    }
+                ]
+            },
+            {
+                "name":"Mato Grosso do Sul",
+                "capital":"Campo Grande",
+                "districts":[
+                    {
+                        "name":"Três Lagoas",
+                        "cities":["Três Lagoas"]
+                    },
+                    {
+                        "name":"Corumbá",
+                        "cities":["Corumbá"]
+                    },
+                    {
+                        "name":"Campo Grande",
+                        "cities":["Campo Grande"]
+                    }
+                ]
+            },
+            {
+                "name":"Sergipe",
+                "capital":"Aracaju",
+                "districts":[
+                    {
+                        "name":"Aracaju",
+                        "cities":["Aracaju"]
+                    },
+                    {
+                        "name":"São Cristóvão",
+                        "cities":["São Cristóvão"]
+                    }
+                ]
+            },
+            {
+                "name":"Rondônia",
+                "capital":"Porto Velho",
+                "districts":[
+                    {
+                        "name":"Guajará-Mirim",
+                        "cities":["Guajará-Mirim"]
+                    },
+                    {
+                        "name":"Pôrto Velho",
+                        "cities":["Pôrto Velho"]
+                    }
+                ]
+            },
+            {
+                "name":"Tocantins",
+                "capital":"Palmas",
+                "districts":[
+                    {
+                        "name":"Palmas",
+                        "cities":["Palmas"]
+                    }
+                ]
+            },
+            {
+                "name":"Acre",
+                "capital":"Rio Branco",
+                "districts":[
+                    {
+                        "name":"Rio Branco",
+                        "cities":["Rio Branco"]
+                    }
+                ]
+            },
+            {
+                "name":"Amapá",
+                "capital":"Macapá",
+                "districts":[
+                    {
+                        "name":"Macapá",
+                        "cities":["Macapá"]
+                    }
+                ]
+            },
+            {
+                "name":"Roraima",
+                "capital":"Boa Vista",
+                "districts":[
+                    {
+                        "name":"Boa Vista",
+                        "cities":["Boa Vista"]
                     }
                 ]
             }
