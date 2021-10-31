@@ -1397,13 +1397,6 @@
       "capital": "Jaipur",
       "districts": [
         {
-
-    {
-      "name": "Rajasthan",
-      "capital": "Jaipur",
-      "districts": [
-        {
-
           "name": "Ajmer",
           "cities": [
             "Ajaysar",
@@ -1766,7 +1759,303 @@
       "capital": "Lucknow",
       "districts": [
         {
-          "name": "",
+          "name": "Agra",
+          "cities": []
+        },
+        {
+          "name": "Aligarh",
+          "cities": []
+        },
+        {
+          "name": "Allahabad",
+          "cities": []
+        },
+        {
+          "name": "Ambedkar Nagar",
+          "cities": []
+        },
+        {
+          "name": "Amethi (Chatrapati Sahuji Mahraj Nagar)",
+          "cities": []
+        },
+        {
+          "name": "Amroha (J.P. Nagar)",
+          "cities": []
+        },
+        {
+          "name": "Auraiya",
+          "cities": []
+        },
+        {
+          "name": "Azamgarh",
+          "cities": []
+        },
+        {
+          "name": "Baghpat",
+          "cities": []
+        },
+        {
+          "name": "Bahraich",
+          "cities": []
+        },
+        {
+          "name": "Ballia",
+          "cities": []
+        },
+        {
+          "name": "Balrampur",
+          "cities": []
+        },
+        {
+          "name": "Banda",
+          "cities": []
+        },
+        {
+          "name": "Barabanki",
+          "cities": []
+        },
+        {
+          "name": "Bareilly",
+          "cities": []
+        },
+        {
+          "name": "Basti",
+          "cities": []
+        },
+        {
+          "name": "Bhadohi",
+          "cities": []
+        },
+        {
+          "name": "Bijnor",
+          "cities": []
+        },
+        {
+          "name": "Budaun",
+          "cities": []
+        },
+        {
+          "name": "Bulandshahr",
+          "cities": []
+        },
+        {
+          "name": "Chandauli",
+          "cities": []
+        },
+        {
+          "name": "Chitrakoot",
+          "cities": []
+        },
+        {
+          "name": "Deoria",
+          "cities": []
+        },
+        {
+          "name": "Etah",
+          "cities": []
+        },
+        {
+          "name": "Etawah",
+          "cities": []
+        },
+        {
+          "name": "Faizabad",
+          "cities": []
+        },
+        {
+          "name": "Farrukhabad",
+          "cities": []
+        },
+        {
+          "name": "Fatehpur",
+          "cities": []
+        },
+        {
+          "name": "Firozabad",
+          "cities": []
+        },
+        {
+          "name": "Gautam Buddha Nagar",
+          "cities": []
+        },
+        {
+          "name": "Ghaziabad",
+          "cities": []
+        },
+        {
+          "name": "Ghazipur",
+          "cities": []
+        },
+        {
+          "name": "Gonda",
+          "cities": []
+        },
+        {
+          "name": "Gorakhpur",
+          "cities": []
+        },
+        {
+          "name": "Hamirpur",
+          "cities": []
+        },
+        {
+          "name": "Hapur (Panchsheel Nagar)",
+          "cities": []
+        },
+        {
+          "name": "Hardoi",
+          "cities": []
+        },
+        {
+          "name": "Hathras",
+          "cities": []
+        },
+        {
+          "name": "Jalaun",
+          "cities": []
+        },
+        {
+          "name": "Jaunpur",
+          "cities": []
+        },
+        {
+          "name": "Jhansi",
+          "cities": []
+        },
+        {
+          "name": "Kannauj",
+          "cities": []
+        },
+        {
+          "name": "Kanpur Dehat",
+          "cities": []
+        },
+        {
+          "name": "Kanpur Nagar",
+          "cities": []
+        },
+        {
+          "name": "Kanshiram Nagar (Kasganj)",
+          "cities": []
+        },
+        {
+          "name": "Kaushambi",
+          "cities": []
+        },
+        {
+          "name": "Kushinagar (Padrauna)",
+          "cities": []
+        },
+        {
+          "name": "Lakhimpur - Kheri",
+          "cities": []
+        },
+        {
+          "name": "Lalitpur",
+          "cities": []
+        },
+        {
+          "name": "Lucknow",
+          "cities": []
+        },
+        {
+          "name": "Maharajganj",
+          "cities": []
+        },
+        {
+          "name": "Mahoba",
+          "cities": []
+        },
+        {
+          "name": "Mainpuri",
+          "cities": []
+        },
+        {
+          "name": "Mathura",
+          "cities": []
+        },
+        {
+          "name": "Mau",
+          "cities": []
+        },
+        {
+          "name": "Meerut",
+          "cities": []
+        },
+        {
+          "name": "Mirzapur",
+          "cities": []
+        },
+        {
+          "name": "Moradabad",
+          "cities": []
+        },
+        {
+          "name": "Muzaffarnagar",
+          "cities": []
+        },
+        {
+          "name": "Pilibhit",
+          "cities": []
+        },
+        {
+          "name": "Pratapgarh",
+          "cities": []
+        },
+        {
+          "name": "RaeBareli",
+          "cities": []
+        },
+        {
+          "name": "Rampur",
+          "cities": []
+        },
+        {
+          "name": "Saharanpur",
+          "cities": []
+        },
+        {
+          "name": "Sambhal (Bhim Nagar)",
+          "cities": []
+        },
+        {
+          "name": "Sant Kabir Nagar",
+          "cities": []
+        },
+        {
+          "name": "Shahjahanpur",
+          "cities": []
+        },
+        {
+          "name": "Shamali (Prabuddh Nagar)",
+          "cities": []
+        },
+        {
+          "name": "Shravasti",
+          "cities": []
+        },
+        {
+          "name": "Siddharth Nagar",
+          "cities": []
+        },
+        {
+          "name": "Sitapur",
+          "cities": []
+        },
+        {
+          "name": "Sonbhadra",
+          "cities": []
+        },
+        {
+          "name": "Sultanpur",
+          "cities": []
+        },
+        {
+          "name": "Unnao",
+          "cities": []
+        },
+        {
+          "name": "Varanasi",
           "cities": []
         }
       ]
