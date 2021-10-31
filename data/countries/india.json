@@ -1797,6 +1797,70 @@
         {
           "name": "Medak",
           "cities": []
+        },
+        {
+          "name": "Medchal",
+          "cities": []
+        },
+        {
+          "name": "Nagarkurnool",
+          "cities": []
+        },
+        {
+          "name": "Nalgonda",
+          "cities": []
+        },
+        {
+          "name": "Nirmal",
+          "cities": []
+        },
+        {
+          "name": "Nizamabad",
+          "cities": []
+        },
+        {
+          "name": "Peddapalli",
+          "cities": []
+        },
+        {
+          "name": "Rajanna Sircilla",
+          "cities": []
+        },
+        {
+          "name": "Rangareddy",
+          "cities": []
+        },
+        {
+          "name": "Sangareddy",
+          "cities": []
+        },
+        {
+          "name": "Siddipet",
+          "cities": []
+        },
+        {
+          "name": "Suryapet",
+          "cities": []
+        },
+        {
+          "name": "Vikarabad",
+          "cities": []
+        },
+        {
+          "name": "Wanaparthy",
+          "cities": []
+        },
+        {
+          "name": "Warangal (Rural)",
+          "cities": []
+        },
+        {
+          "name": "Warangal (Urban)",
+          "cities": []
+        },
+        {
+          "name": "Yadadri Bhuvanagiri",
+          "cities": []
         }
       ]
     },
@@ -1835,7 +1899,7 @@
         {
           "name": "West Tripura",
           "cities": []
-        },
+        }
       ]
     },
     {
