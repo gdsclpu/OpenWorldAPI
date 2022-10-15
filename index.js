@@ -57,7 +57,7 @@ app.listen(port, () => {
 
 // Unhandled routes should always be the last on the code after all middlewares
 app.use("*", (req, res, next) => {
-  res.send(`Can't fine ${req.originalUrl} on this server`, 404);
+  res.send(`Can't find ${req.originalUrl} on this server`, 404);
 });
 
 /**

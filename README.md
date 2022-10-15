@@ -1,21 +1,25 @@
 # **Open World API**
+
 Find the way to get informations about countries such as countries, cities, states, districts, currency and many more from the documentation below
 
-**URLS**
-- **url** = http://localhost:5000/ -> Is the url used when in development
-- **url** = https://openworldapi.tech/ -> Is the url used when in production
-  
+## **URLS**
 
-# *Countries*
+- **url** = <http://localhost:5000/> -> Is the url used when in development
+- **url** = <https://openworldapi.tech/> -> Is the url used when in production
+  
+## *Countries*
+
 - GET -> <**url**>/countries/get/all
 - GET -> <**url**>/countries/get/all/and/code
 
-# *States*
+## *States*
+
 - GET -> <**url**>/states/all/country/:country?reverse=false
   - :country = **name of country** -> ***REQUIRED***
   - reverse = **Sorting output** -> ***OPTIONAL***
 
-# *Districts*
+## *Districts*
+
 - GET -> <**url**>/districts/get/all/district/country/:country?reverse=false
   - :country = **name of country** -> ***REQUIRED***
   - reverse = **Sorting output** -> ***OPTIONAL***
