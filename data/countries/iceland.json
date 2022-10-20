@@ -1,14 +1,84 @@
 {
         "country":"Iceland",
-        "capital":"",
-        "currency":"",
+        "capital":"Reykjavík",
+        "currency":"Icelandic króna",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"Reykjavik",
+                "capital":"Reykjavík",
+                "districts":[
+                    { 
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"South Iceland",
+                "capital":"Reykjavík",
                 "districts":[
                     {
-                        "name":"",
+                         
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Westman Islands",
+                "capital":"Reykjavík",
+                "districts":[
+                    {
+                         
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"West Iceland",
+                "capital":"Reykjavík",
+                "districts":[
+                    {
+                         
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"East Iceland",
+                "capital":"Reykjavík",
+                "districts":[
+                    {
+                         
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Westfjords",
+                "capital":"Reykjavík",
+                "districts":[
+                    {
+                         
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"North Iceland",
+                "capital":"Reykjavík",
+                "districts":[
+                    {
+                         
+                        "cities":[]
+                    }
+                ]
+            }
+            },
+            {
+                "name":"Highlands",
+                "capital":"Reykjavík",
+                "districts":[
+                    {
+                         
                         "cities":[]
                     }
                 ]
