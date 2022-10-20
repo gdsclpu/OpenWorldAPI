@@ -25,7 +25,7 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
   let { reverse } = req.query;
 
   if (!country) {
-    res.send(400).send({ message: "Please provide country name" });
+   return res.send(400).send({ message: "Please provide country name" });
   }
 
   reverse = reverse ? (reverse === "false" ? false : true) : true;
@@ -71,7 +71,7 @@ const getAllDistrictOfState = async (req, res, next) => {
   let { reverse, state } = req.query;
 
   if (!country || !state) {
-    res.status(400).send({ message: "Please provide both country and state" });
+   return res.status(400).send({ message: "Please provide both country and state" });
   }
 
   reverse = reverse ? (reverse === "false" ? false : true) : true;
@@ -101,10 +101,9 @@ const getAllDistrictOfState = async (req, res, next) => {
         return;
       }
 
-      res
+    return  res
         .status(200)
         .send({ districts: allDistrictOfState(IndiaData, index, reverse) });
-      return;
 
     case ARMENIA:
       index = ArmeniaData.states.findIndex(
