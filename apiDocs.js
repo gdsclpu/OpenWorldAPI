@@ -1,3 +1,5 @@
+const dotenv = require("dotenv").config()
+
 const options = {
   definition: {
     openapi: '3.0.0',
@@ -18,7 +20,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5200',
+        url: `http://localhost:${process.env.PORT}`,
       },
       {
         url: 'https://openworldapi.gdsclpu.live/',
