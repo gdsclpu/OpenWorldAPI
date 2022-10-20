@@ -21,7 +21,7 @@ const options = {
         url: 'http://localhost:5200',
       },
       {
-        url: 'https://openworldapi.tech',
+        url: 'https://openworldapi.gdsclpu.live/',
       },
     ],
   },
