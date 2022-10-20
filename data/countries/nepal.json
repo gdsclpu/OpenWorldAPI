@@ -1,14 +1,14 @@
 {
         "country":"Nepal",
-        "capital":"",
-        "currency":"",
+        "capital":"Kathmandu",
+        "currency":"NPR",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"Lumbini Province",
+                "capital":"Butwal",
                 "districts":[
                     {
-                        "name":"",
+                        "name":"Ruapndehi",
                         "cities":[]
                     }
                 ]
