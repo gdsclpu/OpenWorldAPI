@@ -5,7 +5,7 @@ Find the way to get informations about countries such as countries, cities, stat
 ## **URLS**
 
 - **url** = <http://localhost:5000/> -> Is the url used when in development
-- **url** = <https://openworldapi.tech/> -> Is the url used when in production
+- **url** = <https://openworldapi.gdsclpu.live/> -> Is the url used when in production
   
 ## *Countries*
 
