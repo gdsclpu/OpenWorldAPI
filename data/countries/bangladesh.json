@@ -1,17 +1,311 @@
 {
-        "country":"Bangladesh",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
-    }
+    "country": "Bangladesh",
+    "capital": "Dhaka",
+    "currency": "Bangladeshi Taka(BDT)",
+    "states": [
+        {
+            "name": "Barishal-Division",
+            "capital": "Barishal",
+            "districts": [
+                {
+                    "name": "Barguna",
+                    "cities": []
+                },
+                {
+                    "name": "Barisal",
+                    "cities": []
+                },
+                {
+                    "name": "Bhola",
+                    "cities": []
+                },
+                {
+                    "name": "Jhalokati",
+                    "cities": []
+                },
+                {
+                    "name": "Patuakati",
+                    "cities": []
+                },
+                {
+                    "name": "Pirojpur",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Chattogram-Division",
+            "capital": "Chattogram",
+            "districts": [
+                {
+                    "name": "Bandarban",
+                    "cities": []
+                },
+                {
+                    "name": "Brahmanbaria",
+                    "cities": []
+                },
+                {
+                    "name": "Chandpur",
+                    "cities": []
+                },
+                {
+                    "name": "Chittagong",
+                    "cities": []
+                },
+                {
+                    "name": "Comilla",
+                    "cities": []
+                },
+                {
+                    "name": "Cox's Bazar",
+                    "cities": []
+                },
+                {
+                    "name": "Feni",
+                    "cities": []
+                },
+                {
+                    "name": "Khagrachhari",
+                    "cities": []
+                },
+                {
+                    "name": "Lakshmipur",
+                    "cities": []
+                },
+                {
+                    "name": "Noakhali",
+                    "cities": []
+                },
+                {
+                    "name": "Rangamati",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Dhaka Division",
+            "capital": "Dhaka",
+            "districts": [
+                {
+                    "name": "Dhaka",
+                    "cities": []
+                },
+                {
+                    "name": "Faridpur",
+                    "cities": []
+                },
+                {
+                    "name": "Gazipur",
+                    "cities": []
+                },
+                {
+                    "name": "Gopalganj",
+                    "cities": []
+                },
+                {
+                    "name": "Kishoreganj",
+                    "cities": []
+                },
+                {
+                    "name": "Madaripur",
+                    "cities": []
+                },
+                {
+                    "name": "Manikganj",
+                    "cities": []
+                },
+                {
+                    "name": "Munshiganj",
+                    "cities": []
+                },
+                {
+                    "name": "Narayanganj",
+                    "cities": []
+                },
+                {
+                    "name": "Narsingdi",
+                    "cities": []
+                },
+                {
+                    "name": "Rajbari",
+                    "cities": []
+                },
+                {
+                    "name": "Shariatpur",
+                    "cities": []
+                },
+                {
+                    "name": "Tangail",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Khulna Division",
+            "capital": "Khulna",
+            "districts": [
+                {
+                    "name": "Bagerhat",
+                    "cities": []
+                },
+                {
+                    "name": "Chuadanga",
+                    "cities": []
+                },
+                {
+                    "name": "Jessore",
+                    "cities": []
+                },
+                {
+                    "name": "Jhenaidah",
+                    "cities": []
+                },
+                {
+                    "name": "Khulna",
+                    "cities": []
+                },
+                {
+                    "name": "Kushtia",
+                    "cities": []
+                },
+                {
+                    "name": "Magura",
+                    "cities": []
+                },
+                {
+                    "name": "Meherpur",
+                    "cities": []
+                },
+                {
+                    "name": "Narail",
+                    "cities": []
+                },
+                {
+                    "name": "Satkhira",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Mymensingh Division",
+            "capital": "Mymensingh",
+            "districts": [
+                {
+                    "name": "Jamalpur",
+                    "cities": []
+                },
+                {
+                    "name": "Mymensingh",
+                    "cities": []
+                },
+                {
+                    "name": "Netrokona",
+                    "cities": []
+                },
+                {
+                    "name": "sherpur",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Rajshahi Division",
+            "capital": "Rajshahi",
+            "districts": [
+                {
+                    "name": "Bogra",
+                    "cities": []
+                },
+                {
+                    "name": "Joypurhat",
+                    "cities": []
+                },
+                {
+                    "name": "Naogaon",
+                    "cities": []
+                },
+                {
+                    "name": "Natore",
+                    "cities": []
+                },
+                {
+                    "name": "Chapai Nawabganj",
+                    "cities": []
+                },
+                {
+                    "name": "Pabna",
+                    "cities": []
+                },
+                {
+                    "name": "Rajshahi",
+                    "cities": []
+                },
+                {
+                    "name": "Sirajganj",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Rangpur Division",
+            "capital": "Rangpur",
+            "districts": [
+                {
+                    "name": "Dinajpur",
+                    "cities": []
+                },
+                {
+                    "name": "Gaibandha",
+                    "cities": []
+                },
+                {
+                    "name": "Kurigram",
+                    "cities": []
+                },
+                {
+                    "name": "Lalmonirhat",
+                    "cities": []
+                },
+                {
+                    "name": "Nilphamari",
+                    "cities": []
+                },
+                {
+                    "name": "Panchagarh",
+                    "cities": []
+                },
+                {
+                    "name": "Rangpur",
+                    "cities": []
+                },
+                {
+                    "name": "Thakurgaon",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Sylhet Division",
+            "capital": "Sylhet",
+            "districts": [
+                {
+                    "name": "Habibganj",
+                    "cities": []
+                },
+                {
+                    "name": "Moulvibazar",
+                    "cities": []
+                },
+                {
+                    "name": "Sunamganj",
+                    "cities": []
+                },
+                {
+                    "name": "Sylhet",
+                    "cities": []
+                }
+            ]
+        }
+    ]
+}
