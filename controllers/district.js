@@ -9,6 +9,7 @@ let {
   SINGAPORE,
   CHINA,
   NIGERIA,
+  USA,
 } = require("../data/actions");
 
 // ----------------COUNTRIES JSON DATA-----------------------------
@@ -18,6 +19,7 @@ const ArmeniaData = require("../data/countries/armenia.json");
 const SingaporeData = require("../data/countries/singapore.json");
 const ChinaData = require("../data/countries/china.json");
 const NigeriaData = require("../data/countries/nigeria.json");
+const UsaData = require("../data/countries/usa.json");
 // ----------------------------------------------------------------
 
 const getAllDistrictsOfCountry = async (req, res, nex) => {
@@ -51,16 +53,26 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
       res
         .status(200)
         .send({ districts: allDistrictInCountry(SingaporeData, reverse) });
+        return;
 
     case CHINA:
       res
         .status(200)
         .send({ districts: allDistrictInCountry(ChinaData, reverse) });
+        return;
 
     case NIGERIA:
       res
         .status(200)
         .send({ districts: allDistrictInCountry(NigeriaData, reverse) });
+        return;
+    
+    case USA:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(UsaData, reverse) });
+        return;
+        
     default:
       res.send("Nothingness");
   }
