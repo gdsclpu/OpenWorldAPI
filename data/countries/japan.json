@@ -142,6 +142,47 @@
                         "cities":["Hofu","Iwakuni","Sanyoonoda","Shimonoseki","Ube","Yamaguchi"]
                     }
                 ]           
+            },
+            {
+                "name":"Kanto",
+                "capital":"Tokyo",
+                "districts":[
+                    {
+                        "name":"Chiba",
+                        "cities":["Abika","Chiba","Choshi","Funabashi","Ichihara","Ichikawa","Kamagaya","Kamogawa","Kashiwa","Kimitsu","Kisarazu","Kyonan","Matsudo","Mobara","Motono","Nagareyama","Narashino","Narita","Sakura","Shiroi","Tateyama","Urayasu","Yotsukaido"]
+                    },
+                    {
+                        "name":"Gunma",
+                        "cities":["Kiryu","Maebashi","Numata","Ota","Shibukawa","Takasaki"]
+                    },
+                    {
+                        "name":"Ibaraki",
+                        "cities":["Chikusei","Hitachi","Hitachinaka","Inashiki","Ishioka","Kamisu","Kasama","Kashima","Mito","Moriya","Omitama","Sakuragawa","Tsuchiura","Tsukuba","Ushiku"]
+                    },
+                    {
+                        "name":"Kanagawa",
+                        "cities":["Atsugi","Ayase","Ebina","Fujisawa","Hadano","Hiratsuka","Isehara","Kamakura","Kawasaki","Miura","Odawara","Sagamihara","Yamato","Yokohama","Yokosuka","Zama","Zushi"]
+                    },
+                    {
+                        "name":"Saitama",
+                        "cities":["Ageo","Asaka","Chichibu","Higashimatsuyama","Kasukabe","Kawagoe","Kawaguchi","Koshigaya","Kumagaya","Misato","Niiza","Saitama","Soka","Tokorozawa","Tsurugashima","Wako","Warabi"]
+                    },
+                    {
+                        "name":"Tochigi",
+                        "cities":["Ashikaga","Kanuma","Nasushiobara","Nikko","Ohtawara","Oyama","Sano","Shimotsuke","Tochigi","Utsunomiya"]
+                    },
+                    {
+                        "name":"Tokyo",
+                        "cities":["Adachi","Arakawa","Bunkyo","Chiyoda","Chofu","Chuo","Edogawa","Fuchu","Fussa","Hachioji","Hamura","Higashimurayama","Itabashi","Katsushika","Kita","Kokubunji","Koto","Kunitachi","Machida","Meguro","Minato","Mitaka","Musashimurayama","Musashino","Nakano","Nerima","Nishitokyo","Ota","Setagaya","Shibuya","Shinagawa","Shinjuku","Suginami","Sumida","Tachikawa","Taito","Tama","Toshima"]
+                    }
+                ]
+            },
+            {
+                "name":"",
+                "capital":"",
+                "districts":[
+                    
+                ]
             }
         ]
     }
