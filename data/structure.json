@@ -24,25 +24,32 @@
           "city": []
         },
         {
-          "name": "Ada East"
+          "name": "Ada East",
+          "city": []
         },
         {
-          "name": "Ada West"
+          "name": "Ada West",
+          "city": []
         },
         {
-          "name": "Adenta"
+          "name": "Adenta",
+          "city": []
         },
         {
-          "name": "Ashiaman"
+          "name": "Ashiaman",
+          "city": []
         },
         {
-          "name": "Ayawaso Central"
+          "name": "Ayawaso Central",
+          "city": []
         },
         {
-          "name": "Ayawaso East"
+          "name": "Ayawaso East",
+          "city": []
         },
         {
-          "name": "Ayawaso West"
+          "name": "Ayawaso West",
+          "city": []
         }
       ]
     }
