@@ -6,6 +6,7 @@ const CHINA = "CHINA";
 const NIGERIA = "NIGERIA";
 const USA = "USA";
 const JAPAN = "JAPAN";
+const CAMBODIA = "CAMBODIA";
 
 module.exports = {
   GHANA,
@@ -16,4 +17,5 @@ module.exports = {
   NIGERIA,
   USA,
   JAPAN,
+  CAMBODIA,
 };

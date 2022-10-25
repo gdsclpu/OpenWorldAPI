@@ -11,6 +11,7 @@ let {
   NIGERIA,
   USA,
   JAPAN,
+  CAMBODIA,
 } = require("../data/actions");
 
 // ----------------COUNTRIES JSON DATA-----------------------------
@@ -22,6 +23,7 @@ const ChinaData = require("../data/countries/china.json");
 const NigeriaData = require("../data/countries/nigeria.json");
 const UsaData = require("../data/countries/usa.json");
 const JapanData = require("../data/countries/japan.json");
+const CambodiaData = require("../data/countries/cambodia.json");
 // ----------------------------------------------------------------
 
 const getAllDistrictsOfCountry = async (req, res, nex) => {
@@ -81,6 +83,12 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
         .send({ districts: allDistrictInCountry(JapanData, reverse) });
       return;
 
+    case CAMBODIA:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(CambodiaData, reverse) });
+      return;
+
     default:
       res.send("Nothingness");
   }
@@ -136,9 +144,10 @@ const getAllDistrictOfState = async (req, res, next) => {
         return;
       }
 
-      res
+      return res
         .status(200)
         .send({ districts: allDistrictOfState(ArmeniaData, index, reverse) });
+
     case SINGAPORE:
       index = SingaporeData.states.findIndex(
         (data) => data.name.toLowerCase() === state.toLowerCase()
@@ -147,7 +156,7 @@ const getAllDistrictOfState = async (req, res, next) => {
         res.send(400).send({ message: " State not found" });
         return;
       }
-      res
+      return res
         .status(200)
         .send({ districts: allDistrictOfState(SingaporeData, index, reverse) });
 
@@ -159,7 +168,7 @@ const getAllDistrictOfState = async (req, res, next) => {
         res.send(400).send({ message: " State not found" });
         return;
       }
-      res
+      return res
         .status(200)
         .send({ districts: allDistrictOfState(ChinaData, index, reverse) });
 
@@ -171,9 +180,46 @@ const getAllDistrictOfState = async (req, res, next) => {
         res.send(400).send({ message: " State not found" });
         return;
       }
-      res
+      return res
         .status(200)
         .send({ districts: allDistrictOfState(NigeriaData, index, reverse) });
+
+    case USA:
+      index = UsaData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+      if (index == -1) {
+        res.send(400).send({ message: " State not found" });
+        return;
+      }
+      return res
+        .status(200)
+        .send({ districts: allDistrictOfState(UsaData, index, reverse) });
+
+    case JAPAN:
+      index = JapanData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+      if (index == -1) {
+        res.send(400).send({ message: " State not found" });
+        return;
+      }
+      return res
+        .status(200)
+        .send({ districts: allDistrictOfState(JapanData, index, reverse) });
+
+    case CAMBODIA:
+      index = CambodiaData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+      if (index == -1) {
+        res.send(400).send({ message: " State not found" });
+        return;
+      }
+      return res
+        .status(200)
+        .send({ districts: allDistrictOfState(CambodiaData, index, reverse) });
+
     default:
       res.send("Nothingness");
   }
