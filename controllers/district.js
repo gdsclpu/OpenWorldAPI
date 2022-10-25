@@ -12,6 +12,9 @@ let {
   USA,
   JAPAN,
   CAMBODIA,
+  ARUBA,
+  BANGLADESH,
+  BRAZIL,
 } = require("../data/actions");
 
 // ----------------COUNTRIES JSON DATA-----------------------------
@@ -24,6 +27,9 @@ const NigeriaData = require("../data/countries/nigeria.json");
 const UsaData = require("../data/countries/usa.json");
 const JapanData = require("../data/countries/japan.json");
 const CambodiaData = require("../data/countries/cambodia.json");
+const ArubaData = require("../data/countries/aruba.json");
+const BangladeshData = require("../data/countries/bangladesh.json");
+const BrazilData = require("../data/countries/brazil.json");
 // ----------------------------------------------------------------
 
 const getAllDistrictsOfCountry = async (req, res, nex) => {
@@ -87,6 +93,24 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
       res
         .status(200)
         .send({ districts: allDistrictInCountry(CambodiaData, reverse) });
+      return;
+
+    case ARUBA:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(ArubaData, reverse) });
+      return;
+
+    case BANGLADESH:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(BangladeshData, reverse) });
+      return;
+
+    case BRAZIL:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(BrazilData, reverse) });
       return;
 
     default:
@@ -219,6 +243,46 @@ const getAllDistrictOfState = async (req, res, next) => {
       return res
         .status(200)
         .send({ districts: allDistrictOfState(CambodiaData, index, reverse) });
+
+    case ARUBA:
+      index = ArubaData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+      if (index == -1) {
+        res.send(400).send({ message: " State not found" });
+        return;
+      }
+      return res
+        .status(200)
+        .send({ districts: allDistrictOfState(ArubaData, index, reverse) });
+
+    case BANGLADESH:
+      index = BangladeshData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+
+      if (index == -1) {
+        res.send(400).send({ message: " State not found" });
+        return;
+      }
+
+      return res.status(200).send({
+        districts: allDistrictOfState(BangladeshData, index, reverse),
+      });
+
+    case BRAZIL:
+      index = BrazilData.states.findIndex(
+        (data) => data.name.toLowerCase() === state.toLowerCase()
+      );
+
+      if (index == -1) {
+        res.send(400).send({ message: " State not found" });
+        return;
+      }
+
+      return res.status(200).send({
+        districts: allDistrictOfState(BrazilData, index, reverse),
+      });
 
     default:
       res.send("Nothingness");
