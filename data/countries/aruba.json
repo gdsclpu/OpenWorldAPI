@@ -1,17 +1,271 @@
 {
-        "country":"Aruba",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
-    }
+    "country": "Aruba",
+    "capital": "Orenjestad",
+    "currency": "Aruban Guilder(AWG)",
+    "states": [
+        {
+            "name": "Noord/Tanki Leendert",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Alto Vista",
+                    "cities": []
+                },
+                {
+                    "name": "Bubali",
+                    "cities": []
+                },
+                {
+                    "name": "Malmok",
+                    "cities": []
+                },
+                {
+                    "name": "Moko",
+                    "cities": []
+                },
+                {
+                    "name": "Palm Beach",
+                    "cities": []
+                },
+                {
+                    "name": "Tanki Flip",
+                    "cities": []
+                },
+                {
+                    "name": "Tanki Leendert",
+                    "cities": []
+                },
+                {
+                    "name": "Washington",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Oranjestad",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Barcadera",
+                    "cities": []
+                },
+                {
+                    "name": "Companashi",
+                    "cities": []
+                },
+                {
+                    "name": "Cumana",
+                    "cities": []
+                },
+                {
+                    "name": "Cunucu Abao",
+                    "cities": []
+                },
+                {
+                    "name": "Dakota",
+                    "cities": []
+                },
+                {
+                    "name": "Eagle beach",
+                    "cities": []
+                },
+                {
+                    "name": "Kavel",
+                    "cities": []
+                },
+                {
+                    "name": "Klip",
+                    "cities": []
+                },
+                {
+                    "name": "Madiki",
+                    "cities": []
+                },
+                {
+                    "name": "Mahuma",
+                    "cities": []
+                },
+                {
+                    "name": "Mon Plaisir",
+                    "cities": []
+                },
+                {
+                    "name": "Paaradenbaai",
+                    "cities": []
+                },
+                {
+                    "name": "Paradijswijk",
+                    "cities": []
+                },
+                {
+                    "name": "Parkientenbos",
+                    "cities": []
+                },
+                {
+                    "name": "Ponton",
+                    "cities": []
+                },
+                {
+                    "name": "Rancho",
+                    "cities": []
+                },
+                {
+                    "name": "Sabana blanco",
+                    "cities": []
+                },
+                {
+                    "name": "Santa Helena",
+                    "cities": []
+                },
+                {
+                    "name": "Seroe Blanco",
+                    "cities": []
+                },
+                {
+                    "name": "Simeon Antonio",
+                    "cities": []
+                },
+                {
+                    "name": "Sividivi",
+                    "cities": []
+                },
+                {
+                    "name": "Socotoro",
+                    "cities": []
+                },
+                {
+                    "name": "Solito",
+                    "cities": []
+                },
+                {
+                    "name": "Tarabana",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Paradera",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Ayo",
+                    "cities": []
+                },
+                {
+                    "name": "Piedra Plat",
+                    "cities": []
+                },
+                {
+                    "name": "Shiribana",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "San Nicolaas",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Brasil",
+                    "cities": []
+                },
+                {
+                    "name": "Esso Heights",
+                    "cities": []
+                },
+                {
+                    "name": "Essoville",
+                    "cities": []
+                },
+                {
+                    "name": "Juana Morto",
+                    "cities": []
+                },
+                {
+                    "name": "Kustbatterij",
+                    "cities": []
+                },
+                {
+                    "name": "Lago Colony",
+                    "cities": []
+                },
+                {
+                    "name": "Rooi Hundo",
+                    "cities": []
+                },
+                {
+                    "name": "Seroe Colorado",
+                    "cities": []
+                },
+                {
+                    "name": "Standardville",
+                    "cities": []
+                },
+                {
+                    "name": "Watapana Gezaag",
+                    "cities": []
+                },
+                {
+                    "name": "Zeewijk",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Santa Cruz",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Balashi",
+                    "cities": []
+                },
+                {
+                    "name": "Cashero",
+                    "cities": []
+                },
+                {
+                    "name": "Hooiberg",
+                    "cities": []
+                },
+                {
+                    "name": "Macuarima",
+                    "cities": []
+                },
+                {
+                    "name": "Papilon",
+                    "cities": []
+                },
+                {
+                    "name": "Urataka",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Savaneta",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Cura Cabai",
+                    "cities": []
+                },
+                {
+                    "name": "Jara",
+                    "cities": []
+                },
+                {
+                    "name": "De Bruynewijk",
+                    "cities": []
+                },
+                {
+                    "name": "Pos Chiquito",
+                    "cities": []
+                },
+                {
+                    "name": "Sereo Alejandaro",
+                    "cities": []
+                }
+            ]
+        }
+    ]
+}
