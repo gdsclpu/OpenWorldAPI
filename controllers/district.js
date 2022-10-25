@@ -10,6 +10,7 @@ let {
   CHINA,
   NIGERIA,
   USA,
+  JAPAN,
 } = require("../data/actions");
 
 // ----------------COUNTRIES JSON DATA-----------------------------
@@ -20,6 +21,7 @@ const SingaporeData = require("../data/countries/singapore.json");
 const ChinaData = require("../data/countries/china.json");
 const NigeriaData = require("../data/countries/nigeria.json");
 const UsaData = require("../data/countries/usa.json");
+const JapanData = require("../data/countries/japan.json");
 // ----------------------------------------------------------------
 
 const getAllDistrictsOfCountry = async (req, res, nex) => {
@@ -27,7 +29,7 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
   let { reverse } = req.query;
 
   if (!country) {
-   return res.send(400).send({ message: "Please provide country name" });
+    return res.send(400).send({ message: "Please provide country name" });
   }
 
   reverse = reverse ? (reverse === "false" ? false : true) : true;
@@ -53,26 +55,32 @@ const getAllDistrictsOfCountry = async (req, res, nex) => {
       res
         .status(200)
         .send({ districts: allDistrictInCountry(SingaporeData, reverse) });
-        return;
+      return;
 
     case CHINA:
       res
         .status(200)
         .send({ districts: allDistrictInCountry(ChinaData, reverse) });
-        return;
+      return;
 
     case NIGERIA:
       res
         .status(200)
         .send({ districts: allDistrictInCountry(NigeriaData, reverse) });
-        return;
-    
+      return;
+
     case USA:
       res
         .status(200)
         .send({ districts: allDistrictInCountry(UsaData, reverse) });
-        return;
-        
+      return;
+
+    case JAPAN:
+      res
+        .status(200)
+        .send({ districts: allDistrictInCountry(JapanData, reverse) });
+      return;
+
     default:
       res.send("Nothingness");
   }
@@ -83,7 +91,9 @@ const getAllDistrictOfState = async (req, res, next) => {
   let { reverse, state } = req.query;
 
   if (!country || !state) {
-   return res.status(400).send({ message: "Please provide both country and state" });
+    return res
+      .status(400)
+      .send({ message: "Please provide both country and state" });
   }
 
   reverse = reverse ? (reverse === "false" ? false : true) : true;
@@ -113,7 +123,7 @@ const getAllDistrictOfState = async (req, res, next) => {
         return;
       }
 
-    return  res
+      return res
         .status(200)
         .send({ districts: allDistrictOfState(IndiaData, index, reverse) });
 

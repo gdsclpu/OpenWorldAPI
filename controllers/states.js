@@ -6,7 +6,8 @@ let {
   SINGAPORE,
   CHINA,
   NIGERIA,
-  USA
+  USA,
+  JAPAN,
 } = require("../data/actions");
 
 // ------------COUNTRIES JSON DATA-------------------------------
@@ -17,6 +18,7 @@ const SingaporeData = require("../data/countries/singapore.json");
 const ChinaData = require("../data/countries/china.json");
 const NigeriaData = require("../data/countries/nigeria.json");
 const UsaData = require("../data/countries/usa.json");
+const JapanData = require("../data/countries/japan.json");
 // ----------------------------------------------------------------
 
 const getAllStates = async (req, res, next) => {
@@ -51,6 +53,10 @@ const getAllStates = async (req, res, next) => {
 
     case USA:
       res.status(200).send({ states: allStates(UsaData, reverse) });
+      return;
+
+    case JAPAN:
+      res.status(200).send({ states: allStates(JapanData, reverse) });
 
     default:
       res.send("Nothingness");
