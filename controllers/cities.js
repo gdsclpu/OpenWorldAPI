@@ -1,8 +1,21 @@
 const { allCitiesOfCountry, allCitiesOfState } = require("../custom/custom");
-let { GHANA, INDIA,USA } = require("../data/actions");
+let {
+  GHANA,
+  INDIA,
+  USA,
+  ARMENIA,
+  CHINA,
+  NIGERIA,
+  SINGAPORE,
+} = require("../data/actions");
+
 const GhanaData = require("../data/countries/ghana.json");
 const IndiaData = require("../data/countries/india.json");
 const UsaData = require("../data/countries/usa.json");
+const ArmeniaData = require("../data/countries/armenia.json");
+const ChinaData = require("../data/countries/china.json");
+const NigeriaData = require("../data/countries/nigeria.json");
+const SingaporeData = require("../data/countries/singapore.json");
 
 const getAllCitiesOfCountry = async (req, res, next) => {
   let { country } = req.params;
@@ -19,12 +32,33 @@ const getAllCitiesOfCountry = async (req, res, next) => {
       return;
 
     case INDIA:
-      res.status(200).send({ districts: cities });
+      res.status(200).send({ cities: allCitiesOfCountry(IndiaData, reverse) });
       return;
-    
+
     case USA:
-      res.status(200).send({ districts: cities });
+      res.status(200).send({ cities: allCitiesOfCountry(UsaData, reverse) });
       return;
+
+    case ARMENIA:
+      res
+        .status(200)
+        .send({ cities: allCitiesOfCountry(ArmeniaData, reverse) });
+      return;
+
+    case CHINA:
+      res.status(200).send({ cities: allCitiesOfCountry(ChinaData, reverse) });
+      return;
+
+    case NIGERIA:
+      res
+        .status(200)
+        .send({ cities: allCitiesOfCountry(NigeriaData, reverse) });
+      return;
+
+    case SINGAPORE:
+      res
+        .status(200)
+        .send({ cities: allCitiesOfCountry(SingaporeData, reverse) });
 
     default:
       res.send("Nothingness");
