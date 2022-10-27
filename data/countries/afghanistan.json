@@ -164,7 +164,35 @@
       "capital": "Puli Khumri",
       "districts": [
         {
-          "name": "",
+          "name": "Andarab",
+          "cities": []
+        },
+        {
+          "name": "Baghlani Jadid",
+          "cities": []
+        },
+        {
+          "name": "Burka",
+          "cities": []
+        },
+        {
+          "name": "Dahana-I-Ghuri",
+          "cities": []
+        },
+        {
+          "name": "Dih Salah",
+          "cities": []
+        },
+        {
+          "name": "Dushi",
+          "cities": []
+        },
+        {
+          "name": "Farang Wa Gharu",
+          "cities": []
+        },
+        {
+          "name": "Guzargahi Nur",
           "cities": []
         }
       ]
