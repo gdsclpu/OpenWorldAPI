@@ -1,7 +1,7 @@
 {
   "country": "Argentina",
-  "capital": "",
-  "currency": "",
+  "capital": "Buenos Aires",
+  "currency": "The Argentine peso",
   "states": [
     {
       "name": "Autonomous City of Buenos Aires",
