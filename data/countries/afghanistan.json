@@ -8,7 +8,115 @@
       "capital": "Fayzabad",
       "districts": [
         {
-          "name": "",
+          "name": "Arghanj Khwa",
+          "cities": []
+        },
+        {
+          "name": "Argo",
+          "cities": []
+        },
+        {
+          "name": "Baharak",
+          "cities": []
+        },
+        {
+          "name": "Darayim",
+          "cities": []
+        },
+        {
+          "name": "Fayzabad",
+          "cities": []
+        },
+        {
+          "name": "Ishkashim",
+          "cities": []
+        },
+        {
+          "name": "Jurm",
+          "cities": []
+        },
+        {
+          "name": "Khash",
+          "cities": []
+        },
+        {
+          "name": "Khwahan",
+          "cities": []
+        },
+        {
+          "name": "Kishim",
+          "cities": []
+        },
+        {
+          "name": "Kohistan",
+          "cities": []
+        },
+        {
+          "name": "Kuf Ab",
+          "cities": []
+        },
+        {
+          "name": "Keran wa Menjan",
+          "cities": []
+        },
+        {
+          "name": "Maimay",
+          "cities": []
+        },
+        {
+          "name": "Nusay",
+          "cities": []
+        },
+        {
+          "name": "Raghistan",
+          "cities": []
+        },
+        {
+          "name": "Shahri Buzurg",
+          "cities": []
+        },
+        {
+          "name": "Sheghnan",
+          "cities": []
+        },
+        {
+          "name": "Shekay",
+          "cities": []
+        },
+        {
+          "name": "Shuhada",
+          "cities": []
+        },
+        {
+          "name": "Tagab",
+          "cities": []
+        },
+        {
+          "name": "Tishkan",
+          "cities": []
+        },
+        {
+          "name": "Wakhan",
+          "cities": []
+        },
+        {
+          "name": "Warduj",
+          "cities": []
+        },
+        {
+          "name": "Yaftali Sufla",
+          "cities": []
+        },
+        {
+          "name": "Yamgan",
+          "cities": []
+        },
+        {
+          "name": "Yawan",
+          "cities": []
+        },
+        {
+          "name": "Zebak",
           "cities": []
         }
       ]
@@ -18,7 +126,35 @@
       "capital": "Qala i Naw",
       "districts": [
         {
-          "name": "",
+          "name": "Ab Kamari",
+          "cities": []
+        },
+        {
+          "name": " Ghormach District",
+          "cities": []
+        },
+        {
+          "name": "Jawand District",
+          "cities": []
+        },
+        {
+          "name": "Muqur District",
+          "cities": []
+        },
+        {
+          "name": "Bala Murghab District",
+          "cities": []
+        },
+        {
+          "name": "Qadis District",
+          "cities": []
+        },
+        {
+          "name": "Qala i Naw District",
+          "cities": []
+        },
+        {
+          "name": "Murghab District",
           "cities": []
         }
       ]
