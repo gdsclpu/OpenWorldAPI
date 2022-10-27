@@ -1,17 +1,49 @@
 {
-        "country":"Mauritius",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
+    "country": "Mauritius",
+    "capital": " Port Louis",
+    "currency": "Mauritian rupee (MUR)",
+    "states": [
+        {
+            "name": "",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Flacq",
+                    "cities": []
+                }
                     {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
-    }
+                    "name": "Grand Port",
+                    "cities": []
+                }
+                    {
+                    "name": "Moka",
+                    "cities": []
+                }
+                    {
+                    "name": "Pamplemousses",
+                    "cities": []
+                }
+                    {
+                    "name": "Plaines Wilhems",
+                    "cities": []
+                }
+                    {
+                    "name": "Port Louis",
+                    "cities": []
+                }
+                    {
+                    "name": "Rivière du Rempart",
+                    "cities": []
+                }
+                    {
+                    "name": "Rivière Noire",
+                    "cities": []
+                }
+                    {
+                    "name": "Savanne",
+                    "cities": []
+                }
+            ]
+        }
+    ]
+}
