@@ -500,7 +500,35 @@
       "capital": "Kunming",
       "districts": [
         {
-          "name": "",
+          "name": "Kunming",
+          "cities": []
+        },
+        {
+          "name": "Qujing",
+          "cities": []
+        },
+        {
+          "name": "Yuxi",
+          "cities": []
+        },
+        {
+          "name": "Baoshan",
+          "cities": []
+        },
+        {
+          "name": "Zhaotong",
+          "cities": []
+        },
+        {
+          "name": "Lijiang",
+          "cities": []
+        },
+        {
+          "name": "Pu'er",
+          "cities": []
+        },
+        {
+          "name": "Lincang",
           "cities": []
         }
       ]
