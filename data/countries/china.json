@@ -510,7 +510,47 @@
       "capital": "Hangzhou",
       "districts": [
         {
-          "name": "",
+          "name": "Hangzhou",
+          "cities": []
+        },
+        {
+          "name": "Ningbo",
+          "cities": []
+        },
+        {
+          "name": "Wenzhou",
+          "cities": []
+        },
+        {
+          "name": "Jiaxing",
+          "cities": []
+        },
+        {
+          "name": "Huzhou",
+          "cities": []
+        },
+        {
+          "name": "Shaoxing",
+          "cities": []
+        },
+        {
+          "name": "Jinhua",
+          "cities": []
+        },
+        {
+          "name": "Quzhou",
+          "cities": []
+        },
+        {
+          "name": "Zhoushan",
+          "cities": []
+        },
+        {
+          "name": "Taizhou",
+          "cities": []
+        },
+        {
+          "name": "Lishui",
           "cities": []
         }
       ]
