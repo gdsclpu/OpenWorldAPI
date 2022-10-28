@@ -356,7 +356,35 @@
       "capital": "Xining",
       "districts": [
         {
-          "name": "",
+          "name": "Xining",
+          "cities": []
+        },
+        {
+          "name": "Haidong",
+          "cities": []
+        },
+        {
+          "name": "Haibei",
+          "cities": []
+        },
+        {
+          "name": "Huangnan",
+          "cities": []
+        },
+        {
+          "name": "Hainan",
+          "cities": []
+        },
+        {
+          "name": "Golog",
+          "cities": []
+        },
+        {
+          "name": "Yushu",
+          "cities": []
+        },
+        {
+          "name": "Haixi Mongol",
           "cities": []
         }
       ]
