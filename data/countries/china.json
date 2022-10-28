@@ -490,7 +490,67 @@
       "capital": "",
       "districts": [
         {
-          "name": "",
+          "name": "Heping",
+          "cities": []
+        },
+        {
+          "name": "Hedong",
+          "cities": []
+        },
+        {
+          "name": "Hexi",
+          "cities": []
+        },
+        {
+          "name": "Nankai",
+          "cities": []
+        },
+        {
+          "name": "Hebei",
+          "cities": []
+        },
+        {
+          "name": "Hongqiao",
+          "cities": []
+        },
+        {
+          "name": "Dongli",
+          "cities": []
+        },
+        {
+          "name": "Xiqing",
+          "cities": []
+        },
+        {
+          "name": "Jinnan",
+          "cities": []
+        },
+        {
+          "name": "Beichen",
+          "cities": []
+        },
+        {
+          "name": "Wuqing",
+          "cities": []
+        },
+        {
+          "name": "Baodi",
+          "cities": []
+        },
+        {
+          "name": "Binhai ",
+          "cities": []
+        },
+        {
+          "name": "Ninghe",
+          "cities": []
+        },
+        {
+          "name": "Jinghai",
+          "cities": []
+        },
+        {
+          "name": "Jizhou",
           "cities": []
         }
       ]
