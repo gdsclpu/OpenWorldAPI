@@ -387,7 +387,21 @@
       "districts": [
         {
           "name": "Baoshan",
-          "cities": []
+          "cities": [
+            "Youyi Road District",
+            "Wusong Subdistrict",
+            "Zhangmiao Subdistrict",
+            "Luodian town",
+            "Dachang town",
+            "Yanghang town",
+            "Yuepu town",
+            "Luojing town",
+            "Gucun town",
+            "Gaojing town",
+            "Miaohang town",
+            "Songnan town",
+            "Baoshan City Industrial Park"
+          ]
         },
         {
           "name": "Changning",
