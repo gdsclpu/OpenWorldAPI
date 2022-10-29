@@ -1,14 +1,388 @@
 {
         "country":"Kuwait",
-        "capital":"",
-        "currency":"",
+        "capital":"Kuwait City",
+        "currency":"Kuwaiti dinar",
         "states":[
             {
-                "name":"",
+                "name":"Kuwait city",
                 "capital":"",
                 "districts":[
                     {
-                        "name":"",
+                        "name":"Abdullah Al-Salem",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Adiliya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bneid Al-Qar",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Da'iya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Dasma",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Faiha",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Faylakah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jaber Al-Ahmad",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jibla",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Kaifan",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Khaldiya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Mansouriah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mirgab",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-Nuzha",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Qadisiya",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Jahra",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Al Jahra'",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al `Ulaymiyah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al `Arfajiyah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Umm Ghatti",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Dulay` ar Rukham",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ghudayy",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bahrat al `Awjah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Khawr al `Awjah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jazirat Bubiyan",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Markaz Warbah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jazirat Warbah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jal az Zawr",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Tubayj",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ashish ad Dawhah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"As Sab`ah",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Hawalli",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Hawalli",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bayan",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mishref",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Maidan Hawalli",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jabriya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Rumaithiya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Salmiya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Salwa",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Shaab",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-salam",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Hattin",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-Zahra",
+                        "cities":[]
+                    },
+                    {
+                        "name":"West Mishref",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-shuhada",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-badae",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Farwaniyah",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Abdullah Al-Mubarak",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Airport District",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Andalous",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ardiya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ardiya Herafiya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ardiya Industrial Area",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ashbelya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Dhajeej",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Farwaniya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Fordous",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jleeb Al-Shuyoukh",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Khaitan",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Omariya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Rabiya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-Rai",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Mubarak Al-Kabeer",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Abu Al Hasaniya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Abu Futaira",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Adān",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Qurain",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-Qusour",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Fintās",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Funaitīs",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Misīla",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mubarak Al-Kabeer",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Sabah Al-Salem",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Sabhān",
+                        "cities":[]
+                    },
+                    {
+                        "name":"South Wista",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Wista",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Al-Ahmadi",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Abu Halifa",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-Ahmadi",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Egaila",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Daher",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Fahaheel",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Fintas",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Hadyia",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jaber Al-Ali",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mahboula",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mangaf",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Riqqa",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Subahiya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Sabah Al-Ahmad Sea City",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Wafra",
                         "cities":[]
                     }
                 ]
