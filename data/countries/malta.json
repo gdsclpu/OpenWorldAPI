@@ -1,16 +1,148 @@
 {
         "country":"Malta",
-        "capital":"",
-        "currency":"",
+        "capital":"Valleta",
+        "currency":"Euro",
         "states":[
             {
-                "name":"",
+                "name":"Central Region",
                 "capital":"",
                 "districts":[
                     {
-                        "name":"",
-                        "cities":[]
+                        "name":"Northern Harbour District",
+                        "cities":[
+                            "Birkirkara",
+                            "Il-Gżira",
+                            "Il-Ħamrun",
+                            "Pembroke",
+                            "Tal-Pietà",
+                            "Ħal Qormi",
+                            "San Ġiljan",
+                            "San Ġwann (include the hamlet of Il-Kappara)",
+                            "Santa Venera",
+                            "Tas-Sliema",
+                            "Is-Swieqi",
+                            "Ta' Xbiex"
+                        ]
                     }
+                    {
+                        "name":"Western District",
+                        "cities":[
+                        "Ħ'Attard",
+                        "Ħal Balzan",
+                        "Ħad-Dingli",
+                        "L-Iklin",
+                        "Ħal Lija",
+                        "L-Imdina",
+                        "L-Imtarfa",
+                        "Ir-Rabat (include the hamlets of Baħrija and Tal-Virtù)",
+                        "Is-Siġġiewi",
+                        "Ħaż-Żebbuġ"]
+                    }
+
+
+                ]
+            }
+            {
+                "name":"Gozo Region",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Gozo and Comino District",
+                        "cities":[
+                        "Il-Fontana",
+                        "Għajnsielem (including Comino)",
+                        "L-Għarb",
+                        "L-Għasri",
+                        "Ta' Kerċem",
+                        "Il-Munxar",
+                        "In-Nadur",
+                        "Il-Qala",
+                        "San Lawrenz",
+                        "Ta' Sannat",
+                        "Ix-Xagħra",
+                        "Ix-Xewkija",
+                        "Ir-Rabat (Victoria)",
+                        "Iż-Żebbuġ"]
+                    }
+
+                ]
+            }
+            {
+                "name":"Northern Region",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Northern District",
+                        "cities":[
+                        "Ħal Għargħur",
+                        "Il-Mellieħa (include the parish area of Manikata)",
+                        "L-Imġarr",
+                        "Il-Mosta",
+                        "In-Naxxar (include the hamlet of Baħar iċ-Ċagħaq)",
+                        "San Pawl il-Baħar"]
+                    }
+                    
+                ]
+            }
+            {
+                "name":"South Eastern Region",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Malta Xlokk",
+                        "cities":["Birgu (Città Vittoriosa)",
+                        "Birżebbuġa",
+                        "Bormla (Città Cospicua)",
+                        "Fgura",
+                        "Floriana",
+                        "Għaxaq",
+                        "Gudja",
+                        "Senglea (Città Invicta)",
+                        "Kalkara",
+                        "Kirkop",
+                        "Luqa",
+                        "Marsa",
+                        "Marsaskala (Wied il-Għajn)",
+                        "Marsaxlokk",
+                        "Mqabba",
+                        "Paola (Raħal Ġdid)",
+                        "Qrendi",
+                        "Safi",
+                        "Santa Luċija",
+                        "Tarxien",
+                        "Valletta (Città Umilissima)",
+                        "Xgħajra",
+                        "Żabbar (Città Hompesch)",
+                        "Żejtun (Città Beland)",
+                        "Żurrieq"]
+                    }
+
+                ]
+            }
+            {
+                "name":"Southern Region",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Southern Harbour District",
+                        "cities":[
+                            "Birgu (Vittoriosa)",
+                            "Bormla (Cospicua)",
+                            "Fgura",
+                            "Floriana (Furjana)", 
+                            "Senglea (Isla)",
+                            "Kalkara",
+                            "Luqa",
+                            "Marsa ",
+                            "Paola",
+                            "Santa Luċija",
+                            "Tarxien",
+                            "Valletta",
+                            "Xgħajra",
+                            "Żabbar"
+                        ]
+                    }
+
                 ]
             }
         ]
