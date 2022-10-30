@@ -1,17 +1,87 @@
 {
-        "country":"Antarctica",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
+  "country": "Antarctica",
+  "capital": "N/A",
+  "currency": "Antarctican dollar",
+  "states": [
+    {
+      "name": "Argentine Antarctica",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Australian Antarctic Territory",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Chilean Antarctic Territory",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Adélie Land",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Ross Dependency",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Peter I Island",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Queen Maud Land",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "British Antarctic Territory",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
     }
+  ]
+}
