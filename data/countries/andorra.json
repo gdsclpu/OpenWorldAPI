@@ -1,17 +1,77 @@
 {
-        "country":"AndorrA",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
+  "country": "AndorrA",
+  "capital": "Andorra la Vella",
+  "currency": "Euro",
+  "states": [
+    {
+      "name": "Andorra la Vella",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Canillo",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Encamp",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Escaldes-Engordany",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "La Massana",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Ordino",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Sant Julia de Loria",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
     }
+  ]
+}
