@@ -1,17 +1,603 @@
 {
-        "country":"Afghanistan",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
+  "country": "Afghanistan",
+  "capital": "Kabul",
+  "currency": "Afghan afghani",
+  "states": [
+    {
+      "name": "Badakhshan",
+      "capital": "Fayzabad",
+      "districts": [
+        {
+          "name": "Arghanj Khwa",
+          "cities": []
+        },
+        {
+          "name": "Argo",
+          "cities": []
+        },
+        {
+          "name": "Baharak",
+          "cities": []
+        },
+        {
+          "name": "Darayim",
+          "cities": []
+        },
+        {
+          "name": "Fayzabad",
+          "cities": []
+        },
+        {
+          "name": "Ishkashim",
+          "cities": []
+        },
+        {
+          "name": "Jurm",
+          "cities": []
+        },
+        {
+          "name": "Khash",
+          "cities": []
+        },
+        {
+          "name": "Khwahan",
+          "cities": []
+        },
+        {
+          "name": "Kishim",
+          "cities": []
+        },
+        {
+          "name": "Kohistan",
+          "cities": []
+        },
+        {
+          "name": "Kuf Ab",
+          "cities": []
+        },
+        {
+          "name": "Keran wa Menjan",
+          "cities": []
+        },
+        {
+          "name": "Maimay",
+          "cities": []
+        },
+        {
+          "name": "Nusay",
+          "cities": []
+        },
+        {
+          "name": "Raghistan",
+          "cities": []
+        },
+        {
+          "name": "Shahri Buzurg",
+          "cities": []
+        },
+        {
+          "name": "Sheghnan",
+          "cities": []
+        },
+        {
+          "name": "Shekay",
+          "cities": []
+        },
+        {
+          "name": "Shuhada",
+          "cities": []
+        },
+        {
+          "name": "Tagab",
+          "cities": []
+        },
+        {
+          "name": "Tishkan",
+          "cities": []
+        },
+        {
+          "name": "Wakhan",
+          "cities": []
+        },
+        {
+          "name": "Warduj",
+          "cities": []
+        },
+        {
+          "name": "Yaftali Sufla",
+          "cities": []
+        },
+        {
+          "name": "Yamgan",
+          "cities": []
+        },
+        {
+          "name": "Yawan",
+          "cities": []
+        },
+        {
+          "name": "Zebak",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Badghis",
+      "capital": "Qala i Naw",
+      "districts": [
+        {
+          "name": "Ab Kamari",
+          "cities": []
+        },
+        {
+          "name": " Ghormach District",
+          "cities": []
+        },
+        {
+          "name": "Jawand District",
+          "cities": []
+        },
+        {
+          "name": "Muqur District",
+          "cities": []
+        },
+        {
+          "name": "Bala Murghab District",
+          "cities": []
+        },
+        {
+          "name": "Qadis District",
+          "cities": []
+        },
+        {
+          "name": "Qala i Naw District",
+          "cities": []
+        },
+        {
+          "name": "Murghab District",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Baghlan",
+      "capital": "Puli Khumri",
+      "districts": [
+        {
+          "name": "Andarab",
+          "cities": []
+        },
+        {
+          "name": "Baghlani Jadid",
+          "cities": []
+        },
+        {
+          "name": "Burka",
+          "cities": []
+        },
+        {
+          "name": "Dahana-I-Ghuri",
+          "cities": []
+        },
+        {
+          "name": "Dih Salah",
+          "cities": []
+        },
+        {
+          "name": "Dushi",
+          "cities": []
+        },
+        {
+          "name": "Farang Wa Gharu",
+          "cities": []
+        },
+        {
+          "name": "Guzargahi Nur",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Balkh",
+      "capital": "Mazar-i-Sharif",
+      "districts": [
+        {
+          "name": "Shortepa",
+          "cities": []
+        },
+        {
+          "name": "Kaldar",
+          "cities": []
+        },
+        {
+          "name": "Dawlatabad",
+          "cities": []
+        },
+        {
+          "name": "Nahri Shahi",
+          "cities": []
+        },
+        {
+          "name": "Khulm",
+          "cities": []
+        },
+        {
+          "name": "Chahar Bolak",
+          "cities": []
+        },
+        {
+          "name": "Balkh",
+          "cities": []
+        },
+        {
+          "name": "Dihdadi",
+          "cities": []
+        },
+        {
+          "name": "Mazar-e-Sharof",
+          "cities": []
+        },
+        {
+          "name": "Marmul",
+          "cities": []
+        },
+        {
+          "name": "Chimtal",
+          "cities": []
+        },
+        {
+          "name": "Sholgara",
+          "cities": []
+        },
+        {
+          "name": "Chahar Kint",
+          "cities": []
+        },
+        {
+          "name": "Kishindih",
+          "cities": []
+        },
+        {
+          "name": "Zari",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Bamyan",
+      "capital": "Bamyan",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Daykundi",
+      "capital": "Nili",
+      "districts": [
+        {
+          "name": "Nili",
+          "cities": []
+        },
+        {
+          "name": "Sangi Takht",
+          "cities": []
+        },
+        {
+          "name": "Khadir",
+          "cities": []
+        },
+        {
+          "name": "Gizab",
+          "cities": []
+        },
+        {
+          "name": "Ishtarlay",
+          "cities": []
+        },
+        {
+          "name": "Miramor",
+          "cities": []
+        },
+        {
+          "name": "Shahristan",
+          "cities": []
+        },
+        {
+          "name": "Kajran",
+          "cities": []
+        },
+        {
+          "name": "Kiti",
+          "cities": []
+        },
+        {
+          "name": "Pato",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Farah",
+      "capital": "Farah",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Faryab",
+      "capital": "Maymana",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Ghazni",
+      "capital": "Ghazni",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Ghor",
+      "capital": "Chaghcharan",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Helmand",
+      "capital": "Lashkargah",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Herat",
+      "capital": "Herat",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Jowzjan",
+      "capital": "Sheberghan",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Kabul",
+      "capital": "Kabul",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Kandahar",
+      "capital": "Kandahar",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Kapisa",
+      "capital": "Mahmud-i-Raqi",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Khost",
+      "capital": "Khost",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Kunar",
+      "capital": "Asadabad",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Kunduz",
+      "capital": "Kunduz",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Laghman",
+      "capital": "Mihtarlam",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Logar",
+      "capital": "Pul-i-Alam",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Nangarhar",
+      "capital": "Jalalabad",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Nimruz",
+      "capital": "Zaranj",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Nuristan",
+      "capital": "Parun",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Paktia",
+      "capital": "Gardez",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Paktika",
+      "capital": "Sharana",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Panjshir",
+      "capital": "Bazarak",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Parwan",
+      "capital": "Charikar",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Samangan",
+      "capital": "Samangan",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Sar-e Pol",
+      "capital": "Sar-e Pol",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Takhar",
+      "capital": "Taloqan",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Uruzgan",
+      "capital": "Tarinkot",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Wardak",
+      "capital": "Maidan Shar",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Zabul",
+      "capital": "Qalat",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
     }
+  ]
+}

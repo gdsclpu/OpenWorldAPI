@@ -1,16 +1,49 @@
 {
         "country":"Monaco",
-        "capital":"",
-        "currency":"",
+        "capital":"Monaco",
+        "currency":"Euro",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"Monaco",
+                "capital":"Monaco",
                 "districts":[
                     {
-                        "name":"",
+                        "name":"Monte Carlo",
+                        "cities":[]
+                    },
+                    {
+                        "name":" La Rousse",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Larvotto",
+                        "cities":[]
+                    },
+                    {
+                        "name":"La Condamine",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Fontvieille",
+                        "cities":[]
+                    },
+                    {
+                        "name":"La Colle",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Les Révoires",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Moneghetti",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Saint Michel",
                         "cities":[]
                     }
+                    
                 ]
             }
         ]

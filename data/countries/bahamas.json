@@ -1,14 +1,411 @@
 {
         "country":"Bahamas",
-        "capital":"",
-        "currency":"",
+        "capital":"Nassau",
+        "currency":"Bahamian dollar",
         "states":[
             {
-                "name":"",
+                "name":"Acklins",
+                "capital":"Acklins",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Acklins and Crooked",
+                "capital":"Acklins and Crooked",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Berry Islands",
                 "capital":"",
                 "districts":[
                     {
                         "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Bimini",
+                "capital":"Bemini",
+                "districts":[
+                    {
+                        "name":"Alice Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Black Point",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Cat Islands",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Arthur's Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Central Abaco",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Marsh Harbour",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Central Andros",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Central Eleuthera",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Crooked Island",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Colonel Hill",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"East Grand Bahama",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"High Rock",
+                        "cities":[]
+                    }
+                ]
+            },
+                "name":"Exuma",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"George Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Freeport",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"FreePort",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Lucaya",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Fresh Creek",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Governor's Harbour",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Grand Cay",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Green Turtle Cay",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Harbour Island",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Dunmore Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"High Rock",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Hope Town",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Inagua",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Matthew Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Kemps Bay",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Long Island",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Clarence Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Mangrove Cay",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Marsh Harbour",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Mayaguana District",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Abraham's Bay",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Nichollstown and Berry Islands",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"North Abaco",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Cooper's Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"North Andros",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Andros Town",
+                        "cities":[]
+                    },
+                    {
+                        "name":"San Andros",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"North Eleuthra",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Ragged Island",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Duncan Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Rock Sound",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Rum Cay District",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Port Nelson",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"San Salvador Island",
+                "capital":"San Salvador Island",
+                "districts":[
+                    {
+                        "name":"Cockburn Town",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Sandy Point",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"South Abaco",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"South Andros",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"South Eleuthra",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Spanish Wells",
+                "capital":"Spanish Wells",
+                "districts":[
+                    {
+                        "name":"Spanish Wells",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"West Grand Bahama",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"West End",
                         "cities":[]
                     }
                 ]

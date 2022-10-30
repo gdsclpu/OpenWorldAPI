@@ -1,17 +1,969 @@
 {
-        "country":"Cambodia",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
-    }
+    "country": "Cambodia",
+    "capital": "Phnom Penh",
+    "currency": "Riel",
+    "states": [
+        {
+            "name": "Banteay Meanchey",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Mongkol Borel",
+                    "cities": []
+                },
+                {
+                    "name": "Phnom Srok",
+                    "cities": []
+                },
+                {
+                    "name": "Preah Netr Preah",
+                    "cities": []
+                },
+                {
+                    "name": "Ou Chrov",
+                    "cities": []
+                },
+                {
+                    "name": "Serei Saophoan Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Thma Puok",
+                    "cities": []
+                },
+                {
+                    "name": "Svay Chek",
+                    "cities": []
+                },
+                {
+                    "name": "Malai",
+                    "cities": []
+                },
+                {
+                    "name": "Poipet municipality",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Battambang",
+            "capital": "Battambang Municipality",
+            "districts": [
+                {
+                    "name": "Banan",
+                    "cities": []
+                },
+                {
+                    "name": "Thma Koul",
+                    "cities": []
+                },
+                {
+                    "name": "Battambang Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Bavel",
+                    "cities": []
+                },
+                {
+                    "name": "Ek Phnom",
+                    "cities": []
+                },
+                {
+                    "name": "Moung Ruessei",
+                    "cities": []
+                },
+                {
+                    "name": "Rotanak Mondol",
+                    "cities": []
+                },
+                {
+                    "name": "Sangkae",
+                    "cities": []
+                },
+                {
+                    "name": "Samlout",
+                    "cities": []
+                },
+                {
+                    "name": "Sampov Loun",
+                    "cities": []
+                },
+                {
+                    "name": "Phnum Proek",
+                    "cities": []
+                },
+                {
+                    "name": "Kamieng",
+                    "cities": []
+                },
+                {
+                    "name": "Koas Krala",
+                    "cities": []
+                },
+                {
+                    "name": "Rukhak Kiri",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kampong Cham",
+            "capital": "Kampong Cham Municipality",
+            "districts": [
+                {
+                    "name": "Batheay",
+                    "cities": []
+                },
+                {
+                    "name": "Chamkar Leu",
+                    "cities": []
+                },
+                {
+                    "name": "Cheung Prey",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Cham Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Siem",
+                    "cities": []
+                },
+                {
+                    "name": "Kang Meas",
+                    "cities": []
+                },
+                {
+                    "name": "Koh Sotin",
+                    "cities": []
+                },
+                {
+                    "name": "Prey Chhor",
+                    "cities": []
+                },
+                {
+                    "name": "Srey Santhor",
+                    "cities": []
+                },
+                {
+                    "name": "Stueng Trang",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kampong Chhnang",
+            "capital": "Kampong Chhnang Municipality",
+            "districts": [
+                {
+                    "name": "Baribour",
+                    "cities": []
+                },
+                {
+                    "name": "Chol Kiri",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Chhnang Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Leaeng",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Tralach",
+                    "cities": []
+                },
+                {
+                    "name": "Rolea B'ier",
+                    "cities": []
+                },
+                {
+                    "name": "Sameakki Mean Chey",
+                    "cities": []
+                },
+                {
+                    "name": "Tuek Phos",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kampong Speu",
+            "capital": "Chbar Mon Municipality",
+            "districts": [
+                {
+                    "name": "Basedth",
+                    "cities": []
+                },
+                {
+                    "name": "Chbar Mon municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Kong Pisei",
+                    "cities": []
+                },
+                {
+                    "name": "Aoral",
+                    "cities": []
+                },
+                {
+                    "name": "Odongk",
+                    "cities": []
+                },
+                {
+                    "name": "Phnom Sruoch",
+                    "cities": []
+                },
+                {
+                    "name": "Samraong Tong",
+                    "cities": []
+                },
+                {
+                    "name": "Thpong",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kampong Thom",
+            "capital": "Steung Saen Municipality",
+            "districts": [
+                {
+                    "name": "Baray",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Svay",
+                    "cities": []
+                },
+                {
+                    "name": "Stueng Saen Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Prasat Sambour",
+                    "cities": []
+                },
+                {
+                    "name": "Prasat Balangk",
+                    "cities": []
+                },
+                {
+                    "name": "Sandaan",
+                    "cities": []
+                },
+                {
+                    "name": "Santuk",
+                    "cities": []
+                },
+                {
+                    "name": "Stoung",
+                    "cities": []
+                },
+                {
+                    "name": "Taing Kouk",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kampot",
+            "capital": "Kampot Municipality",
+            "districts": [
+                {
+                    "name": "Angkor Chey",
+                    "cities": []
+                },
+                {
+                    "name": "Banteay Meas",
+                    "cities": []
+                },
+                {
+                    "name": "Chhuk",
+                    "cities": []
+                },
+                {
+                    "name": "Chum Kiri",
+                    "cities": []
+                },
+                {
+                    "name": "Dang Tong",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Tranch",
+                    "cities": []
+                },
+                {
+                    "name": "Tuek Chhou",
+                    "cities": []
+                },
+                {
+                    "name": "Kampot Municipality",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kandal",
+            "capital": "Ta Khmau Municipality",
+            "districts": [
+                {
+                    "name": "Kandal Stueng",
+                    "cities": []
+                },
+                {
+                    "name": "Kien Svay",
+                    "cities": []
+                },
+                {
+                    "name": "Khsach Kandal",
+                    "cities": []
+                },
+                {
+                    "name": "Kaoh Thum",
+                    "cities": []
+                },
+                {
+                    "name": "Luek Daek",
+                    "cities": []
+                },
+                {
+                    "name": "Lvea Aem",
+                    "cities": []
+                },
+                {
+                    "name": "Mukh Kampul",
+                    "cities": []
+                },
+                {
+                    "name": "Angk Snuol",
+                    "cities": []
+                },
+                {
+                    "name": "Ponhea Lueu",
+                    "cities": []
+                },
+                {
+                    "name": "S'ang",
+                    "cities": []
+                },
+                {
+                    "name": "Ta Khmau Municipality",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kep",
+            "capital": "Kep Municipality",
+            "districts": [
+                {
+                    "name": "Damnak Chang'aeur",
+                    "cities": []
+                },
+                {
+                    "name": "Kep Municipality",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kon Kong",
+            "capital": "Khemara Phoumin Municipality",
+            "districts": [
+                {
+                    "name": "Botum Sakor",
+                    "cities": []
+                },
+                {
+                    "name": "Kiri Sakor",
+                    "cities": []
+                },
+                {
+                    "name": "Khemara Phoumin Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Smach Mean Chey",
+                    "cities": []
+                },
+                {
+                    "name": "Mondol Seima",
+                    "cities": []
+                },
+                {
+                    "name": "srae Ambel",
+                    "cities": []
+                },
+                {
+                    "name": "Thma Bang",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Kratie",
+            "capital": "Kratie Municipality",
+            "districts": [
+                {
+                    "name": "Chhloung",
+                    "cities": []
+                },
+                {
+                    "name": "Kratie Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Preaek Prasad",
+                    "cities": []
+                },
+                {
+                    "name": "Sambour",
+                    "cities": []
+                },
+                {
+                    "name": "Snuol",
+                    "cities": []
+                },
+                {
+                    "name": "Chetr Borei",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Mondulkiri",
+            "capital": "Saen Monourom Municipality",
+            "districts": [
+                {
+                    "name": "Kaev Seima",
+                    "cities": []
+                },
+                {
+                    "name": "Kaon nheaek",
+                    "cities": []
+                },
+                {
+                    "name": "Ou Reang",
+                    "cities": []
+                },
+                {
+                    "name": "Pechr Chenda",
+                    "cities": []
+                },
+                {
+                    "name": "Saen Monourom Municipality",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Oddar Meanchey",
+            "capital": "Samraong Municipality",
+            "districts": [
+                {
+                    "name": "Snlong Veaneng",
+                    "cities": []
+                },
+                {
+                    "name": "Banteay Ampil",
+                    "cities": []
+                },
+                {
+                    "name": "Chhong Kal",
+                    "cities": []
+                },
+                {
+                    "name": "Samraong Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Trpeang Prasat",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Pailin",
+            "capital": "Pailin Municipality",
+            "districts": [
+                {
+                    "name": "Pailin Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "sala Krau",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Phnom Penh",
+            "capital": "",
+            "districts": [
+                {
+                    "name": "Chamkar Mon",
+                    "cities": []
+                },
+                {
+                    "name": "Daun Penh",
+                    "cities": []
+                },
+                {
+                    "name": "Prampir Makara",
+                    "cities": []
+                },
+                {
+                    "name": "Tuol Kouk",
+                    "cities": []
+                },
+                {
+                    "name": "Dangkao",
+                    "cities": []
+                },
+                {
+                    "name": "mean Chey",
+                    "cities": []
+                },
+                {
+                    "name": "Russey Keo",
+                    "cities": []
+                },
+                {
+                    "name": "Sen Sok",
+                    "cities": []
+                },
+                {
+                    "name": "Pou senchey",
+                    "cities": []
+                },
+                {
+                    "name": "Chroy Changvar",
+                    "cities": []
+                },
+                {
+                    "name": "Prek Pnov",
+                    "cities": []
+                },
+                {
+                    "name": "Chbar Ampov",
+                    "cities": []
+                },
+                {
+                    "name": "Boeng Keng Kang",
+                    "cities": []
+                },
+                {
+                    "name": "Kamboul",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Preah Vihear",
+            "capital": "Preah Vihear Municipality",
+            "districts": [
+                {
+                    "name": "Chey Saen",
+                    "cities": []
+                },
+                {
+                    "name": "Chhaeb",
+                    "cities": []
+                },
+                {
+                    "name": "Choam Khsant",
+                    "cities": []
+                },
+                {
+                    "name": "Kuleaen",
+                    "cities": []
+                },
+                {
+                    "name": "Rovieng",
+                    "cities": []
+                },
+                {
+                    "name": "Sangkum Thmei",
+                    "cities": []
+                },
+                {
+                    "name": "Tbaeng Mean Chey",
+                    "cities": []
+                },
+                {
+                    "name": "Preah Vihear Municipality",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Pursat",
+            "capital": "Pursat Municipality",
+            "districts": [
+                {
+                    "name": "Bakan",
+                    "cities": []
+                },
+                {
+                    "name": "Kandieng",
+                    "cities": []
+                },
+                {
+                    "name": "Krakor",
+                    "cities": []
+                },
+                {
+                    "name": "Phnum Kravanh",
+                    "cities": []
+                },
+                {
+                    "name": "Pursat municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Veal Veaeng",
+                    "cities": []
+                },
+                {
+                    "name": "alou Sen Chey",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Prev Veng",
+            "capital": "Prey Veaeng Municipality",
+            "districts": [
+                {
+                    "name": "Ba Phnum",
+                    "cities": []
+                },
+                {
+                    "name": "Kamchay Mear",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Trabaek",
+                    "cities": []
+                },
+                {
+                    "name": "Kanhchriech",
+                    "cities": []
+                },
+                {
+                    "name": "Me Sang",
+                    "cities": []
+                },
+                {
+                    "name": "Peam Chor",
+                    "cities": []
+                },
+                {
+                    "name": "Peam Ro",
+                    "cities": []
+                },
+                {
+                    "name": "Pea Reang",
+                    "cities": []
+                },
+                {
+                    "name": "Preah Sdach",
+                    "cities": []
+                },
+                {
+                    "name": "Preah Vihear Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Pou Rieng",
+                    "cities": []
+                },
+                {
+                    "name": "Sithor Kandal",
+                    "cities": []
+                },
+                {
+                    "name": "Svay Antor",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Ratanakiri",
+            "capital": "Banlung Municipality",
+            "districts": [
+                {
+                    "name": "Andoung Meas",
+                    "cities": []
+                },
+                {
+                    "name": "Banlung Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Bar Kaev",
+                    "cities": []
+                },
+                {
+                    "name": "Koun Mom",
+                    "cities": []
+                },
+                {
+                    "name": "Lumphat",
+                    "cities": []
+                },
+                {
+                    "name": "Ou Chum",
+                    "cities": []
+                },
+                {
+                    "name": "Ou Ya Dav",
+                    "cities": []
+                },
+                {
+                    "name": "Ta Veaeng",
+                    "cities": []
+                },
+                {
+                    "name": "Veun Sai",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Siem Reap",
+            "capital": "Siem Reap Municipality",
+            "districts": [
+                {
+                    "name": "Angkor Chum",
+                    "cities": []
+                },
+                {
+                    "name": "Angkor Thom",
+                    "cities": []
+                },
+                {
+                    "name": "Banteay Srei",
+                    "cities": []
+                },
+                {
+                    "name": "Chi Kraeng",
+                    "cities": []
+                },
+                {
+                    "name": "Kralanh",
+                    "cities": []
+                },
+                {
+                    "name": "Puok",
+                    "cities": []
+                },
+                {
+                    "name": "Parsat Bankong",
+                    "cities": []
+                },
+                {
+                    "name": "Siem Reap Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Sout Nikom",
+                    "cities": []
+                },
+                {
+                    "name": "Srei Snam",
+                    "cities": []
+                },
+                {
+                    "name": "Svay Leu",
+                    "cities": []
+                },
+                {
+                    "name": "Varin",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Sihanoukville",
+            "capital": "Preah Sihanouk Municipality",
+            "districts": [
+                {
+                    "name": "Preah Sihanouk Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Prey Nob",
+                    "cities": []
+                },
+                {
+                    "name": "Stueng Hav",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Seila",
+                    "cities": []
+                },
+                {
+                    "name": "Kon Rong",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Stung Treng",
+            "capital": "Stung Treng Municipality",
+            "districts": [
+                {
+                    "name": "Sesan",
+                    "cities": []
+                },
+                {
+                    "name": "Siem Bouk",
+                    "cities": []
+                },
+                {
+                    "name": "Siem Pang",
+                    "cities": []
+                },
+                {
+                    "name": "Stung Treng Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Thala barivat",
+                    "cities": []
+                },
+                {
+                    "name": "Borei O'Svay Sen Chey",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Svay Rieng",
+            "capital": "Bravet Municipality",
+            "districts": [
+                {
+                    "name": "Chantrea",
+                    "cities": []
+                },
+                {
+                    "name": "Kampong Rou",
+                    "cities": []
+                },
+                {
+                    "name": "Rumduol",
+                    "cities": []
+                },
+                {
+                    "name": "Romeas Haek",
+                    "cities": []
+                },
+                {
+                    "name": "Svay Chrum",
+                    "cities": []
+                },
+                {
+                    "name": "Svay Rieng Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Svay Teab",
+                    "cities": []
+                },
+                {
+                    "name": "Bavet Municipality",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Takeo",
+            "capital": "Doun Kaev Municipality",
+            "districts": [
+                {
+                    "name": "Angkor Borei",
+                    "cities": []
+                },
+                {
+                    "name": "Bati",
+                    "cities": []
+                },
+                {
+                    "name": "Bourei Cholsar",
+                    "cities": []
+                },
+                {
+                    "name": "Kiri Vong",
+                    "cities": []
+                },
+                {
+                    "name": "Kaoh Andaet",
+                    "cities": []
+                },
+                {
+                    "name": "Prey Kabbas",
+                    "cities": []
+                },
+                {
+                    "name": "Samraong",
+                    "cities": []
+                },
+                {
+                    "name": "Doun Kaev Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Tram Kak",
+                    "cities": []
+                },
+                {
+                    "name": "Treang",
+                    "cities": []
+                }
+            ]
+        },
+        {
+            "name": "Tboung Khmum",
+            "capital": "Suong Municipality",
+            "districts": [
+                {
+                    "name": "Dambae",
+                    "cities": []
+                },
+                {
+                    "name": "Krouch Chhmar",
+                    "cities": []
+                },
+                {
+                    "name": "Memot",
+                    "cities": []
+                },
+                {
+                    "name": "Ou Reang Ov",
+                    "cities": []
+                },
+                {
+                    "name": "Ponhea Kraek",
+                    "cities": []
+                },
+                {
+                    "name": "Suong Municipality",
+                    "cities": []
+                },
+                {
+                    "name": "Tboung Khmum",
+                    "cities": []
+                }
+            ]
+        }
+    ]
+}

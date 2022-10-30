@@ -1,14 +1,408 @@
 {
         "country":"Australia",
-        "capital":"",
-        "currency":"",
+        "capital":"Canberra",
+        "currency":"Australian dollar",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"New South Wales",
+                "capital":"Sydney",
                 "districts":[
                     {
-                        "name":"",
+                        "name":"Greater Sydney",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Newcastle and Lake Macquarie",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Hunter valley",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Illawarra",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Richmond Tweed",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mid North Coast",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Central West",
+                        "cities":[]
+                    },
+                    {
+                        "name":"New England and North West",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Riverina",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Southern Highlands and Shoalhaven",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Coffs Harbour-Grafton",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Far West and Orana",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Murray",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Victoria",
+                "capital":"Melbourne",
+                "districts":[
+                    {
+                        "name":"Melbourne",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Geelong",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ballarat",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bendigo",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Melton",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mildura",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Pakenham",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Wodonga",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Sunbury",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Warrnambool",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Traralgon",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Wangaratta",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bacchus Marsh",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Queensland",
+                "capital":"Brisbane",
+                "districts":[
+                    {
+                        "name":"Brisbane",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Blackwater",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Beaudesert",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Cairns",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Charleville",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Cooktown",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Dalby",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Deception Bay",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Emerald",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Gatton",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Gladstone",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Gold Coast",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Gympie",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"South Australia",
+                "capital":"Adelaide",
+                "districts":[
+                    {
+                        "name":"Adelaide",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ceduna",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Clare",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Gawler",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Iron Knob",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Leigh Creek",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Loxton",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Millicent",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mount Gambier",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Naracoorte",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Port Adelaide Enfield",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Port Augusta",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Port Lincoln",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Western Australia",
+                "capital":"Perth",
+                "districts":[
+                    {
+                        "name":"Broome",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bunbury",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Busselton",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Coolgardie",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Derby",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Geraldton",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Kalgoorlie",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Kambalda",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Katanning",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Kwinana",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Meekatharra",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mount Barker",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Newman",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Tasmania",
+                "capital":"Hobart",
+                "districts":[
+                    {
+                        "name":"Hobart",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Beaconsfield",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bell Bay",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Kingston",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Launceston",
+                        "cities":[]
+                    },
+                    {
+                        "name":"New Norfolk",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Queenstown",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Richmond",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Rosebery",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Stanley",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Smithton",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ulverstone",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Wynyard",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":" Australian Capital Territory",
+                "capital":"Canberra",
+                "districts":[
+                    {
+                        "name":"Canberra",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Northern Territory",
+                "capital":"Darwin",
+                "districts":[
+                    {
+                        "name":"Darwin",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Alice Springs",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Anthony Lagoon",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Katherine",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Tennant Creek",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Litchfield",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Nhulunbuy",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Jabiru",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Yulara",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Palmerston-East Arm",
                         "cities":[]
                     }
                 ]

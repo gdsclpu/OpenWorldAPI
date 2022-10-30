@@ -356,7 +356,35 @@
       "capital": "Xining",
       "districts": [
         {
-          "name": "",
+          "name": "Xining",
+          "cities": []
+        },
+        {
+          "name": "Haidong",
+          "cities": []
+        },
+        {
+          "name": "Haibei",
+          "cities": []
+        },
+        {
+          "name": "Huangnan",
+          "cities": []
+        },
+        {
+          "name": "Hainan",
+          "cities": []
+        },
+        {
+          "name": "Golog",
+          "cities": []
+        },
+        {
+          "name": "Yushu",
+          "cities": []
+        },
+        {
+          "name": "Haixi Mongol",
           "cities": []
         }
       ]
@@ -387,7 +415,21 @@
       "districts": [
         {
           "name": "Baoshan",
-          "cities": []
+          "cities": [
+            "Youyi Road District",
+            "Wusong Subdistrict",
+            "Zhangmiao Subdistrict",
+            "Luodian town",
+            "Dachang town",
+            "Yanghang town",
+            "Yuepu town",
+            "Luojing town",
+            "Gucun town",
+            "Gaojing town",
+            "Miaohang town",
+            "Songnan town",
+            "Baoshan City Industrial Park"
+          ]
         },
         {
           "name": "Changning",
@@ -476,7 +518,67 @@
       "capital": "",
       "districts": [
         {
-          "name": "",
+          "name": "Heping",
+          "cities": []
+        },
+        {
+          "name": "Hedong",
+          "cities": []
+        },
+        {
+          "name": "Hexi",
+          "cities": []
+        },
+        {
+          "name": "Nankai",
+          "cities": []
+        },
+        {
+          "name": "Hebei",
+          "cities": []
+        },
+        {
+          "name": "Hongqiao",
+          "cities": []
+        },
+        {
+          "name": "Dongli",
+          "cities": []
+        },
+        {
+          "name": "Xiqing",
+          "cities": []
+        },
+        {
+          "name": "Jinnan",
+          "cities": []
+        },
+        {
+          "name": "Beichen",
+          "cities": []
+        },
+        {
+          "name": "Wuqing",
+          "cities": []
+        },
+        {
+          "name": "Baodi",
+          "cities": []
+        },
+        {
+          "name": "Binhai ",
+          "cities": []
+        },
+        {
+          "name": "Ninghe",
+          "cities": []
+        },
+        {
+          "name": "Jinghai",
+          "cities": []
+        },
+        {
+          "name": "Jizhou",
           "cities": []
         }
       ]
@@ -486,7 +588,35 @@
       "capital": "Kunming",
       "districts": [
         {
-          "name": "",
+          "name": "Kunming",
+          "cities": []
+        },
+        {
+          "name": "Qujing",
+          "cities": []
+        },
+        {
+          "name": "Yuxi",
+          "cities": []
+        },
+        {
+          "name": "Baoshan",
+          "cities": []
+        },
+        {
+          "name": "Zhaotong",
+          "cities": []
+        },
+        {
+          "name": "Lijiang",
+          "cities": []
+        },
+        {
+          "name": "Pu'er",
+          "cities": []
+        },
+        {
+          "name": "Lincang",
           "cities": []
         }
       ]
@@ -496,7 +626,47 @@
       "capital": "Hangzhou",
       "districts": [
         {
-          "name": "",
+          "name": "Hangzhou",
+          "cities": []
+        },
+        {
+          "name": "Ningbo",
+          "cities": []
+        },
+        {
+          "name": "Wenzhou",
+          "cities": []
+        },
+        {
+          "name": "Jiaxing",
+          "cities": []
+        },
+        {
+          "name": "Huzhou",
+          "cities": []
+        },
+        {
+          "name": "Shaoxing",
+          "cities": []
+        },
+        {
+          "name": "Jinhua",
+          "cities": []
+        },
+        {
+          "name": "Quzhou",
+          "cities": []
+        },
+        {
+          "name": "Zhoushan",
+          "cities": []
+        },
+        {
+          "name": "Taizhou",
+          "cities": []
+        },
+        {
+          "name": "Lishui",
           "cities": []
         }
       ]
