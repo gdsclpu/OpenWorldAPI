@@ -1,10 +1,80 @@
 {
         "country":"Antigua and Barbuda",
-        "capital":"",
-        "currency":"",
+        "capital":"Saint John's",
+        "currency":"Eastern Caribbean dollar",
         "states":[
             {
-                "name":"",
+                "name":"Saint George",
+                "capital":"Coolidge",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Saint John",
+                "capital":"St. John's",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Saint Mary",
+                "capital":"Bolans",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Saint Paul",
+                "capital":"English Harbour",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Saint Peter",
+                "capital":"Parham",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Saint Philip",
+                "capital":"Freetown and Willikies",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Barbuda",
+                "capital":"Codrington",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Redonda",
                 "capital":"",
                 "districts":[
                     {
@@ -13,5 +83,6 @@
                     }
                 ]
             }
+            
         ]
     }
