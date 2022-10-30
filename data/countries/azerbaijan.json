@@ -1,10 +1,270 @@
 {
         "country":"Azerbaijan",
-        "capital":"",
-        "currency":"",
+        "capital":"Baku",
+        "currency":"Azerbaijani manat",
         "states":[
             {
-                "name":"",
+                "name":"Abseron Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Agcabadi Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Agdam Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Agdas Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Agstafa Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Agsu Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Astara Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Baki Sahari",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Balakan Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Barda Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Beylaqan Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Bilasuvar Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Cabrayil Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Calilabad Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Daskasan Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Davaci Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Fuzuli Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Gadabay Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Ganca Sahari",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Goranboy Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Goycay Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Haciqabul Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Imisli Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Ismayilli Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Kalbacar Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Kurdamir Rayonu",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ]
+            },
+            {
+                "name":"Lacin Rayonu",
                 "capital":"",
                 "districts":[
                     {
