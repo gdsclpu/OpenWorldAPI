@@ -1,17 +1,227 @@
 {
-        "country":"Anguilla",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
+  "country": "Anguilla",
+  "capital": "The Valley",
+  "currency": "Eastern Caribbean dollar",
+  "states": [
+    {
+      "name": "The Valley",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "White Hill",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Crocus Hill",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Cannifist",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Bungalows",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Bethel",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Long Ground",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Shoal Bay Village",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "West End Village",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Little Dix",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Island Harbour",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "The Quarter",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Long Bay Village",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "The Fountain",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "East End Village",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Long Bay",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Long Path",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "North Hill Village",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Junks Hole",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Betty Hill",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Blowing Point",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Mount Fortune",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
     }
+  ]
+}
