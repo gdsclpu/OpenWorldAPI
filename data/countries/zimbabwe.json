@@ -1,17 +1,17 @@
 {
-        "country":"Zimbabwe",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
-    }
+    "country":"Zimbabwe",
+    "capital":"",
+    "currency":"",
+    "states":[
+        {
+            "name":"",
+            "capital":"",
+            "districts":[
+                {
+                    "name":"",
+                    "cities":[]
+                }
+            ]
+        }
+    ]
+}
