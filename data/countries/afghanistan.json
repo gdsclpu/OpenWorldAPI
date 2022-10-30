@@ -202,7 +202,63 @@
       "capital": "Mazar-i-Sharif",
       "districts": [
         {
-          "name": "",
+          "name": "Shortepa",
+          "cities": []
+        },
+        {
+          "name": "Kaldar",
+          "cities": []
+        },
+        {
+          "name": "Dawlatabad",
+          "cities": []
+        },
+        {
+          "name": "Nahri Shahi",
+          "cities": []
+        },
+        {
+          "name": "Khulm",
+          "cities": []
+        },
+        {
+          "name": "Chahar Bolak",
+          "cities": []
+        },
+        {
+          "name": "Balkh",
+          "cities": []
+        },
+        {
+          "name": "Dihdadi",
+          "cities": []
+        },
+        {
+          "name": "Mazar-e-Sharof",
+          "cities": []
+        },
+        {
+          "name": "Marmul",
+          "cities": []
+        },
+        {
+          "name": "Chimtal",
+          "cities": []
+        },
+        {
+          "name": "Sholgara",
+          "cities": []
+        },
+        {
+          "name": "Chahar Kint",
+          "cities": []
+        },
+        {
+          "name": "Kishindih",
+          "cities": []
+        },
+        {
+          "name": "Zari",
           "cities": []
         }
       ]
@@ -222,7 +278,43 @@
       "capital": "Nili",
       "districts": [
         {
-          "name": "",
+          "name": "Nili",
+          "cities": []
+        },
+        {
+          "name": "Sangi Takht",
+          "cities": []
+        },
+        {
+          "name": "Khadir",
+          "cities": []
+        },
+        {
+          "name": "Gizab",
+          "cities": []
+        },
+        {
+          "name": "Ishtarlay",
+          "cities": []
+        },
+        {
+          "name": "Miramor",
+          "cities": []
+        },
+        {
+          "name": "Shahristan",
+          "cities": []
+        },
+        {
+          "name": "Kajran",
+          "cities": []
+        },
+        {
+          "name": "Kiti",
+          "cities": []
+        },
+        {
+          "name": "Pato",
           "cities": []
         }
       ]
