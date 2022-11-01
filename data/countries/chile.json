@@ -1,17 +1,147 @@
 {
-        "country":"Chile",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
+  "country": "Chile",
+  "capital": "",
+  "currency": "",
+  "states": [
+    {
+      "name": "Aysen",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Antofagasta",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Arica y Parinacota",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Atacama",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Biobio",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Coquimbo",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Libertador General Bernardo O'Higgins",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Los Lagos",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Los Rios",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Magallanes",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Maule",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Region Metropolitana",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Tarapaca",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Valparaiso",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
     }
+  ]
+}
