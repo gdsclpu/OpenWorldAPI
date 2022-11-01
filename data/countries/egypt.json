@@ -1,10 +1,462 @@
 {
         "country":"Egypt",
-        "capital":"",
-        "currency":"",
+        "capital":"Cairo",
+        "currency":"Egyptian pound",
         "states":[
             {
-                "name":"",
+                "name":"Alexandria",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Al Montazah Awal",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Montazah Tany",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Central",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Western",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Amreya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al Agamy",
+                        "cities":[]
+                    }
+                ],
+                "name":"Aswan",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Abu Simbel",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Aswan",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Aswan 1",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Aswan 2",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Daraw",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Edfu",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Kom Ombo",
+                        "cities":[]
+                    },
+                    {
+                        "name":"New Aswan",
+                        "cities":[]
+                    },
+                    {
+                        "name":"New Tushka",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Nasser City",
+                        "cities":[]
+                    }
+                ],
+                "name":"Asyut",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Beheira",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Beni Suef",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Cairo",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Abbassia",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Ain Shams",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Azbakeya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Bulaq",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Daher",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-Darb al-Ahmar",
+                        "cities":[]
+                    },
+                    {
+                        "name":"El Marg",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Helwan",
+                        "cities":[]
+                    },
+                    {
+                        "name":"15th of May",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mokattam",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Al-Qarafa",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Manshiyat Naser",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Nasr City",
+                        "cities":[]
+                    },
+                    {
+                        "name":"El Qobbah",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Rhoda Island",
+                        "cities":[]
+                    },
+                    {
+                        "name":"El Manial",
+                        "cities":[]
+                    },
+                    {
+                        "name":"El Sakkakini",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Shubra",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Shubra El Sahel",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Rod El Farag",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Zeitoun",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Coptic Cairo",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Downtown Cairo",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Faggala",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Fustat",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Islamic Cairo",
+                        "cities":[]
+                    },
+                    {
+                        "name":"El Matareya",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Old Cairo",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Garden City",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Heliopolis",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Maadi",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Zamalek",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Badr",
+                        "cities":[]
+                    },
+                    {
+                        "name":"",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Madinaty",
+                        "cities":[]
+                    },
+                    {
+                        "name":"New Cairo",
+                        "cities":[]
+                    },
+                    {
+                        "name":"El Rehab",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Fifth Settlement",
+                        "cities":[]
+                    },
+                    {
+                        "name":"New Heliopolis",
+                        "cities":[]
+                    },
+                    {
+                        "name":"El Shorouk",
+                        "cities":[]
+                    }
+                ],
+                "name":"Dakahlia",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Damietta",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Faiyum",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Gharbia",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Giza",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Agouza",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mit Okba",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Imbaba",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Kerdasa",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Dokki",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Mohandessin",
+                        "cities":[]
+                    },
+                    {
+                        "name":"6th of October",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Sheikh Zayed",
+                        "cities":[]
+                    }
+                ],
+                "name":"Ismailia",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Kafe El Sheikh",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Luxor",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Matruh",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Minya",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Monufia",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"New Valley",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"North Sinai",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Port Said",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Qalyubia",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"Shubra El Kheima",
+                        "cities":[]
+                    },
+                    {
+                        "name":"Obour",
+                        "cities":[]
+                    }
+                ],
+                "name":"Qena",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Red Sea",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Sharqia",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Sohag",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"South Sinai",
+                "capital":"",
+                "districts":[
+                    {
+                        "name":"",
+                        "cities":[]
+                    }
+                ],
+                "name":"Suez",
                 "capital":"",
                 "districts":[
                     {
