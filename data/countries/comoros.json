@@ -1,17 +1,97 @@
 {
-        "country":"Comoros",
-        "capital":"",
-        "currency":"",
-        "states":[
-            {
-                "name":"",
-                "capital":"",
-                "districts":[
-                    {
-                        "name":"",
-                        "cities":[]
-                    }
-                ]
-            }
-        ]
+  "country": "Cameroon",
+  "capital": " Yaoundé",
+  "currency": "",
+  "states": [
+    {
+      "name": "Adamaoua",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Centre",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Est",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Littoral",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Nord",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Nord-Ouest",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Ouest",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Sud",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
+    },
+    {
+      "name": "Sud-Ouest",
+      "capital": "",
+      "districts": [
+        {
+          "name": "",
+          "cities": []
+        }
+      ]
     }
+  ]
+}
