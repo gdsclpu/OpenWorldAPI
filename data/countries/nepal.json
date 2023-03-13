@@ -1,15 +1,15 @@
 {
         "country":"Nepal",
-        "capital":"",
-        "currency":"",
+        "capital":"Kathmandu",
+        "currency":"NPR",
         "states":[
             {
-                "name":"",
-                "capital":"",
+                "name":"Bagmati",
+                "capital":"Hetauda",
                 "districts":[
                     {
-                        "name":"",
-                        "cities":[]
+                        "name":"chitwan",
+                        "cities":[bharatpur,ratnanagar,madi,icchyakamana]
                     }
                 ]
             }
